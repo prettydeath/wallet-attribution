@@ -1,0 +1,156 @@
+[
+  {
+    "address": "0x618F37D7ff7B140E604172466CD42D1Ec35E0544",
+    "network": "ethereum-classic",
+    "entity": "Bitfinex",
+    "label": "Bitfinex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x88037f361891A0B5De3C0C30632fBcA7DB2D341F",
+    "network": "ethereum-classic",
+    "entity": "Bitfinex",
+    "label": "Bitfinex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x246a2ecd9626f9eda55fffbff5216ed417a904f5",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x354e0184a6a6e634ccb07388e2617e05e427563c",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x35b31ae2604dd81d9456205025ea02418dba8242",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x4bbe1961bd0a6cd1fe3cd8947be15bd8ae2ee562",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x6596da8b65995d5feacff8c2936f0b7a2051b0d0",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x840760aed6bbd878c46c5850d3af0a61afcd09c8",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xd793281182a0e3e023116004778f45c29fc14f19",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xffeb0f61871acdb4838dfc6d5082f063e738e421",
+    "network": "ethereum-classic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xd882cfc20f52f2599d84b8e8d58c7fb62cfe344b",
+    "network": "ethereum-classic",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (ETC)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

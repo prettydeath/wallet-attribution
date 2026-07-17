@@ -1,0 +1,829 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+bc1qaxyju6n2x2tednv8e7hgnhnz44vrfcmuhjxpfk,bitcoin,BTSE,BTSE (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3PYizTwdQy34GbpzC2D5QmfatUeetc2sEE,bitcoin,Biconomy,Biconomy (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q8pmj4kgvmg0yqpjhqwr9gqxhktlndzultkwaaz,bitcoin,Biconomy,Biconomy (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qlz4as7vs8jr5glhxtee3a0vr40j56uslg24r0w,bitcoin,Biconomy,Biconomy (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qx70fn2550vhjetc748wmg4lzv5gy7t56ns92v8,bitcoin,Biconomy,Biconomy (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1L5D4Eq2RkEKuN717Gc817MH1Sxs5WwMQh,bitcoin,BigONE,BigONE (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qu02z43yduyjx6saeea4l54qqulvz568qnzgaes,bitcoin,BigONE,BigONE (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1PJiGp2yDLvUgqeBsuZVCBADArNsk6XEiw,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Pzaqw98PeRfyHypfqyEgg5yycJRsENrE7,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+32BgTv3NSYbMsBTwDbNNN2GKZPCTJSkqDv,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+32bhzEniykYRFADVaRM5PYswsjC23cxtes,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+34GUzCVLbdkMQ2UdVTaA4nxPwoovVS7y2J,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+34HpHYiyQwg69gFmCq2BGHjF1DZnZnBeBP,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+36zSLdRv1jyewjaC12fqK5fptn7PqewunL,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+38DN2uFMZPiHLHJigfv4kWC9JWJrNnhLcn,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+38Xnrq8MZiKmYmwobbYdZQ5nnCbX1qvQfE,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+395vnFScKQ1ay695C6v7gf89UzoFpx3WuJ,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+39884E3j6KZj82FK4vcCrkUvWYL5MQaS3v,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3AQ8bAh88TQU7JV1H3ovXrwsuV6s3zYZuN,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3AeUiDpPPUrUBS377584sFCpx8KLfpX9Ry,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3CySuFKbBS29M7rE5iJakZRNqb3msMeFoN,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3E97AjYaCq9QYnfFMtBCYiCEsN956Rvpj2,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3F3HXxeNpmAovCMByiwC6MYHcogZCJtgRt,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3FHNBLobJnbCTFTVakh5TXmEneyf5PT61B,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3HdGoUTbcztBnS7UzY4vSPYhwr424CiWAA,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3JFJPpH8Chwo7CDbyYQ4XcfgcjEP1FGRMJ,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3JJmF63ifcamPLiAmLgG96RA599yNtY3EQ,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3JqPhvKkAPcFB3oLELBT7z2tQdjpnxuDi9,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Jy7A2rThtU9xm4o8gR3a9pvQuxXnRNuNF,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3LQUu4v9z6KNch71j7kbj8GPeAGUo1FW6a,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3LYJfcfHPXYJreMsASk2jkn69LWEYKzexb,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3LcgLHzTvjLKBixBvkKGiadtiw2GBSKKqH,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3LtrsjtyLsHoG8WQMe2RFw3de4pLTQZNcY,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3M219KR5vEneNb47ewrPfWyb5jQ2DjxRP6,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Me9QACjioepv2L2oKTC9QQ87NH6vFe1Zj,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3NPL82eaehTFh4r3StpHqVQBTnZJFaGsyy,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3NXCvmLGz9SxYi6TnjbBQfQMcwiZ1iQETa,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3NjHh71XgjikBoTNYdWgXiNeZcLaKNThgb,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3PXBET2GrTwCamkeDzKCx8DeGDyrbuGKoc,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3QK5vQ9hucSg8ZC8Vizq83qEWeHFLAWMud,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Qxak1CZhLyZ7GVckKphLURdLBCjMfz9bA,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q32lyrhp9zpww22phqjwwmelta0c8a5q990ghs6,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q78ufzeu8w8fwvxuphrdlg446xhyptf28fkatu5,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q7t9fxfaakmtk8pj7tdxjvwsng6y9x76czuaf5h,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qdtmav38lca8yu3rrcknnqx5242cckgxqws7m72,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h,bitcoin,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q302u45q2hqafhdaehkkzqkf0l0vkz5l7exx307,bitcoin,BingX,BingX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q3h8dk28faa94e9gmw4p0lvywqkw2sazyt3pl05,bitcoin,BingX,BingX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qr8e6kmev99jxnk7hpyhex434t59ke5tpvmnyd3,bitcoin,BingX,BingX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qzzn5tszxn3ha87xfke540k8pr4favsk9cusakq,bitcoin,BingX,BingX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+358pjjkYRG8exw2BKZnn7Q9s6SCb7wZEWN,bitcoin,BitVenus,BitVenus (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3C1ykoWkHBMZwmY8PUUMVxtJJSBkZBCtN8,bitcoin,BitVenus,BitVenus (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3FdoFGYYcD1EU7ekrt2x2u2mFrjmxouMJG,bitcoin,BitVenus,BitVenus (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qrm2a7u9xyeffvulm6e589qvesmt0v0rjxqfkhv,bitcoin,BitVenus,BitVenus (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qvht34dma2uy23l9j862nnqr38a42kjr66e6lec,bitcoin,BitVenus,BitVenus (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Kr6QSydW9bFQG1mXiPNNu6WpJGmUa9i1g,bitcoin,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3JZq4atUahhuA9rLhXLMhhTo133J9rF97j,bitcoin,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97,bitcoin,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1FWQiwK27EnGXb6BiBMRLJvunJQZZPMcGd,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1GDn5X4R5vjdSvFPrq1MJubXFkMHVcFJZv,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1NZc5p5YQ21tGjVrurzczq56SVq2tiH6dt,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1PPyiSbdQeo83ezje6Yv8L3UWpDcx4NtSB,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1PX5L73e5325fdrSwDHNTuq8RMM9JKR34q,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+32qqF3w9W96S6br5x3cR75fgtFZwshjh4X,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+33orXrdG44b7uexFP7Yxdqy1m3FirNtdTE,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+34hatYbZ27CLLoZWhuJHzBgoTCwXEv8GwT,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3AZHcgLnJL5C5xKo33mspyHpQX7x4H5bBw,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3DSST4myyyRbiGzgCBE1RVHY7GRjDCh4n9,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3GbdoiTnQrJYatcr2nhq7MYASSCWEKmN6L,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Gm1h16ov9cH4o4mChapGUai61K1bAXL3c,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3H6JnFoz5jcoATKQ83BuQ3cUUCHswqfgtG,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3HcSp9sR23w6MxeRrLqqyDzLqThtSMaypQ,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Jxc4zsvEruEVAFpvwj818TfZXq5y2DLyF,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3KUwtHc5UhWQ76z6WrZRQHHVTZMuUWiZcU,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3MdofQ2ouxom9MzC9kKazGUShoL5R3cVLG,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3NnoMUQnURz29QLJcvQ5Xy6ztgJ4TYmqY3,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Nu84pbqfcfaFztQ74qc9ni2PH5HGM1bzS,bitcoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3F12ncAyx4VkfpvnS7ZxdpggFx4p9RKfVe,bitcoin,Bitmake,Bitmake (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3D7pZri6kLqXDQMbf5G8De39K36eBaNKBG,bitcoin,Bitunix,Bitunix (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qhjfnumgcsqsx6grxa7mfl7rr5g3u8xl4gtt7tr,bitcoin,Bitunix,Bitunix (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qhx6x3c3nhyh4d2fsujjcaatc27xslyg6zju8p5,bitcoin,Bitunix,Bitunix (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qkvrddql6hh00apslzsxnysl75hhnm5fpqdah37,bitcoin,Bitunix,Bitunix (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qxh9ruwejxz7ztzxejafd74tyxg4sgfeqxun42f,bitcoin,Bitunix,Bitunix (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+15Zvb1QArGReWEDc2PTHgaUodAkyRYNnA2,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+18obUe1Br36ZcY8GsPDTrrLSjhURpy5A3M,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+19Q7qteD5pKEGVA5ajoQ2bBRNn1MxiyEYb,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1BKWQjCcRGjs9TozqbUEiPnehtzGVmHPXT,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1EiHy6dJRR9gbuyjNvTqg76aZtHG1Ao3PK,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Jw4meLNYAaDcNxJwQdMTRVw74hGPcuV8W,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1L153qzyQdrnYuPDeGyyBEHmXyUqWXHzTn,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1LNZ4tzv6FzQ3mUHBkuUqwb232Miu9541h,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1PM8huQVFSirUT7eAwNm3rBBYTsDRzCaf3,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q2kvvk4dfp9g0z5v9cw5ajqnvt78gh4jwfyyn9s,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q6377fdmkvkhgzpw8drgu76jxulsl5wmmgwtrxu,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q6pku29sx4fv5d4e6pt4yvfsc2ummmamud75mvn,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qje5d5esrgu03d80k0g4kwjn8kvektlcmvk8gk4,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qtssyj8zfs6hzfvr67r86ptl7wykf352md0637r,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qwyc5km9j23enhtfke96wt9ejqe9hwdpg222f7f,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qxgdghfmmmxfsegpda7sw9kdj7h2qq8djgdee8m,bitcoin,Blofin,Blofin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+12XZMdaAGmcHf4ocFSqpd8jFd1WH7RHUPs,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+12rFmDggwCNrRL6vuPEjzCDSskTRPjDajP,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+139RYdfv7vNtbnK88juMR3s4pgwvB4db9Y,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14ug9BVtGnxY8ezvd5cr1PXHeXBYXkpsdw,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+16jVbMCcqq1deKrMB3esL2HPso7kvqUsec,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1DLeNApsHNNzUMNZJVoXeyEY5sdp8vzx3w,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1GrwDkr33gT6LuumniYjKEGjTLhsL5kmqC,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1HDnsptgeJ6fYFHCgd1TFzLSRpuVcV51GL,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1KHch51TT2eazxYkUXtr38GXtPTjf8Mue,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Ko6Sbu8VgZaQNZMfRgNjR8zVzVN9wL7aX,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1LrsskS2hmLvevKiqASDymS8xRmJ7Gp83u,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Nb9NUVWpjruzafXh2uKK5v5xxEEL1hPrH,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1P7o14PYsuiaj57DUDWoeD8f36fsc4VgVf,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q0npwm7hphq4w3pn0m4nr5hmum2sdg725edylgn,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q2qqqt87kh33s0er58akh7v9cwjgd83z5smh9rp,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q59nmn5v9tz36talq7g090yue5kf7actqr62f96kakte70eu2948sw6ddxr,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q7enk8z5gkuzk2sla4vnmzh5qq8jq6wptx0pty5,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q9w4g79ndel72lygvwtqzem67z6uqv4yncvqjz3yn8my9swnwflxsutg4cx,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qa2eu6p5rl9255e3xz7fcgm6snn4wl5kdfh7zpt05qp5fad9dmsys0qjg0e,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qjysjfd9t9aspttpjqzv68k0ydpe7pvyd5vlyn37868473lell5tqkz456m,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qmv30sf5tnlx52x6vszl0gmey7vae6elzpm2zxw,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qpz86ltanq6042k36rs0yl0wjpd6tgu8fwckan7,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qqc0h2sxt9lvrsqt90rtpjqnjj7qcwv457g28h2,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qr7dl0rtnfvzkfqrvctpk068c8zluknkzapwhe9,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qs5vdqkusz4v7qac8ynx0vt9jrekwuupx2fl5udp9jql3sr03z3gsr2mf0f,bitcoin,Bybit,Bybit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+12T8i8tpeczk5JGf8ppZf1w6SFBRwEa9y4,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+12hGEyxk4zMLquxiMiFrkvYSohsXz2D3uZ,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1477uXZ1NfUaaZZdnztQ7h8ftGRpuWQPfA,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+17mxRZ9WeXigSwg3Cm62HxeATnuUphMxGL,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1F6CrpEnHEZh6gQtJ7cf1MtK7Y8GYKoP4i,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1JV3umtGC6H6tFUVoFyV5KwbJDscUwrtX7,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1KXxS6QnzpB8mSLm5kmXJXqvZF7wVvQDCw,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1MzSJodjNmACPKyj9VUv9X55Pby87osLhc,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1PRwacjHVksLNTkSYNkiWkRgTm1yDSgLMG,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1avi3SkWKGLis8dGCP9JUnFfVeheP8wkt,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Dm2TL1pt1VzeBCq9jgvQG81QPv19PyReh,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q7c9ylgjsyc0yaxwm84jjh6avfajzfe7dhk6e0e,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qedxsgzuj8ga644gwlqw4nw7f3xncq4g2rskmzu,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qffg4ya27430vv5ymg2lhf4mj7tvtc3ur5qyyq3,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qhlyrdhfqry06nj902p9dxdftm4pxkhdqeum8y8,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qljm7vwdgdy6ca97stsyjyl3zdjtkdsdm8vnh8f,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qmulc2ju4kykj24xuw0fu73h9h3usa897xhaucz,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qn2xm6agnanuyuwfcfw92el7nvt2lpsqr5s5c0w,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qpl5kqjkugyncr72a4fhxvm0360ehfdl27e00ja,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qqe4g7sjxzk90nsgj0mwufwcdtd7kufg7k32xch,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qqhwh3tcg5duwq7hdlnlr5n2tg2uq755cwmkjqn,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qucl4n347qc6e48w85xdxcv86sm3an8fr250hhm,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qygg2x02cfy0e6r7798v4qrcjjkzm8tl5t0xkwf,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qz22hegkllltcydg3pz3an6h352mjmyp7n2vhd9,bitcoin,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+141TDnaiLEW1vE5xd42Dw8HEhDCA2qrZTr,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14BhR6aE8Fkt2c8E1m2ydx76fBz5kpt62K,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14ukjw4r3UFC5A8yvG7yt2GdvLUHEWtskS,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+152GodsXfK5kYMdH4spzYD3Ttm1u2oNipN,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+15cYMF4jcRwpcbjENMdMizCzAmd7Pc51So,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+16M3n9p6CLATDnpsJNTjCn22AaxzErxg5V,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+189myj1KAbiCWfqWhT6Td4noANKBuag3QN,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+18JQXgQ4GjZAuYCy1fNAFGHVEAWUui2q9h,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+18oxoXCq5mah3GjLjGCS3BRTQxxN7738rL,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1C2Pxf3ghtKyM4mKC3xSLKrN33YcKnKF2a,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1DGXwH2gzBYM6UrVE57DaaQ3hJJm3s32YK,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Ef59jZsv87uAcwBZdDhNxiSbCceQ6bFTA,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Ew9SPwBHY8GjHd3uBxhtGcvVmyBN7PHcw,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1H21g458T25SnAzvFDJiBrcyhfwHiCH5YF,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1JZw5HYSoAEfvGGVQ4U2JihZaQkjcXrr2i,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1LGbUy11yMaNC9s73q7vEad8JTZyczCima,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1LYrQCjUf54vf9G4qwFpJQ9RCyL2DprPqQ,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+31nXEifPqiUL3hqfTP5epd93s3ShNLnWL4,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qqz623jyqdsh2w5y5kdmzk2ws6mzr2mt2etv5gx,bitcoin,CoinEx,CoinEx (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14Z9KSmCo1UjvBiXj2j9er35GmGmaFxsmE,bitcoin,CoinW,CoinW (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1KYBKqRjGbRynSiyoiHndULssXrEeWhvU8,bitcoin,CoinW,CoinW (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1P7cDFGeWm6ezez6XGXTAjvm8qcsGiMXe7,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q0k5rpdwf7wnq3fuk7dfjqd59p3ke7ufqmlkfp4,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qdstretw2uvhjen7hvgaya3nsjgr430x9jhqf4a,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qez6ezccleuac4dnj5cpexz5mz3j0j3j655j6qn,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qg6a9kpmge0fdwtrymjvq3cydfzgpcge7e05e7z,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qg8fywv20ztsp0edtf53zpsnxeu5cqxrmdwmtjd,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qm5mqpgtt2ufucfdvhu5xcdgs3vzehwu62wsyqy,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qmkkejzrq7ayfjpy7w8gmkhd3uwcy7nryr5apch,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qsjc50kf72r4q44ac28v3vrukaxjg4w30rh0cmm,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qyz9mssutu8xxcgjvsucz38qvxt7hxwtnm5eh8k,bitcoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14m3sd9HCCFJW4LymahJCKMabAxTK4DAqW,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3LhhDLBVWBZChNQv8Dn4nDKFnCyojG1FqN,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3QsGsAXQ4rqRNvh5pEW55hf3F9PEyb7rVq,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q4c8n5t00jmj8temxdgcc3t32nkg2wjwz24lywv,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qcdqj2smprre85c78d942wx5tauw5n7uw92r7wr,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qjqy709gqpse60hdsm2d2v0dzzu7yp5dej7fdrpl2x3taccvujq4s0vzsyd,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qpy4jwethqenp4r7hqls660wy8287vw0my32lmy,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qr4dl5wa7kl8yu792dceg9z5knl2gkn220lk7a9,bitcoin,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+13JJ1nxDeX5fMsDeyGHiLoK8rF2ayGq1cX,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14HeA1YRUiJGb95HVpVTBuavMUBYGk6y7R,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1932eKraQ3Ad9MeNBHb14WFQbNrLaKeEpT,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1MDq7zyLw6oKichbFiDDZ3aaK59byc6CT8,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1MdrdcEzfiJdvs6eVSwUx6bWboPX8if5U3,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+34ZHV8dd6uucEUABUydWpKi6F4qKQntEUf,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+35WHp4Hid61peyH4tuhNunwRj2gtNB41Lo,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q2qkuk5hr6yjw2jshtrfqw29tyy3x62rqk3ep6x,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q78c4tk53hx28ladm3j7cn8x7yw6gnh38ur8j47,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qa3phj5uhnuauk6r62cku6r6fl9rawqx4n6d690,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qdk5y6mztxustg20zqgtfn88cec3f9u8la7dk4f,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qf6lm99tp5p27hsmyskve236nsv32lnfwt4h8wk,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qnecufhyxp2dlymcs63asygydjs9x2k55scuc5s,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qrmuxak470z7zch5f3gz05dc6h4ngwqdq4wx80w,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qtq5zfllw9fs9w6stnfgalf9v59fgrcxxyawuvm,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qws342rlkhszh58rtn35zrw7w076puz83gkcufy,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qzwhw94uldd3c8736lsxrda6t6x56030f8zk8nr,bitcoin,Deribit,Deribit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qs7yen7ljpvyw7vn58ql6zfaddqf4rcjalsgmt5,bitcoin,Fastex,Fastex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q36c0rp4ydl6uvvguhw9nr7njm49addzkgftqev,bitcoin,Fire,Fire (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q3z0khuld6nd7esv46nxj9ketteqw9qz86peyeh,bitcoin,Fire,Fire (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q4hz59t7v0uxujuyrhp9679uppur7ke9u3vshvd,bitcoin,Fire,Fire (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qdlrh7ycyqxe62vk5m70y353vmep9ullxx5j9ar,bitcoin,Fire,Fire (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+31iAUikiV7yKEYBzbA1iHPcanHNsLBFe8C,bitcoin,Flipster,Flipster (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14kmvhQrWrNEHbrSKBySj4qHGjemDtS3SF,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+162bzZT2hJfv5Gm3ZmWfWfHJjCtMD6rHhw,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1ECeVF6wfbiihCRrrpRnkbwrWsZfYmixMG,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1EkkGXR7dTbZbrKFKoe6YEP4gj4GzMeKvw,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1FLKsCiEsABS7LysfDA8R181TQ6eLjoxPv,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1FhncfokiSDagazXbuVqKQ6ew4oyDmAzhG,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1G47mSr3oANXMafVrR8UC4pzV7FEAzo3r9,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1HpED69tpKSaEaWpY3Udt1DtcVcuCUoh2Y,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1L1SN3BxXaXEAzzGcWqjF9svxmN6F2mBoR,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3HroDXv8hmzKRtaSfBffRgedKpru8fgy6M,bitcoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+38UmuUqPCrFmQo4khkomQwZ4VbY2nZMJ67,bitcoin,Gemini,Gemini (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3Kzh9qAqVWQhEsfQz7zEQL1EuSx5tyNLNS,bitcoin,Gemini,Gemini (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3MgEAFWu1HKSnZ5ZsC8qf61ZW18xrP5pgd,bitcoin,Gemini,Gemini (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1quq29mutxkgxmjfdr7ayj3zd9ad0ld5mrhh89l2,bitcoin,Gemini,Gemini (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qpxntlx09kqvpwl7vmjw9f28yvytdqkdx8xh63w,bitcoin,HIBT,HIBT (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+12qTdZHx6f77aQ74CPCZGSY47VaRwYjVD8,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+143gLvWYUojXaWZRrxquRKpVNTkhmr415B,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14o5ywJJmLPJe8egNo7a5fSdtEgarkus33,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1AQLXAB6aXSVbRMjbhSBudLf1kcsbWSEjg,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1BuiWj9wPbQwNY97xU53LRPhzqNQccSquM,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1ENWYLQZJRAZGtwBmoWrhmTtDUtJ5LseVj,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1HckjUpRGcrrRAtFaaCAUaGjsPx9oYmLaZ,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1L15W6b9vkxV81xW5HDtmMBycrdiettHEL,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1LXzGrDQqKqVBqxfGDUyhC6rTRBN5s8Sbj,bitcoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+18oxobhCNKnHjb7nEFDmPdXbCZthFWezrm,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1DywJMqHHMWuP7xyfkRqJZCEe7GdEKFRcp,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1NfJSiqBw4fb74KgVQrPsk5W5aqitAD1Xv,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q9d5lq9psmkx9rtgewjgez7csg45faak2cccew8,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qlrawqecuwgpzzwh04pkhtfsqsk33kald22ds3c,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qqe394jlqq86muq23d4vrnhzzvcv8jnepgt8lx7,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qvf35autwy0knhh3sj7suupmw3w94r4r9c2ry5z,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qyvppkaa74d9jvtz664a6uxmj09hf0eyg3uhx4h,bitcoin,HashKey,HashKey (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1MiFZMJkFMhMrubjjo6f5oEhh7XgSwXWgp,bitcoin,Hotbit,Hotbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+15VHjDwgzYoGTQdxUH7rJw5zvzb3y143Ap,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+161AnGzEDJvwfZ6kW5maWigyMvN4vYWyq7,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1893nTioDembAdRTbx1V4EqYgsfs4nVo6i,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1D5a76Rn9VV8iGS5AV7jmMfJTQcPPYuaey,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1JtAupan5MSPXxSsWFiwA79bY9LD2Ga1je,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1Q7Xi7BdSwqEozSc8zneH7F6MTsYxv2MhV,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1izotKDuwjVdKSdMmatLaUx7iZf39WF3u,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3E8BTrBB7jxAemyUqSnN4YFLMC22cShZJZ,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3GoBetHTvfnaRNQbR4yy5YNUjX4d8mTQKK,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q09j44e0xxxusj3zsan20x7tuvtumxfv9smlq27t0nwp57gxf7htqq6m9lj,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q0uffd8egas4w87dxq998ttfl6j3jtw6k7cafce9v4mvr5qc9tvfq9czqk9,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q33m8td986p3vcnap9zqpx3d8v8zujtkvqacsya5xfvf945vmvxzqth4h4t,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q3yn06lfl8ayjukya52ksff0uaveurfc8lm3ftdgu8ywvwanx8lqswj7w9u,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q4sv2fxlp6w08wkq8ywmughxkm7n75d2fmrgnmvwun6rhepyknjxqm99v4x,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q7fww9657ts2au45wh0ed39rjze6ja93z0498z4j89pqjky266wzs0sz8ka,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q9pnwfyd4jtkulyk4w057wsdjhykaw6fftw06k2cn2m3y7jlsfe2qvxvm8e,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qa8may4g0yzezjyesqcq0mwggy5wwzl0yhs0a8tk9ucej5qg6ujfqscv2jq,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qgkx4ee8ac3as5y4ddhw6uedyk9adsywdzgc0fzxv304lcrh4qs9sn96agt,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qku6z53kuyaj9r898kj6esqnwz7wke82mwgw43vhu33ld7sx3200s2u9p9x,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1ql0p3klhr2d8z07ja3t5d5dnxrenhp4gcjeszxpfflr08zaqqx5zqpkeqnl,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qnerwvz93pcj653r5yd4hnd2d7np2drhdhyruj7qdvl3psc5wnf0q6x9me4,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qs9ut74nue7vjknz2eqxegmtuzqhjzx9y8tzjymvlg05v8a5ffr5qz402cx,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qsk6h7d2l7e7r2a8krlxjn6wdnhhszyrtzcugdsfa5zz4syajzl5spd52h5,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qsmqvkwrsy5xw2hm885l5fv7s2hxzauz5fn9jayfmd86305wehrts2lztgs,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qtlen0nuvln3aqcn2r3nljshdmzakq7z5z4rexpk23mj8u8lmc8ysc29jct,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qzdt5z4f46jak59jku5jmvv3f2ru20htqs7jhy0whazgd5v4626eq4vkxqz,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qzu4lnzfpskwsvnyvzud9a7ru4d2ft7whqvl5d3kskxxhgeupnjjquzvt97,bitcoin,Korbit,Korbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q02cq8du8r7ktuy5l0ltc4cv82xnaw4upaaw8y4rq6uycdp0k5nmquljtzk,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q08n37tm63z3f0myqe6zjx7ymtng8c9qedpwpplq95qkmx0cpke7qyz4y8v,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q36l8mssxdlncj7njkqvayv3jumked9jdtjxete66cxnzluf4j0msjm4w80,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q3gqqnn9hr0uachfk6rv3qhf3pp9z8a4z63ksc5qu0c2vvtykqd9qj3fyum,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q56p075cgup705urqy2w8hwggcf7h7k039afh0g,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q75tsfq2c5cqp2ss32qksmnzd9yea2mjsjktdmrz900dcmg43ck4s66sgjx,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1q9hqaqzyf6zsd330pkvtq5uxcxprzr368zdsxx5srtep7kepx523q2gd0ef,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qa5aux0l2c3l99tpmd9c85770kqpksg3g6dxaw03jj6lphnwy4lqq68xfgc,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qcds58swh4g6zsdmws9ltcdpqz4l44utu5wv9vfpmemps3whgdacqkakrk0,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qcf9qe8ytx5qlcq0ft4vm2xm3fyfvurrkende46hpmwwnzpctfu3szxpve2,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qhxv3pg2hsnw3m9jukuc6erjwwd03rzwhd2k6zh5uf6s2lwpuv3rq9zefru,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qnhmemsqfhycvp6g50v732h7wfwdt68el4ux5ttu8xwsrzngmxv0qr55aga,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qplr053c80nzlqapuatfslyhmns6sfn32qzz3xkdn36jjryw8vsys8y7wlc,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qqwf6hexnnswmj6yuhz5xyj20frtp8exv7mclck,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qrj5vg73fxs6h6pmdjld387j5szkswc2y39rfutw8gl93h647wpksukyln9,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qs8cyln26t2f5rwu2frnqvtltfxt0qqql0elmhrpsexlzveap82eqtyvsgu,bitcoin,Kraken,Kraken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1MZwhQkkt9wy8Mwm4rx5W3AYiDCJLasffn,bitcoin,LBank,LBank (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bc1qsllhrk7w4e4kprc5qhqtqg9p6e83ektc2d7qma,bitcoin,P2B,P2B (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+13hxUsGWnJgH2vzscAUrYm7pxgWzTvez7x,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+13r8PhQ9Gk1KavpJzjc8ELjEw3kBQKLRHq,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+14XKsv8tT6tt8P8mfDQZgNF8wtN5erNu5D,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+17vH7EX655n5L4iPAfVXPn3rVzZbrgKYBC,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1DMpkJ5QHu6rnWehZjVkZxsRTW7VRHk7yk,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1KVpuCfhftkzJ67ZUegaMuaYey7qni7pPj,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1LgW4RA5iE98khRJ58Bhx5RLABP3QGjn9y,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1M3Y4dgeg8zVdQ41BXTaWyFUUmc2e6fF2b,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1McbLy27nLVzJ4ubMnFm3jxnQ3nbq2mpr2,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1NBX1UZE3EFPTnYNkDfVhRADvVc8v6pRYu,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1NVuvqYpZPnWSd5Fvx15dq6u39ongzxLL2,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1PrHfPbcLyHTUHxjizAgauCNXvjnh5LEex,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+1QJt83Cb6S6Tm5chFwyn46XSBGYbS8unXB,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+33Mz8zrWx6yei6itk2mjfCytdKJZEwKeM6,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+123WBUDmSJv4GctdVEz6Qq6z8nXSKrJ4KX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+125W5ek3DT6Zqy5S2iPt4FHQdNMCbZA3FU,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1295rkVyNfFpqZpXvKGhDqwhP1jZcNNDMV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+129zKFLoVad9JtxSmDKeJoLCsjhGR7b3vr,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12HQDsicffSBaYdJ6BhnE22sfjTESmmzKx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12NpCkhddSNiDkD9rRYUCHsTT9ReMNiJjG,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12QtD5BFwRsdNsAZY76UVE1xyCGNTojH9h,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12VrYZgS1nmf9KHHped24xBb1aLLRpV2cT,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12YCfVAEzkEZXBYhUTyJJaRkgMXiFxJgcu,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12YyR9EpvHxBjjKjTWqfKqeyoWnvcraxpW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12jVCWW1ZhTLA5yVnroEJswqKwsfiZKsax,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12mNKr2YP4M3CEQvCvVqZsvxuCG47LHMu1,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12udabs2TkX7NXCSj6KpqXfakjE52ZPLhz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+12w6v1qAaBc4W8h8C2Cu5SKFaKDSv3erUW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+134r8iHv69xdT6p5qVKTsHrcUEuBVZAYak,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13JtX4h7G5ZuNK5mFudKGq9DHLvvMFuNuz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13LQJQ1oJ9K7PsqsGfjNhoVv6UeU6hgzQz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13RH4JaFhaCxDGPyYE9emjp2aDxdX18uBA,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13ViCDZyJxxv5cZzpDDsE7aDQ3Y552zpAH,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13YBQr2Cp1YY3xqq2qngaPb7ca1o4ugeq6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13f59kUM5FU8MfTG7DCEugYarDhSD7XCoC,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13fhnkmpBBWXUQucJd6efWvXdEj78DKavk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13hfsQm6oCaDZehfYBSMFiJVAi1jsL6sQd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+13mnk8SvDGqsQTHbiGiHBXqtaQCUKfcsnP,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+148LKmyZT3FGE4x1GjsFN6RsAwcjzk5iuE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+149w62rY42aZBox8fGcmqNsXUzSStKeq8C,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+14gM1HuLVDELNHaFU22qpabjtiWek4HhV1,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+14kqryJUxM3a7aEi117KX9hoLUw592WsMR,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+14rjAD8ZP5xaL571cMRE98qgxxbg1S8mAN,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+158treVZBGMBThoaympxccPdZPtqUfYrT9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15PggTG7YhJKiE6B16vkKzA1YDTZipXEX4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15Pt4NwZaUmMUwS2bQbyyncc7mzgWShtv8,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15UdZbmGPa2LatD3abtGpphgkHLFWftV4R,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15YK647qtoZQDzNrvY6HJL6QwXduLHfT28,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15cRqR3TXS1JehBGWERuxFE8NhWZzfoeeU,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15kZobLkD6HZgEECtz4oS2Vz21XHTnNfSg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15qyVrZvvVGvB7GWiAZ82TNcZ6QWMKu3kx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15uqdxqNXQwVf5H7yZPz4TmEGeSccCwdor,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+15yqWQ4sqr7jzCwDtZ3U1KaCa8WMEy7Mm2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16EKTes8ahD8xvwisqjc2xSNLiG3fDHatW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16PhXY3hNNMTo8kpuJx2emh713KbWpkqci,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16SPDQFFzgsoNSPiFFTfS8Dw8LLXqia4oc,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16ZSAEfYpPCj3D94fsNt2okYj9Ue8mxy6T,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16iWn2J1McqjToYLHSsAyS6En3QA8YQ91H,bitcoin,OFAC SDN,OFAC sanctioned (USDT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16p2UWTZwXRyK5bTHNVjdDyy1D3EQGsZf2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16tByCYzxuWiN8kF9FrK9jJy6eQYLVkQ1i,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+16ti2EXaae5izfkUZ1Zc59HMcsdnHpP5QJ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+175BUqf8JCU1uoG1iTRKTacDa4uvJDUCw2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+17UVSMegvrzfobKC82dHXpZLtLcqzW9stF,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+17V7THwHMiDJmDwZK4unhE5HgKFJKx7VCe,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+17a5bpKvEp1j1Trs4qTbcNZrby53JbaS9C,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+17ezuJoT3XBbdcwFZbkTnrXbup11F4uhiy,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+17mhyeBX617ABZ1ffThhUTJkHUcMvCkfd5,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+182NGZbPJXwg2WDrhrPpR7tpiGQkNPF844,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18Ke1QWE9nQfXuhJijHggZuPJ5ZYxapoBK,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18Qj1THHuETfYhuRDZycXJbWwDMGw73Poa,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18aqbRhHupgvC9K8qEqD78phmTQQWs7B5d,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18cFGAdYcvNHkuhXLBE7izQKCyUW8TzCJE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18dLDAWi8LmrHbEq3QzDJb9SLxCf4uimXB,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18gaXypKj9M23S2zT9qZfL9iPbLFM372Q5,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18uKfaUjgG52rVeXEi3wxnveww7zZuECtE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+18yWCu6agTxYqAerMxiz9sgHrK3ViezzGa,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+194xmrZA53UBsZau2PnJLdmVVW9m5feeS,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1986rYHckYbJpGQJy6ornuMyD2N5MTqwDt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+19D1iGzDr7FyAdiy3ZZdxMd6ttHj1kj6WW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+19D8PHBjZH29uS1uPZ4m3sVyqqfF8UFG9o,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+19FQzHibWDhSP8pKmJS3uagFYoisXtehzw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+19GrL5jnUkGmHXVcraB1Etv5rXCANeLWpq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+19pPbUDvoSBZafkUCYkD2Z9AkuqqV6sWm7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1A3iYY4c3dkgNYGewzYzr7EsqfBuWXibGo,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1A7SKE2dQtezLktCY8peLsdAtkqxV9r1dC,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1ANpca7g93BwptUJg1zV116v49zn9gjDi3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1AXUTu9y3H8w4wYx4BjyFWgRhZKDhmcMrn,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1AeSq93WDNdLoEJ92sex7T8xQZoYYm8BtS,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1AoxtfiBQ22DvbhqAN9Ctb8sULMRhrdwTr,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1B11Ezqg3AXjFhMdRq5UpPDpNyriYNVtkn,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1B3u21itzjgKtm7QsNQNCBpSkwzzeDHqrW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1B64QRxfaa35MVkf7sDjuGUYAP5izQt7Qi,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1BCWMwpR4M1nYUuuYe2bmzrNuwGoF9ZAbA,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1BiUFjzH6wsT73U3tfy4aXHCQsYQHzjk5h,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1BvJRBRp9ZZ6zLyuZaZsV7g3xP6JokdZQW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1C7RpJNE19HgefzWVCSaUqRTHAwGAFkbYV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1CF46Rfbp97absrs7zb7dFfZS6qBXUm9EP,bitcoin,OFAC SDN,OFAC sanctioned (USDT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1CG1aSCxUnbmv9G34ofxTQoHtuVnMLJtQV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1CNbhgxGRZvsWnEHotfXge7k2E1UPzBDC7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1CPJak9ZyddbawMGJPyEhCiJLXXb4sYv8N,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1CddRqw7oSPrT4tt5oXKyx2LiHJDPszy7y,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1D1ej7zQzywWBDNXKNYpmH7Hso2U9koDG4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1D3GuaS9eqKw8dWj9JFQtNufdRtysjSLxZ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1D6gG9iKEhPitTcWRJiniuj1jYM2hNeAfJ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DDA93oZPn7wte2eR1ABwcFoxUFxkKMwCf,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DGsY4ww3BJnWXTsnmTgWa6UWdoRXgA1pX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DH2xDH7TngrDU6LXciprKCBKNcPA1xX8A,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DJoEMvp95yJYWyxAZy8DDBzuvjnrTVrsN,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DJoVLgn1foJHHngduRPJvRbwpaFEKxvxd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DKGRGJXGNLAtTeFb9SNPNHtrkZ87q7qKi,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DT3tenf14cxz9WFNxmYrXFbB6TFiVWA9U,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DYFJ6CuBvrxyoQSuBzVsNcetY9tvdsrag,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DbShx4r8i2XesthoDBf5EkYWz5dsKEusV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DbvK8P6imBuLcwh2Vruis4xsUb8YAwJQF,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Df883c96LVauVsx9FEgnsourD8DELwCUQ,bitcoin,OFAC SDN,OFAC sanctioned (USDT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DfyWkiXVVqWfcSduj23qTDis9kb2qvRDa,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Dpddb1TMjvmNQeYDqgyd1ww6cmwPJRdSk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1DtGgdCi9VPKz2Bpq8GQhUQEPnQ5HwaT9n,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1E9uUnLbyfToazo95vmM3ysYnzgkrL7GeC,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1ECeZBxCVJ8Wm2JSN3Cyc6rge2gnvD3W5K,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1EYitrwBYNWuTBcjZFbEUdqHppe2raLpaF,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Edue8XZCWNoDBNZgnQkCCivDyr9GEo4x6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1EfMVkxQQuZfBdocpJu6RUsCJvenQWbQyE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1EpMiZkQVekM5ij12nMiEwttFPcDK9XhX6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1EtMuBPQnPCa3cecerdSH1SzydxnhbTmw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1EuUMPBCZtSd5pVVFEqmRqUSfU1qy6ASuL,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1EvhBad5wCZYhBoAsGaciV6AvmZ1osLpeJ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1F2Gdug9ib9NQMhKMGGJczzMk5SuENoqrp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1F317n2eJEMaEMGiwCqtd5XCU3wF7jzPEW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1F7UL41qYm6TvnExZzPHBCyeENvX3XDEMS,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1FCNgfZWpYMeYhy9t18AAkTBu8AsdoAc1Z,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1FE2cuvkq8n5VGwj5hi8YYQxskwJpovPyV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1FFS6pX1TCKTNy668Mbk2Lyoem1qB48kYX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1FRyL9gmFGbzfYDAB4iY9836DJe3KSnjP9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1FjubFHV4mpYjBmvjsEhZssyiiA4TNmnm2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Fz29BQp82pE3vXXcsZoMNQ3KSHfMzfMe3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1G64TFMFVJTjhJXra6x74BBhsfSyiWaFtT,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1G6DuwDKNHiUWqks2Lgu44cesu7ffFbLK7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1G9A8WRjGXdnYY4TNEVRrcaHsMtana4ncF,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1G9CKRHA3mx22DoT1QyNYrh85VSQ19Y1em,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1GYuu9d5HPikafbys3k5Q3DRJq6debGsoB,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1GcKLUUXodTQcLcPD7VLMgvCc4hs5Q775,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Ge8JodC2HiBiEuT7D3MoH6Fak6XrcT9Kf,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Gekw8ACSs37oXcc5XQHvoux3iKoVFtpF4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1GkLN7DbA9mAtHNzQWNPANcdWbefaz4Gzm,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1GnFTy5F9qi5MfaRZfgdg2jkyT5xtAHvd8,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1GqChmWqGtsaLrGbHfgdrV5Nkvahtjjuxr,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1H8sDTTgJPBKw83EBZDLhXvetCbxZUMMZM,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1H939dom7i4WDLCKyGbXUp3fs9CSTNRzgL,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1HH8eiuaTMucTNyvGCUmAvmCZCtdMi8SqK,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Hhe61Bwxs8Hd2WxzWY9FQyZicBiZGeSNW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Hn9ErTCPRP6j5UDBeuXPGuq5RtRjFJxJQ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Hpj6qm9i7nMF3VkKfBFtjhEDpEjxHWvgv,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1HuYfoEwsfHgZiRhbhJrCd5ST3iksa8KEx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1J378PbmTKn2sEw6NBrSWVfjZLBZW3DZem,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1J6cgUVEZRKyJhpXJgHWX7YmzkdnHRaLhF,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1J9oGoAiHeRfeMZeUnJ9W7RpV55CdKtgYE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1J9wJH2bamZVxscXAvoDH4jvtGKb7sYFDm,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1JHdQHkBZiim1cb4hyUh2PbzEbbg6z2TrF,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1JPfVv5cWRLx1js9NWxg46dG2CGbeRz4th,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1JPqJ8sxLBvdHBqMqSFBmUkoh2vAuCUNvs,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1JREJdZupiFhE7ZzQPtASuMCvvpXC7wRsC,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Js6goCey2NaqPQptiLANLQGuk4d6mowjP,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Juv2Ks3jJFUes8jEGxwgt6T6csBRQmmRw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1K2fmE9hfhbRNSZoBvCBWZAvsS5idTUxBG,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1KSAbh5trMCTZwhiNsuUQvfTtSSTT8zqRk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1KUUJPkyDhamZXgpsyXqNGc3x1QPXtdhgz,bitcoin,OFAC SDN,OFAC sanctioned (USDT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Kc6egXevyLEaeTxLFA1Zyw7GuhCN8jQtt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1KctQENEX5QkQMpnMC3Zh9yRAzkMBLpPcr,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1KgudqxMfYaGzqAA7MS4DcsqejtMteqhix,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1KkaKujnqwJf7Cbm7JKAZGF3X9d4685m8n,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Kuf2Rd8mDyAViwBozGTNYnvWL8uYFrkVo,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Kys8fqDen8NGFUJ6AFcXfFW5qquuTH4eh,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1L4ncif9hh9TnUveqWq77HfWWt6CJWtrnb,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LAh7PQwpd1uGiLHae5C5Xz9QXse3y2phq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LBQd4ZxtQYYsDWrCzK4uMxHBJVxmyzs3M,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LKE3XA9bf5JFqtGtCHzWj5QGxKGwMfXZw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LQV6yUBcfTjAWvFu3XPhdTgjqihss7i1z,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LiNmTUPSJEd92ZgVJjAV3RT9BzUjvUCkx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Licqjca74n8pmNaoARXLLqcTUTHFpxbXH,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Ljk8RNNabkZ9bfDYQBn98XfFozJhTjqcZ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LpYKb3SXZPve9hsH2QEJZFX279wJVGowi,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LrxsRd7zNuxPJcL5rttnoeJFy1y4AffYY,bitcoin,OFAC SDN,OFAC sanctioned (USDT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1LuDiMd95Df4i2bcvrfw47t2GKpLLXAQMZ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1M5N4sJ1NHb4fviLVZA5MZLKhLZqU4CPZz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MLPqwaFFUBZePTjpR3nxRoK19Cv9mPCc7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MQBDeRWsiJBf7K1VGjJ7PWEL6GJXMfmLg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MTndG4K51RRMvkzyvguaHnQpiMLnxFGzM,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MbtT2ZsTtLp7EKZUV9r74cTyqvsMtTP2M,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MiQRekg4BatJ12qbiSGnNakLLd8xbLMCG,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MkCnCa9agS5t6V1B15bzusBgYECB4LfWp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MnbhWe5wr7Ut45ReyQsm96PwnM9jD7KaH,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1MtsQsw6n2jvJCWhpCw7jifTfD9Q3rBBVg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1N6XqSf3ULpNjko9LrJmHudRoLitjwkETN,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1NE2NiGhhbkFPSEyNWwj7hKGhGDedBtSrQ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1NaRX1GZgtZ7E8iXo8YUdTtnb8rAK5QFJa,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1NayLEVF3bEEbDtdF2Cwso1VdEtvVNh2qX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1NbGwQwt4uEhg2srAKppLf8QaF6fbp3PZG,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1NpHuti9NSM9fVTXLkvSDU4AnhqGQ5N53d,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1NuBZQXJPyYQGfoBib8wWBDpZmbtkJa5Ba,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1NvJm3jfZxENNyqws5BKQvhkLxg9chLJdo,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1P3ZfGFLezzYGg9k5SVzQmnjyh7nrUmF2y,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1PJp8diNa89cVHpiT1VPu7EQ8LxYM5HX6v,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1PWRKxkR5AU7Tc9zPqjdhtu1eGW1QZzs4y,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1PXxwPVtYxZiCRp9LKq7aKMDFrhAQztvUE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1PYtgFS2t6i57WdDvbRa7kPcsagGMBxzfg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1PfwHNxUnkpfkK9MKjMqzR3Xq3KCtq9u17,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1PhqQpaGCrqSxQ6QDXcv14QCd1U98Zp34E,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Pu1nAW7kCoSMThMs8QcpM8JxuByQDZgH,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Q4tJjH2aBr3AJrzxqa4Z3jPpf5SDgF4jK,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Q6saNmqKkyFB9mFR68Ck8F7Dp7dTopF2W,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Q9UAQbcDezmyouFrzt94t4dSMxgsUfW1X,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1QHxyuLGRMHfbNPJikV4Dwhfx45HWfUMWB,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1QJUiNsNfji6mR1FjAwf6Eg9NxxHPoxpWL,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1Sf6e4xQv8muMZqYPTdRFf3e5o5eWcg9F,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1r6S9vpUZPS5rb6gSdwV2bvSFcN3uSq4q,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+31nadacWrgPeAQxKRMabhn3fPhnhi3hjKa,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+31p6woV4e55HUfC2aGynFhzQnGoJFW26cD,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+31t4nEpcwyQJT1VuXdAoQZTT5givRDPsNP,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32DaxSzUhLBHY2WGSWQYiBSHnRsfQZrrRp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32PsiT8itBrEF84ebdaF82yBUEcz5Wc6uY,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32VgTk8kGvBsqkHhkvtNooGdtqZm46jTVo,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32fbAZMTaQxNd2fAue1PgsiPgWfcsHBQQt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32jgFkZsTEjMFaBvxJnYvJEeTNKTmq5b32,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32pCmCWEjwhkLwh5BgLNAeBQFp5Gi1hv81,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32pTjxTNi7snk8sodrgfmdKao3DEn1nVJM,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+32wdqwX3zCEX3DhAVEcKwXCEGdzgBnx1R9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+331TS6DyASY7iU5CRA8UryBnkPS78fP2B1,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+33KKjn4exdBJQkTtdWxqpdVsWxrw3LareG,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+33Kja69SQVc8kozpoP7Qw6HFtGxHkiWzTz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+33fWcMdmsB2Ey4CEbVWbjGFkuevBSyP9nG,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+33xWfziVZesgo83U5izdNCBVTnrtBpSwK7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+343w3Xh64q5UpgpvAPqmsUzxrknde8PQHb,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+347QFbejDBdMZFTxpmn6evvvqyXiqZTCd7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+34ETiHfQWEYFCCaXmEeQWVmhFH5vz2JMvd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+34WWXwFKAsXL9zYxbeNPaPV6vDamkjQLUo,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+34dxZvijpBM1YkPybczbQ7DuGuKAnULdfS,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+34kEYgpijvCmjvahRXXQEnBH76UGJVx2wg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+34kWCKF2wCbe6uinit2uL4ND6d8yxsuxKM,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+34pFGsSYbWEritXncW9unZtQQE9dKSvKku,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35KAdTa2vqnJzitF2xiUzZn1Gmcas2Y465,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35LScRJ8hzDvvWh9t9UA8bHGnGNVz3YEfa,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35QpLWYkvD3ALhjbge5bK2kd7HfHYcDMu3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35SwVFxosV3AsvnrBfzdXarqavRbvDyyxv,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35aTjkBh4yeTypJsi9nuTdoMKHTsawKVgX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35eanEz5iYg2eYaxCtMrR4SCoypFqrBWUH,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35hh9dg3wSvUJz9vFk1FsezLE5Fx3Hudk2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35irs2AU6pVgenYbWvMRz22avDBLC9XMkd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35qwVtMEohWDdBWRiCSR7azoP5cbY8SG1Q,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+35vypiSvQsxRiT3YZzGRGVaduUSx67ysZb,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+361AkMKNNWYwZRsCE8pPNmoh5aQf4V7g4p,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+361NP7YcBPQ4KkLT3Y2QZeDEV4M3yi65Ar,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3685sEusmTwZBiKJ4cgV73EAhpVD1nbgbe,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+36XqYWGvUQwBrYLRVuegN4pJJJSPWL1WEu,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+36YGN5dGzqrxMomTHdkT6cYVMnWBw8S7hD,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+36ia8qAE1k1PKQePdXENCm1YKLXxZyVnnc,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+36yS87PLuW7sErLg1TY26WzaVarTim7AcC,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+372Wk9NLrMkJzKgqJdatWJy4bYRfxFjgat,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+374RguZDMNW5Zh5ouW3KhKDcrerKusmsuk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+37KHumAdzFcg1fXMv36UGg91MHPqhJUv19,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+37dDBCexFPraKW4jGSqkE3NyG52YeZQbJx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+37fKFZQGMqdBkjSUub1jCDWGgSHwv9VxfZ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+37g6WgqedzZx6nx51tYgssNG8Hnknyj5nL,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+386sPhHBbLidzPnoxUH74jiiYkHYtobefQ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+386wa1UM6nA798AWNh64jdrejZyedeXgUN,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+389Sft4nJFkPGhbagk9FN4jXncA9piYTuU,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+38LjCapRrJEW7w2zwbyS15P9D9UGPjWS44,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+38TftW1heYPqvKbiAhT4ttNBqkUPpooXad,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+38ncxqt932N9CcfNfYuHGZgCyR85hDkWBW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39AALn7eTjdPzLb99hHhD6F7J8QWB3R2Rd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39HJB4x6W5QuKFEuV1tfcfNveLRJTzcC12,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39KQvziHwUe2vddbpfC5WkQEV72qbQhxuh,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39NG2LcGRHXxSr1irpEVnJMw4ydL231sEn,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39Te8MbphSgs7npDJPj2hbNzhke61NTcnB,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39eboeqYNFe2VoLC3mUGx4dh6GNhLB3D2q,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39fhoB2DohisGBbHvvfmkdPdShT75CNHdX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+39p8qWp1bkBNhi4vPpFTetKPtH7goqNDZf,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3A1HH3PseYMkh2nSrBb4kkVt3815kUNVVC,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3AFcE2mbSSndcpYFgHoExSmjUc26ef2gQh,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3ANWhUnHujdwbw2jEuGSRH6bvFsD9BqEy9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3AQSmMk5n3c6TKEg9B2WyzYAPm33gJJAA4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3AYU365Tcjef7j9pdKF9Xe8rWpEpsH196t,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3AjiWiUdKB5mcGUSS9mBeoHCeYJw3Zo8r6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3AjyprBY5yhijiCjUC5NUJutGbwhd3AQdE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3B3vmabBbeDRnVrjvvq3hm85zVB4v5bWFC,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3B4G1M8eF3cThbeMwhEWkKzczw9QoNTGak,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3B7S6zrgxQVQUHTU8wstM23tB9afE7ojuX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3BCN3WgMRJwULTz1vsEQ7NZrBjwaUBf5Ca,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3BQACtiMXYB9JpUMpkEWt9m8BzswpGHq4X,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3BWP6ZQAhc4j5wR1b95zJAthJEFvhdees7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3BazbaTP8ELJUEfPBV9z5HXEdgBziV9p7W,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3BsyZ7qRFSi3NsaoV1Ff724qAgrEpjVUHm,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3CCmt5LjQ5yKkaFY1DWC2SbERVEtWRnSRD,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3CuqLrZWn5oCe6DRScdRwiFv8txcahrsG3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Czhm6xqn8odwz6jgTcjRrUjog28v6aVS8,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3D44E2Z3PcLa868GeBNiP5E2GPTfVLULUJ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3DCCgmyKozcZkFBzYb1A2x8abZCpAUTPPk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3DLGfN7hgsWXXSp9euXcnmWXLpFQuswW2t,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3DNsaQnaUz7wkQny1ZDSmtz6QfbEShxoDD,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV,bitcoin,OFAC SDN,OFAC sanctioned (USDT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3E6rY4dSCDW6y2bzJNwrjvTtdmMQjB6yeh,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3E7YbpXuhh3CWFks1jmvWoV8y5DvsfzE6n,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3EL5vcYeu1cnivLtR7tnAX3bBirr9ATNAL,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3EPqGUw2q89pwPZ1UF8FJspE2AyojSTjdu,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3EQoMXw6Xi8zNzY8tLfJbkWjV5EXsQP4Es,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3ES6pqCueDPCnC4hCqhhYuey6gyiRJZw6E,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3EUjqe9UpmyXCFd6jeu69hoTzndMRfxw9M,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3EeR8FbcPbkcGj77D6ttneJxmsr3Nu7KGV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3EynPFpoGTPxU9m5bPaEDEUxUanzh7vgQP,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3F2sZ4jbhvDKQdGbHYPC6ZxFXEau2m5Lqj,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3F6bbvS1krsc1qR8FsbTDfYQyvkMm3QvmR,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3FBgeJdhiBe22UoSpp51Vd8dPHVa2A4wZX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3FfRvC3kSo2SxiQe5e7SSuNdegwgq8iusL,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3FgaJMgxCfU3qqQ3Yiqv3Xw8rmLDDkByeo,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3FoD1f6Tfnq3s8MYHgJqFPWv9cUrtUdBSv,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3GAUBtrTtWp1D9yeXgr3wMg8B599QHa5m5,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3GBGnqDqdiskCmfq2Rchk1LcBoSo4P3DZQ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3GMfGEDYMTq9G8dEHet1zLtUFJwYwSNa3Y,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3GSXNXzyCDoQ1Rhsc7F1jjjFe7DGcHHdcM,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3GXdtA6kbb4M5aqzZm5qqxcFDFRMW8LqdJ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3GYbbYkvqvjF5oYhaKCgQYCvcVE1JENk6J,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Gbs4rjcVUtQd8p3CiFUCxPLZwRqurezRZ,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3GuQjr7kkrR5EjpanMgyAuxuLgrjEUwe21,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3H3rh85qPaGLy2w6618yZNaH7i8asHv46B,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3H4qaWi5DS6FMwyZrG9xRRud3Qc5dUVn2U,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HJN4jRa4mdfkey9JR9jUhr86yPwL86A3C,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HQDRyzwm82MFmLWtmyikDM9JQEtVT6vAp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HQRveQzPifZorZLDXHernc5zjoZax8U9f,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HRExd8GKFskZC5inmVcpiyy9UWG7FVa6o,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HSZc4BLnQBznjSq7JvXgqNCZUUs3M9fZz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HWjh69cVQvcPeLWVCyVmXEq72nyDSj5zP,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3He6EyDaCUgmdr4GXqhxbeTQukaGLCByU2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HePkztPU6UsdENxnyQHFrdZA6eVKeMtvz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HqA7i3ttECLvgqvq69HNxxUP5BL7Z5YgA,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3HupEUfKmMhvhXqf8TMoPAyqDcRC1kpe65,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3J19qffPT6mxQUcV6k5yVURGZtdhpdGr4y,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3JHMz3mTna1gVCZSPp8NgRFiY7phkv5mA8,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3JLyyLbwciWAC6re87D7mRknXakR4YbnUd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3JUwAS7seL3fh5hxWh9fu3HCiEzjuQLTfg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3JXKQ81JzBqVbB8VHdV9Jtd7auWokkdPgY,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3JhPsVV3KnL9dBYGSZALS9EbrLr97R865a,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Jpf9B5P8cvEKSSGp9cES3Upbms8VRnXUb,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3JuSgFrwnrNfuhvR4GpWAPmeJVot4xrEae,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3K26aMKmnrv97Pj6YiFcqiXk2LxeHfhnG3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3K35dyL85fR9ht7UgzPfd1gLRRXQtNTqE3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3K4rjdh8A5yi6LWvft2rbmyZvqEbPSSSX4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3K7PMJyMNVnxqsfpmK9r9nJDtzDw9wNwNV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3KGQ3hX6eFYtBjTBFSdvdkzHmwZyYWLRQh,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3KHfXU24Bt3YD5Ef4J7uNp2buCuhrxfGen,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Kp8Qc5z7yevDeoQxhS5RSSKnEi5x7AQ43,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3KvBX3jo69Qn8jHy44M33RYoeYcf8DdRBD,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3L1PSCgfPKJAfQCZcoKfbvWf1fBmWM1Bbs,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3LDbNuDkKmLae5r3a5icPA5CQg2Y8F7ogW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3LLUnf3ezw6mCbQ2zCZmGu5rZULzkhxQi7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3LbDu1rUXHNyiz4i8eb3KwkSSBMf7C583D,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3LhnVMcBq4gsR7aDaRr9XmUo17CuYBV4FN,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3LtcaPbCj87CwJHnRX3vh7c2y9RZQqeSy8,bitcoin,OFAC SDN,OFAC sanctioned (USDT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3M7CGBPUJwXXSroWuZ6H5jiprdKCyf7V5M,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MD3riFB6U8PykypF6qkvSj8R2SGdUDPn3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MKXKqPXf6VxTLkVSXuDKzaTiZZaz5AmiK,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MN8nYo1tt5hLxMwMbxDkXWd7Xu522hb9P,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MNWiGeoKAhtTrbJuUXpvSRYJSNvmyJSWE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MP7yBGSW2gkXVRE8S84T2j4KVgPh3rEzv,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MTRvM5QrYZHKo8gh5qKcrPK3RLjxcDCZE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MTrJTFhYK9v1C6pjHtuweZSopfZa4b1wb,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MkUNScqf21EcfWq6T4x2MFgBeSTqhB5t6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MvQ4gThF4mmuo49p4dBNchcmFHBRZnYfx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3MzLtBQ4Lz9J6w4Qu55TktgxFKZwxYWrP6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3N3YSDvp4cbhEgNGabQxTN39kEzJmwG8Ah,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3N6WeZ6i34taX8Ditser6LKWBcXmt2XXL4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3N9YcPBDky9UsMx1RTk33tL4jDkZfSnsPk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3NDzzVxiLBUs1WPvVGRfCYDTAD2Ua2PvW4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3NEcQKZ8RwL2eDNhmMPpZ4td9vPsQh9JwM,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3NNcbBcMZokPB2JC2dxYuZrpgcetvyGeJn,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3NPognMSbzyA2JYW2fpkVKWyBMi2XTq2Zt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3NQ1aa9ceirMJ1JvRq3eXefvXj1L639fzX,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3NRJ8aXdUiZdHaiFX9ePX3DhGHzcEi14Fq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3NU9zkD8CCVGVmYnNNSN7PbU9sSFQBm5UV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3P6PzdfETr4275Gn3veLkCyDxA1jV8fHKm,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3PDmRwotTkRAFRLGTUrucCERp2JdM1q4ar,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3PKiHs4GY4rFg8dpppNVPXGPqMX6K2cBML,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3PUmTuVAW3LkKg53FZ7F97VDBitW4ugwnM,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3PiCnZrBvGfWAKQ9hr4cCpfaDjy64yNSpE,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3PyzSbFj3hbQQjTzDzyLSgvFVDjB7yw4Cj,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Q5dGfLKkWqWSwYtbMUyc8xGjN5LrRviK4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Q8H2ZWMtc4R1M3mkmhnTjCoYKTeCFigDP,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3QAdoc1rDCt8dii1GVPJXvvK6CEJLzCRZw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3QEjBiPzw6WZUL4MYMmMU6DY1Y25aVbpQu,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3QJyT8nThEQakbfqgX86YjCK1Sp9hfNCUW,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3QVyoH4u3qT88uChAeJVhfB3r6maZt431y,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3QWUdP5taP4GrRuueVDud1eWetb7hc3wDH,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3QnWE5GVfQu3wVav91RuFkqip4Ti4NWqAY,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3QrukkUiBrn23rFUKUgasNd1wYWNk7WdSV,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+3Qw9Fn19gCnga9LfHfpM99aGzuqxBNjR2i,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+TUCsTq7TofTCJRRoHk6RvhMoS2mJLm5Yzq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q05aktddf9ce4p7hh3stgsf253m4vweu7nkhtmw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q202ajnhxgg9d9jjczmg0g4usp6haqldyy2eakl,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q237mvl0heyw0r38wd3xz8h5mar96rrwpams8pp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q2c3vwu7wxq308lsun24rjlsh6ff0x8whx55v4q,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q2jys00x2rgdkm3xnewuucqacytu0a7echupu8y,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q2lpgjntr348pfvxhfy33ehmdzy3gmx8w4052z6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q2q8uxjznmurg363dvd98xjg54mrr7z6mw9t825,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q2we5eqjj8je6lz9xwjattpc3pn4jejc5h0s70f,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q362njxy39gnwrvj7zytn84ax39fwnhvk7n2999,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q3ael5my37nklgnqcrkwmnndfx9qdnp67j0739c,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q3q2lz3cmt4u2f49ugxz5q34xrs0m2z4w2gmkp5,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q3tan207evu5skk2wj80ycyw242g0kdnn3hs3x0,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q3y5v2khlyvemcz042wl98dzflywr8ghglqws6s,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q45cxufu7x6s5v9adzm9t38k80gwawse75xffwe,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q49ax787wv0mnn8wjgp3sx772qz7eun822rkv5k,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q4namcagg5wljs0u20z6h2sqgsq4q5lts8rt2rr,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q4qjvgw475a39d8cpcyv5keq39jlmlrq870sn30,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q4rzdtlt0uslyw86cp29sctl6ct29g9a95cuup7pn5md9ddj7xgmqpp5m73,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q4sqmmyv63g6ma5cmswzap3d8k995h0str69v3t,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q4yzd2rjmshm8ucrwy6dzj5rna20j0zlf8hf8vz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q5jqgm7nvrhaw2rh2vk0dk8e4gg5g373g0vz07r,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q5zd0cwzd09k9r8xfk68sn5ytqp8f5aae80yfsm,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q66y45cq78ke25kz7rpe94l84avt7zetglzeeqg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q68uswkjvu7nj7mhrvfzkx7cm6u5s9puvpm5dc2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q6qze6uj6jncgnva4eghxn3tr4pm2frh77ad3k9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q6rzzf4erht8v7kgh5mfnwcrvzxchxt5glpsuls,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q6w463k7mhsgguwgqtcratm4vm42rncwhvvkeck,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q6yz2q723helcd7rz7xltw5nu77vn649zczklc3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q7d46dvuv56kn4mm0jz3yep6xj74kxcpydt5te4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q7des766x6c0zkycz6dz6rfv066n3fcg4kggtrt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q7hhdygx05kyfyzjku2u7lywvx5pgyng6a0nefp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q7qsruzjsed9sy6taqz2m5rvljsmleg2xl7dz5r,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q7xfqqw9htr88t7vafg80p4qrlpjfyaps452x5g,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q86tl9255vg5wldamfymaaz36uqxzm30gs7fhkljvzdlt9t38s3lqgdwdfq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q8ew45w2agdffrnwp6adt2gqrc9n4mkev9ns29c,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q8p5r6wdx7leuekulnlglapy2wlwxgukpe76mys,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q8pw85s83mdx2f3rfu64mmfd9wexqu2y856arwp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q8q7z3kt37z6jalv5ujung5lem6pzlk9r3kt66k,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q90zrdysy4flyacw7hsury3ajs9yzwtwp6guqpypx94w0d3p58hysvz6pde,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q97eg4k2juepa3smpac4pnfjsnyws696c290cxq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q9kja7t2zxz0ze4lcgxf0l07pygpc69ws528lj9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q9lvynkfpaw330uhqmunzdz6gmafsvapv7y3zty,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q9ua9ypl4dhj0zut5kzasj5c2kxclhh8v2k9djd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1q9ws2gcq7uumm4mk3l9xezwve7w5tmcs5js5cup,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qa2xr7dmz5lztplp9yfp7k382nf4ma8gwrl7zgg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qa4jp7udkn2ycecz8289jfs3vpnqdwf4483d3qe,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qagp0gy58v8hqvw4p2wsphcxg067rrppp45hexr,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qakycg2zp8hydg95lc9cheumpa9yfpdeyrqqh5f,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qardcxz845jw83vgfvcmewhuxa0ag9gchjwmcfd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qau9pmgc8l6rxpdwwap3fd6zprh5yp9mpe9jl0h,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qavwamr74qlzj8txy6jaxqnpym9062h090x6kz4,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qcjh0phl2yy3rxcztfthz9psuvk8trv2qe06p0k,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qcp6fr7gtyukympl6unr7uv78h3vprycwj455zx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qcx8vxxrld2s7qvz64qp75s3508rkzaxj65l60q,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qdd2mumk4rxnygxyn5qhrq6pah6yjmnl3s9mef5,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qdpazd6smrkq5hmw6lupq98za2fqtgmq3azv3av,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qdt3gml5z5n50y5hm04u2yjdphefkm0fl2zdj68,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qdzgee6h4zjwvn8lyzjxgd467zxnshelqkudh7z,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qe8wclszdtshkjk7gph57crc72vpp9rylujgwa5,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qe95l438kzjcvnsm3kn8n5augf9gpctdlhsq7f7hpnkyvlr7rc7cqupapf7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qe9lz50jq0a5pmtry0h3ekng3kjdg09vejg7355,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qea942uw640l7nvtf3vplv6jd6wvuy06c58cd4k,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qeaxuj8vamvnxqveleaqgmae33x904xuzj836p3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qec85gd576z0phflq2jm8jxlh22tckqj3yru7xs,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qedvcgh32dud85yt7fu6s7qavthlh38gtwa7rhx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qeth6n6ryxexvkx34wnx3nuynun4474h3j0gkhw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qetqqlgvlnzdh4eshz9q6twlpdtmvy5rfkn3lza,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qfg4gfg0y6t6xjnpmlhuwx5k0wlw6nmfzxn2psc,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qfpdycqpkl5hvxg4feuk3nhde5h8t2zd89svsg9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qgffxa65gr579tsz55n87pal2a777ygzg69d2yz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qh33xtpjqhgysq5xlmjzkm28uewj08885n95drr,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qh3lw22uqwrywr8lpun20q2ma528a4yqmgf3uqp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qhe6zy9x6ar42zkec3lhkms5m7hh3svtc88qhf6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qhsp4kffl5pmsae43st9jufagu6uy7lsa6mslla,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qhvzl5w99m458nm7sc6hwf5qfhxndw28sgtatk8,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qj2ffj6pepc80sfqpx2k2pd3q278q72dpqv2ens,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qj6j6p0jdefl6pvdzx3kx8245yy5mz6q4luhzes,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qjwr3rgww7a8ut7a4x8jqh3vswcue3xvp6dm7qe,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qkfqh5p2qsakseg5gnwen6zh5xf3elmku2xaup29mw3l0wnncy3es880dss,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1ql526s72gycmvq7hek6j3tuwwmcpv4rgs0auxu7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1ql7dlyh8xz6tpqk92vztrhqh88dmjvcwrmsemrm,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1ql7rnd70aejdxt3f9fzdlfazjlc9hvdmut8ad8s,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qlfpg2xn39u580cmwq6rymt8jdhcmj8520jhgh0,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qlhh94040d8nxkstf4l7720q72f2vntxxl96m4d,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qllmlvy5u038yvwywu803p53g8udcm8w7k4qxu9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qlwtksgusw8pp3k3a39mkmwvswujhhgn0ulp3uj,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qmwznjzlhrj3fney3elxkwdpwa72u7eq0ge76dt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qmzmx8res2fgzd2wttyvf2ajqqqtcnxxrgkqc2t,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qn6segn8km4nfdp9vueu6msfjsaxaqgun9h60n9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qnq3pzsw3elkecrw8pqrz70r7zuse6cwyxa6dhc,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qnujzvts45qka3cr2eqqw8ur3q6g6s0ze2wlk5m,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qnykkrlk67f9kdqvzyw2ndu3xmef5z2e52886yl,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qpaly5nm7pfka9v92d6qvl4fc2l9xzee8a6ys3s,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qptrvdk8uv8shd734tyhyzatrvmlq9l0v6r0dc2,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qq7p0es3dv5hcynjjf40f2xjjr6qp5py47d2f6n847vduuq9gvnyq7y9ecd,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qqf8kcc9m57xjqcvsvuf989nnl48ve6d2s24cx3,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qr2tgu4almsw9ajqfwz93qw0xc8w2g72xpyzqvn,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qr4ankqmvmrhce3ydvzse86dfx5s3zhehfr9tg9,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qr4fd3glpnthkefcylhnxk4gp47jsd0523ue7qj,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qrc2gchg2fmxua5u7twu4luv5p9twmny4jjmg9x,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qrskwdw9unhlkt87ltcqq2d5pn9s6w2f35gz3z6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qs9u6j78e3utj08mwvqkkmqm9de5xk3g4yh8qtq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qsmqpalp3gtgkltag4x3ygevmhh9y2hzk73t2ug,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qsmv6lkrw65l30yazdqpdjjtwzpvk9f8gfh0cy7,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qsxf77cvwcd6jv6j8d8j3uhh4g0xqw4meswmwuc,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qtdupwe722vcc5e0vh94cgwfs0ep4gzwyfsf75q,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qte9ret332gwrk6e7vqc87d807npzvdj5savg4h,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qtnr3t28ltzgsuvr9j6ruqaat6fz773mm8wr02l,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qtrh9z4ls2s2mflyhc5y0mtxt0y30n87c97z4qp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qtrrfhr0f3ufsrjxfv8a7p3yuqj0spe4cm6vaws,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qtsl3ufenrv3zgrgm9z8xarcx22x8mfztuartyn,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qtywfzxx6snut2mdrum8dyr5nnd5qhqd29wmvqt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qu3e9sq8cem759umc3pywlsly3rr2qvjlxfnn9l,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qu4p4eynzu8vwwcv0yxq74gth00exjyech05uf0,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qu5vngdtcx8nc9d68pq8nv7pzcjrswsy87s66gk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qu8mcqffx3jpdwnap88h85u5l5l0xq97438tz2x,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qup656lpfqfckhl580kwf62thmn5azmj2pal0sz,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1quyc6j8ca84q9gjej5jjd2n8hra0vfu0j60fefs57p6e5rerkq07q0l5u3w,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qv4krhj2qmpd9qz9xj9nhvj99fq8s9xsw05d485,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qv7k70u2zynvem59u88ctdlaw7hc735d8xep9rq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qvhnfknw852ephxyc5hm4q520zmvf9maphetc9z,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qvlzfn6kmezv44d8kw0p5jsmxe6wchv3zc7gsxs,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qvxlwpgcw260sc97a0u6dm0cjxv027clhd67fvx,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qw0pswznckx7s6tjmd2f5hrx4q6kc5nyrdxku50,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qw4cxpe6sxa5dg6sdwxjph959cw6yztrzl4r54s,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qw4fxztd5u3sl7vrcqwk2a8v5zh5dllvckx3tlt,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qw75cxmxz4e2v265mue9wmqgq2m0qdyr25l2ufl,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qw7vfgv3r5vnehafl0y95sclg3uqsj87wxs9ad628yjjcq33cwessr6ndyw,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qw8evftpgc8wsmkemd8yl5fg2husza5z802xaym,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qwa6zu6qhl6wqnlxp642vcf89nptsassle25ulf,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qwtswqzvaxl6lyw3keqqzwt8z937psta3wg9sjy,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qwyye7frjufeth0pecvaf3hz67lakt028dezv3p,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qwz0l2ceddckwdy5rh6zyrm3x4ha6gn5f2da5zg,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qx3e2axj3wsfn0ndtvlwmkghmmgm4583nqg8ngk,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qx9upga7f09tsetqf78wa3qrmcjar58mkwz6ng6,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qxp3sxw4q2rw3u9pd2k7udhp4eagc77jqcezv4q,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qyqvyupkpl6tm60zdecef925y220ssjuagpxsm0,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qyy5pt5cx3zth8xlj92lq5y87dh8xv3nwgs4ncq,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qzcg8y0utezp7zkp2cmqppd3x80l4gpqzew25wy,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+bc1qzqqdvukupr0qr5uckn2zjn40mkflnxu8fuuqdp,bitcoin,OFAC SDN,OFAC sanctioned (XBT),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17

@@ -1,0 +1,13 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+tz1KtGwriE7VuLwT3LwuvU9Nv4wAxP7XZ57d,tezos,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+tz1N47UGiVScUUvHemXd2kGwJi44h7qZMUzp,tezos,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+tz1fK1ZmVMtshYoCoQ1zC1SCCUG4SnbyR75p,tezos,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+KT18yTsDxUbVrenxZsbFSx6Ai72hRHod9pHV,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+KT1PuUGWvCypTrNu7yweWCzpX6zyuy6nq6Wu,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+thor155svs6sgxe55rnvs6ghprtqu0mh69keh95kk4u,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+thor1jm068whkhkxk48gx80ppm2m0nwy677prse7cu5,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+thor1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn98mgrzj,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+thor1xunyznpjmj9jv5e2zwngp2qrzmulr2gg7lc9uf,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+tz1RRVLD5LEu8iaoTMGc5L1NiyiEGuSUtAwX,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+tz1fw6VKhBZ8N7HAvCwvXSkTvQ7YcUk3w9AK,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+tz1hjem5Rpf4KAVbwMLJet75TDb8HjAKnTYk,tezos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17

@@ -1,0 +1,6 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+0x14ea40648fc8c1781d19363f5b9cc9a877ac2469,kcc,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x2677c4c8757da1857cc7cc4071e0e0dd32ccb975,kcc,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x2a8c8b09bd77c13980495a959b26c1305166a57f,kcc,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xb8e6d31e7b212b2b7250ee9c26c56cebbfbe6b23,kcc,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xd6216fc19db775df9774a6e33526131da7d19a2c,kcc,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17

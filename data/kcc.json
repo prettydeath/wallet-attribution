@@ -1,0 +1,57 @@
+[
+  {
+    "address": "0x14ea40648fc8c1781d19363f5b9cc9a877ac2469",
+    "network": "kcc",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x2677c4c8757da1857cc7cc4071e0e0dd32ccb975",
+    "network": "kcc",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x2a8c8b09bd77c13980495a959b26c1305166a57f",
+    "network": "kcc",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xb8e6d31e7b212b2b7250ee9c26c56cebbfbe6b23",
+    "network": "kcc",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xd6216fc19db775df9774a6e33526131da7d19a2c",
+    "network": "kcc",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

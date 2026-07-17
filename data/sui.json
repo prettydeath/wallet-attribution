@@ -1,0 +1,112 @@
+[
+  {
+    "address": "SSKc2QEBRfs7baYW7CVk4ZRsNz7n28P2j3",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "Sb3kJNCGMpnm8A6hsEdB68XdLWHhkXietE",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "SbdKu3VPbXNddemLCe9CxuGa7BL538hBCx",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "ScM7oHdCXXZistSxPr7YjxyZ8tUf3HG8c2",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "terra155svs6sgxe55rnvs6ghprtqu0mh69keh9h4dzr",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "terra1f62zqvvm6y2vlp6rhn94k9spsuqmh727twq8e4",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "terra1jm068whkhkxk48gx80ppm2m0nwy677prs6artt",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "terra1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn98ctc4d",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "terra1xunyznpjmj9jv5e2zwngp2qrzmulr2gg7um7tk",
+    "network": "sui",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0d9948b61478ec1609b4c00cd0162131109e7fd60d7d2ebb539cb414f3ec7b9d",
+    "network": "sui",
+    "entity": "HTX (Huobi)",
+    "label": "HTX (Huobi) (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

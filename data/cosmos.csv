@@ -1,0 +1,10 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+cosmos1h9ymfm2fxrqgd257dlw5nku3jgqjgpl59sm5ns,cosmos,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos1mtauzk3q40zt3weujcqwu009vw5t6m5fnv4xxr,cosmos,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos155svs6sgxe55rnvs6ghprtqu0mh69kehrn0dqr,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos19yhugy8qzps8rur4mnp6tnz8w6nh7qrqqttgnp,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos1hpcfdtv84srdq7n9a7mhnnmd3jwuda970ya92j,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos1jm068whkhkxk48gx80ppm2m0nwy677prk78rft,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9pu3chd,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos1xunyznpjmj9jv5e2zwngp2qrzmulr2ggccp7fk,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17

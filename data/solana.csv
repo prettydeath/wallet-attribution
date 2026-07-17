@@ -1,0 +1,90 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+rTCAfDDrTAiP2hxBdfRtqnVZ9SF9E9JaQn617oStvPF,solana,Binance,Binance (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a,solana,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+FyJBKcfcEBzGN74uNxZ95GxnCxeuJJujQCELpPv14ZfN,solana,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+GnCRxKqUEPouYMvTb5nJMGrDB3VkTXZnDTaDuVZdnWA3,solana,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+J4rzLDLhLWFpjSgCMCcxTU84bQ8AH5vhgjwq7SjYVk8Q,solana,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3bLkLrRvkwHMrqyoCaDSCn6bZnpfJCVsHxcmznUwB1p5,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+42zAGwv37eZFwwcExfCAV9oSw2kNQX3aBxsbM6zvQECM,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+48Zo7g9SReCWmNtCvr2es4H9CLCRQHrSND2Wzi61sCsQ,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+4S8C1yrRZmJYPzCqzEVjZYf6qCYWFoF7hWLRzssTCotX,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+57WSBnNTC2MaqpY6NWLdNjhrELced4jSGV2hLSpjzct9,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+7TWnq4WeYcwQWBCwKeEX2Q9xqVtthPGkB7adNvueuVuh,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+8ZPaybdHeNwpoxmU1ALcbLoE3eK443Jq4emk82VCscag,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+A77HErqtfN1hLLpvZ9pCtu66FEtM8BveoaKbbMoZ4RiR,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+AvLGED7RBzYv4AuvkgFSCFMqyB2WjUff7TVKVEv5MjMs,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+AyhsmFptkM251V1AoH2gf8d4QUnxUkkmaDqFfFwBwGni,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+DP1FqoBnE23QNNz4LpT9FCQvETdJN4nph5c11NiinrGg,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+EPxGiguU5j5tKFnMQpzMrzczEQ5NRtLWrpG9fADvtadX,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+YiZeibU6zzEHyKiSTjygXUPkMktKj9a3DCAcWmZ4XjF,solana,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+2rXk5bgHTVHYGkLWCi16AVoXnMFArJH1MAfaqbXiMLAo,solana,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+7RmkMNQerKaVioRnmqZsHM5Gm8F3gngQG8umLNoK97q4,solana,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+7ziHMYFe6st7b6AWnLSSqLoVqbZcXJPUxSDsTG4xzmoV,solana,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+AxQyoXiqZAW2ca64CE2828pYXX7U3jXKJTNVa1hvhQzn,solana,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+DFsnJoF2jjkFngB1WSPXTaiJJEjJTBAmPLCxcWwknuxq,solana,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+Egf5D8NKBivJavLKmCssE93J7X6fKvEPQwFTWLZUnaSN,solana,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+G9XFfWz6adb9wFDKN2v7HfmJDgAc2hirrTwBmca4w26C,solana,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+HiRpdAZifEsZGdzQ5Xo5wcnaH3D2Jj9SoNsUzcYNK78J,solana,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w,solana,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+5bJcc9eb2XE7mqcET2xDuAdMGuXWybb4YPmAHLjKLhQG,solana,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+88xTWZMeKfiTgbfEmPLdsUCQcZinwUfk25EBQZ21XMAZ,solana,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+8NBEbxLknGv5aRYefFrW2qFXoDZyi9fSHJNiJRvEcMBE,solana,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+BY4StcU9Y2BpgH8quZzorg31EGE4L1rjomN8FNsCBEcx,solana,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3VRJ7acLUS9RYLLgRMenM6BqBVVQpY7xFXa7jKDdYw6M,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+57vSaRTqN9iXaemgh4AoDsZ63mcaoshfMK8NP3Z5QNbs,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+6BhBoBB47wSGjK5uzcGWNcTf2oNRPQNuv6GVdkNyj9PB,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+7gQ1CfjdysJkSEVSDXNjJHnzrqvP2zQYQDJHJP67o1bb,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+AGVhmrhDi3RKLu9nxnRqp3CUpaG3SVeYXWkWcygHAk8N,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+CAxKWUpSbsNsWu2gEFjed64jrNxiNYfRMVEMahshHotb,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+DBmae92YTQKLsNzXcPscxiwPqMcz9stQr2prB5ZCAHPd,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+EEnu7YoRDnZ1EHHggnnQoFk7fUjNQrXQw33vgFWwMJn,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+EfwJn8cXCYhcGrsavxWSDbUFHPrCK9gvdCr6AVywFBPg,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+EkUy8BB574iEVAQE9dywEiMhp9f2mFBuFu6TBKAkQxFY,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+FPRFLszBJFHCThF2yWvkGkfvtwyFPRGX9MFHnDGP6UYp,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+FZ1t8TZtx7VSCQdBsxvFJiezj9paUBF6Ub7RKA2eTGyE,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+GL8T72PKygWaYrLKtSteN9UUvYYnuC8azNDunk4eaqqQ,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+HVh6wHNBAsG3pq1Bj5oCzRjoWKVogEDHwUHkRz3ekFgt,solana,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3LzmBquLMap6ak2ofyeDbH99VhJ84k336RJzkLBwq3b1,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3WjxkXbu9JBosUWUnJpjzec7Wa4rSkWo9khUbbLDCssk,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3bwCjRXv4LASkv7DbLRJi7fDXgRRfEZhEstDVoZsjEHR,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+3n7E2gZmCaDGpmvmHVHhHg13x7y1zG37tnEXvizxnKY1,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+44DwSkZbY2PVo9wfFP21D7HG7xf5rw8QaF6xSLGSfm7P,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+5URmUviWsAtcciFXqgM7f1jmhvBULdQDT47dqDkrJUi,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+5VCwKtCXgCJ6kit5FybXjvriW3xELsFDhYrPSqtJNmcD,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+5kiqH41rz2wPoNH5FuDJ3x8dB3EEe3XGoSWy2485tAp9,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+6Attw9NcFspCAreufvQ3mW8aqXEk6MDceeoC8obw45cJ,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+6NnzUC7mrM7ZgKdcMq1jPAdqh9TMgdsaVR1DNq6kce3A,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+7CtzEcGeYpMfR1aEi1Gbt8GRHDPH9uDB6GNTsBABqSmo,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+7fGw3UURsxk1szQ4buxQyEkiF4P6z7vx7sN1MHEguTJg,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+7o9ukGhWvc71yYcjinKnrxMn2kFMyQD1iCG3romrzg7r,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+8PFD2CYF275p8YdRmhk4C1wcNoKeRVrouYdMbZV6HwHH,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+8dUc88Nss8uhqzzFvUQhepkwZaVrfzpoCfKjCXGkdzAG,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+8wM44Ryv9DFCSfkgUnPEPgnsc53arT4cnmXL6LnnC4UW,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+945SJTwsBSqwEEgtKMnhcLDnJowP6YpJUTEykMVK5k6q,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+9aiqyEUmwb63yUjwPHwY4jR68Pj5QsCQBGhYWRJEwXZA,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+9bAV2yg9oTWMc3sTdXhSeyDhuxs3iYfqvBzq1boYTLJT,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+9cFGNecbnLNiyYNZYKjN8egmMVrvn7HBQUCN9y6uXeYk,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+9un5wqE3q4oCjyrDkwsdD48KteCJitQX5978Vh7KKxHo,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+AEZoku1fLfUz5JYJ3kJ5YVdf3QT1T4RwdggGbuR8Eakd,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+APJmXrtC9TUAg5gcjbcsVUiVzeDv85xLZRLad1GiQTNE,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+BEaiMhcc4Kao7B4hoq6r9m8neUpfimUMwhzugKxtkZw6,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+BWZqi67kXsvf5crjd19Fb3gmf3DCipGE8eWWJT2YHDXQ,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+BhJrLQEyFyrcf1746pHATzAZQpC1uk3SJf2AHHK7LW3K,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+C1Fr2dLHvNMWKFuiM5nK5StfgWjbM6QcZcC5nkcYghkJ,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+C68a6RCGLiPskbPYtAcsCjhG8tfTWYcoB4JjCrXFdqyo,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+CBEADkb8TZAXHjVE3zwad4L995GZE7rJcacJ7asebkVG,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+CE8joA143dBjsCFTeBxBs3kNGNU87WH6Q7GMMfxPzSr2,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+CGZAHxBannZzYK3rzVdG1e3uNjMxrmaXDhLEZxQBbueq,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+CeGyfZdtbjzC5FeVXCBdYE1v397yxxqYgmMcUwtouJUu,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+Da8RuzF4whvWoQP8DD1rZMTi2i1u2VHFcU8zFrwfdBzA,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+EBVigEhxvkWUwreG98kTh5FbZEjnXTXC5ANZtLz4YpHQ,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+FJS2rTjAQmFFRmVqtnkceGvLJrMwUPgCUfLjciuMYkSC,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+FefAbVt2EgXMGxeJb6sB1k5pQJhiGPxw4mB1zeUohZLk,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+FmpbkPgxjoYBJ6ac6YMhZ1FycCwuG8Zs2epxgsGFYvf6,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+GcFZHQVJ2icPGLrA9qPLq88b7eqBXSUcdL1utUtUfcSD,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+HnLezgQkNVWMp2AV6mcHM1Ljst32kfsoVnYUkvXuQpjg,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+is6MTRHEgyFLNTfYcuV4QBWLjrZBfmhVNYR6ccgr8KV,solana,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi,solana,OFAC SDN,OFAC sanctioned (SOL),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+Fc1EwQUZyTEagaDvA1utHXCcZNyG1x2PLt2DfNu1cJdH,solana,OFAC SDN,OFAC sanctioned (SOL),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+FuCC7GoYwt5TsNTjWL23Xx9UKCvC18chjMEFPL3vJDCC,solana,OFAC SDN,OFAC sanctioned (SOL),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17

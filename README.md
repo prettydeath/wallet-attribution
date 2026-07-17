@@ -1,0 +1,161 @@
+# wallet-attribution
+
+An aggregated, normalized dataset of **attributed cryptocurrency addresses** —
+exchanges, sanctioned entities, scams, mixers, bridges and DeFi protocols —
+built entirely from **free, public sources** and stored as plain **CSV + JSON**
+per network.
+
+> One schema, many chains. Re-buildable from upstream with two commands.
+
+## What's inside
+
+```
+data/
+  ethereum.csv / ethereum.json      # per-network files (same nine columns)
+  bsc.csv / bsc.json
+  bitcoin.csv / ...
+  _all.csv / _all.json              # everything combined
+  stats.json                        # counts by network / category / source
+scripts/
+  fetch_sources.sh                  # clone/update the upstream sources
+  build.py                          # normalize sources -> data/
+  enrich.py                         # fetch labels live from provider APIs
+config/
+  providers.csv                     # which APIs to use + your API keys
+  addresses.csv                     # which addresses to look up
+enriched/
+  api_labels.jsonl                  # API-derived labels (committed input)
+schema.md                          # field definitions & merge rules
+```
+
+Field definitions and the merge logic are in [`schema.md`](schema.md).
+
+## Sources (all free)
+
+| Source | Covers | Category | Link |
+|--------|--------|----------|------|
+| **eth-labels** | ~144k labelled addresses on 9 EVM chains (ETH, BSC, Base, Arbitrum, Optimism, Avalanche, Gnosis, Celo, WorldChain) | exchange / defi / bridge / entity | https://github.com/dawsbot/eth-labels |
+| **cex-list** | Curated CEX hot-wallet addresses (Ethereum) | exchange | https://github.com/tradezon/cex-list |
+| **MyEtherWallet/ethereum-lists** | Phishing / scam dark-list | scam | https://github.com/MyEtherWallet/ethereum-lists |
+| **OFAC SDN (0xB10C)** | US-sanctioned addresses across BTC, ETH, LTC, BCH, XRP, TRX, BSC, ARB, and more | sanctioned | https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses |
+| **DefiLlama-Adapters** | **Officially-disclosed proof-of-reserves wallets** exchanges publish on their own transparency pages — OKX, Gate.io, Bitget, KuCoin, HTX, Binance, Bybit, Kraken, Bitfinex, Coinbase, Poloniex, Crypto.com and ~40 more, across 40+ chains incl. BTC/LTC/DOGE/TRON/SOL/XRP/ADA cold wallets | exchange (`confidence: high`) | https://github.com/DefiLlama/DefiLlama-Adapters |
+
+## Rebuild / update
+
+```bash
+bash scripts/fetch_sources.sh     # pull latest upstream data into ./sources
+python3 scripts/build.py          # normalize -> ./data
+```
+
+`fetch_sources.sh` clones on first run and `git pull`s on later runs, so a refresh
+is just re-running both commands. `sources/` is git-ignored — only the normalized
+`data/` is versioned, which keeps diffs clean and reviewable.
+
+## Official exchange wallets (proof-of-reserves)
+
+Exchanges publish their own wallet addresses on transparency / proof-of-reserves
+pages. Those officially-disclosed wallets are pulled in via the DefiLlama-Adapters
+source and tagged `category = exchange`, `confidence = high`,
+`source = defillama-cex` — including **cold wallets** on non-EVM chains
+(BTC, LTC, DOGE, TRON, Solana, XRP, Cardano…) that the label datasets miss.
+This is the cleanest free way to attribute an exchange's *own* declared wallets.
+Refreshing is automatic: `fetch_sources.sh` re-pulls the adapters, `build.py`
+re-parses them.
+
+## Live API enrichment (CSV-driven)
+
+The static datasets above cover *known* wallets. To attribute addresses they
+miss — especially **TRON exchange deposit/hot wallets** tagged on Tronscan
+(`Binance-Hot`, `OKX`, `Bybit`, …) — use the enricher. It is configured with two
+plain CSV files, so there are no environment variables and no long command lines.
+
+**1. Put your API keys in `config/providers.csv`** and flip `enabled` to `true`:
+
+```csv
+provider,api_key,enabled,base_url,sleep
+tronscan,YOUR_TRONSCAN_KEY,true,,0.25
+trongrid,,false,,0.25
+etherscan,YOUR_ETHERSCAN_KEY,false,,0.25
+```
+
+**2. List the addresses in `config/addresses.csv`** (network optional — auto-detected):
+
+```csv
+address,network
+TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t,tron
+0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045,ethereum
+```
+
+**3. Run:**
+
+```bash
+python3 scripts/enrich.py            # reads both CSVs, appends results
+python3 scripts/build.py             # fold the new labels into data/
+```
+
+Built-in providers:
+
+| Provider (`providers.csv`) | Networks | What it returns | API key |
+|----------|----------|-----------------|---------|
+| `tronscan` | TRON | Public address tags incl. exchange names (`Binance-Hot`, …) — the strongest free TRON attribution | recommended (free at tronscan.org) |
+| `trongrid` | TRON | Account metadata — flags smart-contract addresses (no public labels) | optional |
+| `etherscan` | ETH, BSC, Polygon, Arbitrum, Optimism, Base, … | Verified-contract names via the Etherscan **v2** unified API (one key, all chains) | required |
+
+Handy overrides (optional):
+
+```bash
+python3 scripts/enrich.py --addresses TR7...,TX...      # inline instead of the CSV
+python3 scripts/enrich.py --from-data --network tron --limit 200  # enrich gaps in data/
+python3 scripts/enrich.py --dry-run                     # print, write nothing
+python3 scripts/enrich.py --selftest                    # verify parsing offline (no network)
+```
+
+Results are appended (de-duplicated) to `enriched/api_labels.jsonl`, which is
+committed and re-read by `build.py`.
+
+### Add another provider
+
+Subclass `Provider` in `scripts/enrich.py`, set `name` and `networks`, and
+implement `endpoint()` + `_parse()` (a pure function from raw JSON to a
+normalized record). Add one entry to the `PROVIDER_CLASSES` map and one row to
+`config/providers.csv` — that's it. Good candidates: Blockchair (BTC/LTC/DOGE
+tags), other Etherscan-family scanners, Arkham, OKLink.
+
+## Coverage notes (honest limitations)
+
+- **EVM chains are richest** — most labels come from `eth-labels`.
+- **Bitcoin / LTC / BCH / XRP** currently carry mainly **OFAC sanctioned** addresses
+  plus a few exchange wallets. There is no large free labelled dataset for these
+  UTXO/altcoin chains.
+- **TRON** entity labels are thin in public repos. For USDT-TRC20 exchange
+  attribution, enrich against the **Tronscan** API (it tags `Binance-Hot`, `OKX`,
+  `Bybit`, …). A `TRONSCAN_API_KEY` is free.
+- **Dogecoin** has no public labelled list yet — enrich via **Blockchair** or Arkham.
+- Public lists cover exchanges' **main hot/cold wallets**, not the per-user deposit
+  addresses an exchange issues to each customer — those are only recoverable through
+  on-chain **tracing**, not from a static list.
+
+## How to extend it
+
+Add a `load_<source>()` function in `scripts/build.py` that calls `add(...)` with the
+nine-field schema, then list its fetch in `scripts/fetch_sources.sh`. The merge/dedup
+logic handles overlaps automatically. Good candidates to add: Tronscan tag enrichment,
+Blockchair labels, a private `data/manual.csv` for your own forensic attributions.
+
+## Push this to GitHub
+
+```bash
+git init && git add . && git commit -m "Initial attribution dataset"
+git branch -M main
+git remote add origin https://github.com/<you>/wallet-attribution.git
+git push -u origin main
+```
+
+## Licensing
+
+The **code** (scripts and tooling) is released under the MIT License — see
+[`LICENSE`](LICENSE).
+
+The **data** under `data/` aggregates third-party datasets, each of which retains
+its own upstream license (see the Sources table above). Review those before any
+redistribution or commercial use. The OFAC SDN data is US-government public record.

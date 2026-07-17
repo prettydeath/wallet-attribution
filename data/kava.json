@@ -1,0 +1,46 @@
+[
+  {
+    "address": "0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689",
+    "network": "kava",
+    "entity": "Bitget",
+    "label": "Bitget (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0x1dd9319a115d36bd0f71c276844f67171678e17b",
+    "network": "kava",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xd6216fc19db775df9774a6e33526131da7d19a2c",
+    "network": "kava",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "0xfb6a733bf7ec9ce047c1c5199f18401052eb062d",
+    "network": "kava",
+    "entity": "KuCoin",
+    "label": "KuCoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

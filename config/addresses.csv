@@ -1,0 +1,9 @@
+# Addresses to enrich with scripts/enrich.py
+# Lines starting with '#' and blank lines are ignored.
+# Columns:
+#   address - the wallet address
+#   network - optional; the chain slug (tron, ethereum, bsc, ...).
+#             Leave blank to auto-detect from the address format.
+address,network
+TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t,tron
+TXFBqBbqJommqZf7BV8NNYzePh97UmJodJ,tron

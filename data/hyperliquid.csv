@@ -1,0 +1,9 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,hyperliquid,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x0d0707963952f2fba59dd06f2b425ace40b492fe,hyperliquid,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,hyperliquid,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x246a2ecd9626f9eda55fffbff5216ed417a904f5,hyperliquid,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x6596da8b65995d5feacff8c2936f0b7a2051b0d0,hyperliquid,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x840760aed6bbd878c46c5850d3af0a61afcd09c8,hyperliquid,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xc882b111a75c0c657fc507c04fbfcd2cc984f071,hyperliquid,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xffeb0f61871acdb4838dfc6d5082f063e738e421,hyperliquid,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17

@@ -1,0 +1,35 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+0x742d35Cc6634C0532925a3b844Bc454e4438f44e,polygon,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec,polygon,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x0639556F03714A74a5fEEaF5736a4A64fF70D206,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x14b5f559c27bc00c39f668a88471498d68d18768,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x9b0cb31f3e9232196aeaa7cac03ea95c5a4f0e35,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xe7b3b0a59b026ec1fef16561daf93672a61bafec,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xa813251e163766361adfb9700748397977a54ea0,polygon,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x0d0707963952f2fba59dd06f2b425ace40b492fe,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x0fc73ffb9a0ded685234428e103d26b3762df460,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x1f92332145465f3e536b7be301dde8d420478387,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x54c82d26624e85000d1387ee7c9580c3c6d7b5b7,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x6596da8b65995d5feacff8c2936f0b7a2051b0d0,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x7750fe679d47a9e00575ad46043297a234e83fa2,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x85faa6c1f2450b9caea300838981c2e6e120c35c,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xD793281182A0e3E023116004778F45c29fc14F19,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xa2df23519a6059dbc6f027f6cf8e59bdaecaf56f,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xa4992ccf2a74132936b87cbf28b5d52304ba3be7,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xc882b111a75c0c657fc507c04fbfcd2cc984f071,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xf379a3d1ab6625eef34347d054cfaeafdf8f24a7,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xffeb0f61871acdb4838dfc6d5082f063e738e421,polygon,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x18709e89bd403f470088abdacebe86cc60dda12e,polygon,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x2177c77a1f3c4900de7668662706633db4688726,polygon,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x9a7ffd7f6c42ab805e0edf16c25101964c6326b6,polygon,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xd70250731a72c33bfb93016e3d1f0ca160df7e42,polygon,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x2933782B5A8D72F2754103D1489614F29BFA4625,polygon,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x06959153b974d0d5fdfd87d561db6d8d4fa0bb0b,polygon,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x41205307b6618f03be2d95747a07311456bdb143,polygon,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xbe787d53e09822cc42bfb4abe1fb4492cae3d19d,polygon,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xf81233a61c0d6d13c6fe504ddbba3e2630ea0c5c,polygon,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17

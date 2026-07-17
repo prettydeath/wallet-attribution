@@ -1,0 +1,46 @@
+[
+  {
+    "address": "t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh",
+    "network": "zcash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (ZEC)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "t1MMXtBrSp1XG38Lx9cePcNUCJj5vdWfUWL",
+    "network": "zcash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (ZEC)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "t1WSKwCDL1QYRRUrCCknEs5tDLhtGVYu9KM",
+    "network": "zcash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (ZEC)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "t1g7wowvQ8gn2v8jrU1biyJ26sieNqNsBJy",
+    "network": "zcash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (ZEC)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "address": "XcuGqRfrR85zyDrzVr1gSL5RNjwwpbu2KS",
+    "network": "dash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (DASH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "XnPFsRWTaSgiVauosEwQ6dEitGYXgwznz2",
+    "network": "dash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (DASH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1",
+    "network": "dash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (DASH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "Xs3vzQmNvAxRa3Xo8XzQqUb3BMgb9EogF4",
+    "network": "dash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (DASH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "XyARKoupuArYtToA2S6yMdnoquDCDaBsaT",
+    "network": "dash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (DASH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

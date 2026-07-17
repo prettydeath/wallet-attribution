@@ -1,0 +1,79 @@
+[
+  {
+    "address": "18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB",
+    "network": "bitcoin-cash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BCH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "qpf2cphc5dkuclkqur7lhj2yuqq9pk3hmukle77vhq",
+    "network": "bitcoin-cash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BCH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3",
+    "network": "bitcoin-cash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BCH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "qq3vlashthktqpeppuv7trmw070e3mydgq63zq348v",
+    "network": "bitcoin-cash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BCH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "qqyuc9s700plhzr6awzru7g5z2d2p906uyrm6ht0r0",
+    "network": "bitcoin-cash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BCH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "qz9f2vz3033sg5vc5mf7m7xshmj0jugy4ummf05jk8",
+    "network": "bitcoin-cash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BCH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  },
+  {
+    "address": "qzjv8hrdvz6edu4gkzpnd4w6jc7zf296g5e9kkq4lx",
+    "network": "bitcoin-cash",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BCH)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "address": "GPwg61XoHqQPNmAucFACuQ5H9sGCDv9TpS",
+    "network": "bitcoin-gold",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (BTG)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-07-17"
+  }
+]

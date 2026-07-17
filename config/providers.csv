@@ -1,0 +1,12 @@
+# Provider configuration for scripts/enrich.py
+# Lines starting with '#' and blank lines are ignored.
+# Columns:
+#   provider  - one of: tronscan, trongrid, etherscan
+#   api_key   - your API key (leave blank to use no key / env var fallback)
+#   enabled   - true / false
+#   base_url  - optional; override the default API base URL (leave blank)
+#   sleep     - optional; seconds to wait between calls (leave blank for 0.25)
+provider,api_key,enabled,base_url,sleep
+tronscan,,true,,0.25
+trongrid,,false,,0.25
+etherscan,,false,,0.25

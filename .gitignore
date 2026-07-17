@@ -1,0 +1,10 @@
+# Upstream raw sources (re-fetched by scripts/fetch_sources.sh)
+sources/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store

@@ -1,0 +1,2 @@
+address,network,entity,label,category,source,source_url,confidence,last_updated
+12sjrrhoFEsedNRhtgwvvRqjFTh8fZTDX9,bitcoin-sv,OFAC SDN,OFAC sanctioned (BSV),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17

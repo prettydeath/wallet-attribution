@@ -148,15 +148,6 @@ nine-field schema, then list its fetch in `scripts/fetch_sources.sh`. The merge/
 logic handles overlaps automatically. Good candidates to add: Tronscan tag enrichment,
 Blockchair labels, a private `data/manual.csv` for your own forensic attributions.
 
-## Push this to GitHub
-
-```bash
-git init && git add . && git commit -m "Initial attribution dataset"
-git branch -M main
-git remote add origin https://github.com/<you>/wallet-attribution.git
-git push -u origin main
-```
-
 ## Licensing
 
 The **code** (scripts and tooling) is released under the MIT License — see

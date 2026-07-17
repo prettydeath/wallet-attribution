@@ -1,5 +1,11 @@
 # wallet-attribution
 
+![Addresses](https://img.shields.io/badge/addresses-115%2C169-2ea44f)
+![Networks](https://img.shields.io/badge/networks-47-1f6feb)
+![Exchange wallets](https://img.shields.io/badge/exchange%20wallets-27%2C695-e3742f)
+![Format](https://img.shields.io/badge/format-CSV%20%2B%20JSON-6f42c1)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 An aggregated, normalized dataset of **attributed cryptocurrency addresses** —
 exchanges, sanctioned entities, scams, mixers, bridges and DeFi protocols —
 built entirely from **free, public sources** and stored as plain **CSV + JSON**

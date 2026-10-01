@@ -1,11 +1,571 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-0xed9eef56e64a8e779cfae9ddedb25d11ba2b2425,fantom,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,fantom,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x0d0707963952f2fba59dd06f2b425ace40b492fe,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x6596da8b65995d5feacff8c2936f0b7a2051b0d0,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x85faa6c1f2450b9caea300838981c2e6e120c35c,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xD793281182A0e3E023116004778F45c29fc14F19,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xa4992ccf2a74132936b87cbf28b5d52304ba3be7,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xc882b111a75c0c657fc507c04fbfcd2cc984f071,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xffeb0f61871acdb4838dfc6d5082f063e738e421,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xbbbd1bbb4f9b936c3604906d7592a644071de884,fantom,Allbridge,Allbridge: Bridge,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x374b8a9f3ec5eb2d97eca84ea27aca45aa1c57ef,fantom,Celer Network,Celer Network: cBridge,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3795c36e7d12a8c252a20c5a7b455f7c57b60283,fantom,Celer Network,Celer Network: cBridge 2,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7ab4c5738e39e613186affd4c50dbfdff6c22065,fantom,DEUS Finance,DEUS Finance: Bridge,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb6319cc6c8c27a8f5daf0dd3df91ea35c4720dd7,fantom,LayerZero,LayerZero: Fantom Endpoint,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1ccca1ce62c62f7be95d4a67722a8fdbed6eecb4,fantom,Multichain,Multichain: Router V4,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8ce95561ec220df4178899dd3c500daae2b5f5bd,fantom,Multichain,Multichain: Router V6,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb576c9403f39829565bd6051695e2ac7ecf850e2,fantom,Multichain,Multichain: Router V4 2,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc10ef9f491c9b59f936957026020c321651ac078,fantom,Multichain,Multichain: anyCall V6,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7bc05ff03397950e8dee098b354c37f449907c20,fantom,Synapse,Synapse: Bridge Zap,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xaf41a65f786339e7911f4acdad6bd49426f2dc6b,fantom,Synapse,Synapse: Bridge,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x40df1ae6074c35047bff66675488aa2f9f6384f3,fantom,bridged-token,Multichain: MATIC Token,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc511be0bc8f9c8b9b25326d6b154df38ae4c422a,fantom,contract-deployer,Allbridge: Deployer,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xccb00a288d88aafa6c0019b6431c1c1e164b742b,fantom,contract-deployer,Cross-Chain Bridge: Deployer,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x43de2d77bf8027e25dbd179b491e8d64f38398aa,fantom,deBridgeGate,deBridgeGate,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x543acd673960041eee1305500893260f1887b679,fantom,token-contract,Allbridge: ABR Token,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x31efc4aeaa7c39e54a33fdc3c46ee2bd70ae0a09,fantom,xPollinate,xPollinate: Transaction Manager,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x47f01db18a38261e4cb153bae6db7d3743acb33c,fantom,0x-protocol,0x: Transformer Deployer,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb4d961671cadfed687e040b076eee29840c142e5,fantom,0x-protocol,0x: Flash Wallet,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xca64d4225804f2ae069760cb5ff2f1d8bac1c2f9,fantom,0x-protocol,0x: Liquidity Provider Sandbox,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xdef189deaef76e379df891899eb5a00a94cbc250,fantom,0x-protocol,0x: Exchange Proxy,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf760c5b88d970d6f97e64e264dac5a3767dafd74,fantom,0x-protocol,0x: Exchange Proxy Governor,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x20dd72ed959b6147912c2e529f0a0c651c33c9ce,fantom,Beethoven X,Beethoven X: Vault,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4e5d8794f08f2792dc51016d0a4b9a205cafc63a,fantom,DEUS Finance,DEUS Finance: DEI-DEUS Staking,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa78ea447ce5aa4669a5f0cd8d27bf5883e1bf20f,fantom,DEUS Finance,DEUS Finance: DEI-USDC Staking,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6ea8de8f643ba65d8be39bd8d3b72f6daada7e77,fantom,Metavault DAO,Metavault DAO: Staking,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x80c0771dff78d0eba670f170c2b4dbbe1eaa292c,fantom,Metavault DAO,Metavault DAO: Staking Helper,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe27c0a2c2fea3c6c7fc42af05861381d8411ad65,fantom,Metavault DAO,Metavault DAO: Staking Distributor,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4c5b4f27bc268594ecacc3dfce68ad70bd21487c,fantom,MiniVerse Finance,MiniVerse Finance: MiniChillas Staking,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x78ee91ea69132e5838699c42f0c07fa98da90161,fantom,MiniVerse Finance,MiniVerse Finance: MiniLand Staking,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xda2a4abc17a87f6f7b532a37ab8b707343a97334,fantom,MiniVerse Finance,MiniVerse Finance: MiniGuineas Staking,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2a32b627621408a92b230f26faefd3ce81e29c20,fantom,Nova,Nova: NBK Liquidity,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb4eb2a636a5d2160573d4473bd0f99b963e95e8c,fantom,Nova,Nova: Operations,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd31b10a66c9aa407d86c250f3381b629aed9fa12,fantom,Nova,Nova: Staking & Farming,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfd000ddcea75a2e23059881c3589f6425bff1abb,fantom,PaintSwap,PaintSwap: Router,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3923e7edbcb3d0ce78087ac58273e732fffb82cf,fantom,Revest Finance,Revest Finance: Token Vault,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7fce87e203501c3a035cbbc5f0ee72661976d6e1,fantom,Solidex Finance,Solidex Finance: Staking Rewards,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x16327e3fbdaca3bcf7e38f5af2599d2ddc33ae52,fantom,SpiritSwap,SpiritSwap: Router,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2352b745561e7e6fcd03c093ce7220e3e126ace0,fantom,SpookySwap,SpookySwap: AcaLab xBOO Staking,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x876f890135091381c23be437fa1cec2251b7c117,fantom,YieldWolf,YieldWolf: Vaults,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x078f358208685046a11c85e8ad32895ded33a249,fantom,aave,Aave: aWBTC Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x08cb71192985e936c7cd166a8b268035e400c3c3,fantom,aave,Aave: sCRV Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0c84331e39d6658cd6e6b9ba04736cc4c4734351,fantom,aave,Aave: vWETH Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x17d013c19fe25cf4d911ce85ed5f40fe8880f46f,fantom,aave,Aave: WETH Gateway V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x191c10aa4af7c30e871e70c95db0e4eb77237530,fantom,aave,Aave: aLINK Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1ccbfec508da8d5242d5c1b368694ab0066b39f1,fantom,aave,Aave: Ui Pool Data Provider V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x307ffe186f84a3bc2613d1ea417a5737d69a7007,fantom,aave,Aave: sUSDC Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x34e2ed44ef7466d5f9e0b782b5c08b57475e7907,fantom,aave,Aave: vSUSHI Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8,fantom,aave,Aave: vFTM Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff,fantom,aave,Aave: aCRV Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x625e7708f30ca75bfd92586e17077590c60eb4cd,fantom,aave,Aave: aUSDC Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x633b207dd676331c413d4c013a6294b0fe47cd0e,fantom,aave,Aave: sWBTC Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x69fa688f1dc47d4b5d8029d5a35fb7a548310654,fantom,aave,Aave: Pool Data Provider V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6ab707aca953edaefbc4fd23ba73294241490620,fantom,aave,Aave: aUSDT Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6d80113e533a2c0fe82eabd35f1875dcea89ea97,fantom,aave,Aave: aFTM Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x70effc565db6eef7b927610155602d31b670e802,fantom,aave,Aave: sUSDT Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x770ef9f4fe897e59dacc474ef11238303f9552b6,fantom,aave,Aave: Pool Addresses Provider Registry V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x77ca01483f379e58174739308945f044e1a764dc,fantom,aave,Aave: vCRV Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x78246294a4c6fbf614ed73ccc9f8b875ca8ee841,fantom,aave,Aave: sSUSHI Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x794a61358d6845594f94dc1db02a252b5b4814ad,fantom,aave,Aave: Pool V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8145edddf43f50276641b55bd3ad95944510021e,fantom,aave,Aave: Pool Configurator V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee,fantom,aave,Aave: aDAI Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x84d85013035bbff5dd106ca7828c8781af331b84,fantom,aave,Aave: Pull Rewards Transfer Strategy V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc,fantom,aave,Aave: vDAI Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x89d976629b7055ff1ca02b927ba3e020f22a44e4,fantom,aave,Aave: sLINK Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8aa68ca9e25aab6f9f41bf341d12ab407ae099e2,fantom,aave,Aave: Fallback Oracle V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x929ec64c34a17401f460460d4b9390518e5b473e,fantom,aave,Aave: Incentives V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x92b42c66840c7ad907b4bf74879ff3ef7c529473,fantom,aave,Aave: vWBTC Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x953a573793604af8d41f306feb8274190db4ae0e,fantom,aave,Aave: vLINK Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa72636cbcaa8f5ff95b2cc47f3cdee83f3294a0b,fantom,aave,Aave: ACL Manager V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa97684ead0e402dc232d5a977953df7ecbab3cdb,fantom,aave,Aave: Pool Addresses Provider V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xba14c06011f4af5970cfde4364ba6320e190bd4b,fantom,aave,Aave: Ui Incentive Data Provider V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbc790382b3686abffe4be14a030a96ac6154023a,fantom,aave,Aave: Wallet Balance Provider V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc0f0cfbbd0382bce3b93234e4bfb31b2aabe36ad,fantom,aave,Aave: Treasury Controller V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc45a479877e1e9dfe9fcd4056c699575a1045daa,fantom,aave,Aave: aSUSHI Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd8ad37849950903571df17049516a5cd4cbe55f6,fantom,aave,Aave: sWETH Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd94112b5b62d53c9402e7a60289c6810def1dc9b,fantom,aave,Aave: sDAI Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8,fantom,aave,Aave: aWETH Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe80761ea617f66f96274ea5e8c37f03960ecc679,fantom,aave,Aave: vAAVE Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf15f26710c827dde8acba678682f3ce24f2fb56e,fantom,aave,Aave: sFTM Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf329e36c7bf6e5e86ce2150875a84ce77f477375,fantom,aave,Aave: aAAVE Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfaef6a702d15428e588d4c0614aefb4348d83d48,fantom,aave,Aave: sAAVE Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfb00ac187a8eb5afae4eace434f493eb62672df7,fantom,aave,Aave: vUSDT Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfccf3cabbe80101232d343252614b6a3ee81c989,fantom,aave,Aave: vUSDC Token V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfd6f3c1845604c8ae6c6e402ad17fb9885160754,fantom,aave,Aave: Aave Oracle V3,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4bfcbc6d507c6cf6b419b4f65670e3f7a81ea93f,fantom,anyswap,Frax Protocol: Deployer,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xaf319e5789945197e365e7f7fbfc56b130523b33,fantom,anyswap,Anyswap: FRAX Token,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa007a9716dba05289df85a90d0fd9d39bee808de,fantom,deprecated,Fraxswap: Router V1,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf55c563148ca0c0f1626834ec1b8651844d76792,fantom,deprecated,Fraxswap: Factory V1,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf010b09bfab30e9db9a51562211a215115ebb0c2,fantom,oracle,Revest Finance: Uniswap Oracle,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x59b46fbb487aa974de815f31601cbe6ba7368a01,fantom,scream,Scream.sh: Compound Lens,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b,fantom,token-contract,Aave: AAVE Token,defi,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2d5408f2287bf9f9b05404794459a846651d0a59,fantom,alpaca-finance,Alpaca Finance: Multi Call,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x838b7f64fa89d322c563a6f904851a13a164f84c,fantom,alpaca-finance,Alpaca Finance: Mini FL,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa625ab01b08ce023b2a342dbb12a16f2c8489a8f,fantom,alpaca-finance,Alpaca Finance: Proxy Admin,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xafd1eb025bf584a11112a3fc790bd715ed9a98b1,fantom,alpaca-finance,Alpaca Finance: Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xcab46f1397fdf4b0f31cef05345141e51f877edb,fantom,alpaca-finance,Alpaca Finance: Simple Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd2d638aa6ff4694a9147f2c8b09e86f569fa052b,fantom,alpaca-finance,Alpaca Finance: Chainlink Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe1d2ca01bc88f325ff7266dd2165944f3caf0d3d,fantom,alpaca-finance,Alpaca Finance: Oracle Medianizer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x049d68029688eabf473097a2fc38ef61633a3c7a,fantom,anyswap,Anyswap: fUSDT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x08f6fe8f4dc577cf81e40e03e561d29b8b33e19b,fantom,anyswap,Anyswap: DIGG Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1f7216fdb338247512ec99715587bb97bbf96eae,fantom,anyswap,Anyswap: bBADGER Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2a1651c38927bdede04f4e07cfcc55bd1c81fe72,fantom,anyswap,Anyswap: Deployer 4,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2f60c28fb2fdc90a2a5644442d0f6d8998101e76,fantom,anyswap,Anyswap: zLOT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4272dd51961a5181ace0dc7eb6f9807311345559,fantom,anyswap,Anyswap: PPDEX Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x50eb82cc284e3d35936827023b048106aaecfc5f,fantom,anyswap,Anyswap: anyFSN Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x602a3ad311e66b6f5e567a13016b712aba0625c6,fantom,anyswap,Anyswap: DUCK Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x627524d78b4fc840c887ffec90563c7a42b671fd,fantom,anyswap,Cryptokek: KEK Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x65e64963b755043ca4ffc88029ffb8305615eedd,fantom,anyswap,Anyswap: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29,fantom,anyswap,Anyswap: CFi Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x753fbc5800a8c8e3fb6dc6415810d627a387dfc9,fantom,anyswap,Anyswap: BADGER Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8063115941e612021692f28748ab1ff56c23e4c6,fantom,anyswap,Anyswap: PPBLZ Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x84c882a4d8eb448ce086ea19418ca0f32f106117,fantom,anyswap,Anyswap: BFC Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9611579c926294b0e29e5371a81a3e463650be17,fantom,anyswap,Anyswap: BCP Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa6ed5bf2c86cc267bf9b88cbd6f6587f72b2ef0c,fantom,anyswap,Anyswap: Deployer 3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xad260f380c9a30b1d60e4548a75010ede630b665,fantom,anyswap,Anyswap: BiFi Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb44f26deb0060abb49c1750bdd35d93c9e80eae8,fantom,anyswap,Anyswap: EARTH Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb688e18f34e6e424c44b247318f22367ed7df3e2,fantom,anyswap,Anyswap: anyETH Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbcacf1c62202a07e6107f250b788b10677045833,fantom,anyswap,Anyswap: anyLTC Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbfaf328fe059c53d936876141f38089df0d1503d,fantom,anyswap,Anyswap: MM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc055c698f3793577707b3e6979b089f50c314d3a,fantom,anyswap,Anyswap: HH Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc396b190f251d7f79c583fd06347a09781f085c9,fantom,anyswap,Anyswap: anyYFI Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xcf726a06f3dcec8ef2b033336d138caa0eae5af2,fantom,anyswap,Anyswap: RGT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xddcb3ffd12750b45d32e084887fdf1aabab34239,fantom,anyswap,Anyswap: ANY Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xeaf26191ac1d35ae30baa19a5ad5558dd8156aef,fantom,anyswap,Anyswap: NORD Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x084d4ba0a80bd5d35a0eb6c47b417fc60cb351d0,fantom,based-finance,Based Finance: Team Wallet 13,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1252e3f03e0caa840cbb35442d817a1686a62586,fantom,based-finance,Based Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x25430e2acb1255453135b2c64436c6b1ff8153c5,fantom,based-finance,Based Finance: Treasury,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x386b5ab400a0546db9c8831e5b0e6c1a77be3885,fantom,based-finance,Based Finance: Team Wallet 12,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x387dfb7fca2606acaacd769fb59803f6539c8269,fantom,based-finance,Based Finance: Team Wallet 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x39bb82e080e8a1b0895ab74b20a737498c56c18e,fantom,based-finance,Based Finance: Team Wallet 5,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x49c290ff692149a4e16611c694fded42c954ab7a,fantom,based-finance,Based Finance: BSHARE Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4a78d38ccaecf3be5644d63370091356805953c0,fantom,based-finance,Based Finance: Team Wallet 10,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x59bdd7397e3f988af72ffa3245b1f5bb452aaa42,fantom,based-finance,Based Finance: Team Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x65768e988006e0be65c6d6ab378a6d7509c6cf40,fantom,based-finance,Based Finance: Team Wallet 9,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6fd0c2f6cef3b83c2a463d561739d6f7ca9cf809,fantom,based-finance,Based Finance: Team Wallet 4,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x702bf114d3e80c98694389749d42ff645f0b6128,fantom,based-finance,Based Finance: Team Wallet 6,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x76bfcd12502990cb01bfa134338e5c5bdc0f414e,fantom,based-finance,Based Finance: Team Wallet 3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8aa7e17f96647e08a54880521b2f3e7f99aa11ca,fantom,based-finance,Based Finance: Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8d7d3409881b51466b483b11ea1b8a03cded89ae,fantom,based-finance,Based Finance: BASED Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x99af40c84de03e4dc27a3882309bd2cb67434403,fantom,based-finance,Based Finance: Team Wallet 7,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9ec66b9409d4cd8d4a4c90950ff0fd26bb39ad84,fantom,based-finance,Based Finance: Based Genesis Reward Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa0e0f462d66de459711bc721ce1fdcc3d9405831,fantom,based-finance,Based Finance: DAO Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xac0fa95058616d7539b6eecb6418a68e7c18a746,fantom,based-finance,Based Finance: BShare Reward Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc0ad1703d2062fb32db92cb31492bd41220d16d1,fantom,based-finance,Based Finance: Team Wallet 11,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe5009dd5912a68b0d7c6f874cd0b4492c9f0e5cd,fantom,based-finance,Based Finance: Acropolis,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf1b86a431f6c990fb37d57866bdc7ebd2f151e72,fantom,based-finance,Based Finance: Team Wallet 8,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x08101f0152a21313234edb1962e1181fb0f26e90,fantom,beethoven-x,Beethoven X: Locked Liquidity Vesting,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0edfcc1b8d082cd46d13db694b849d7d8151c6d5,fantom,beethoven-x,Beethoven X: Team Fund Multisig Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3122e55914638cf162bea3c96632b64caa5516d5,fantom,beethoven-x,Beethoven X: Locked Liquidity Vesting 5,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3be3a2cd1d02f273c28e452e45bcd7c92b2d2e0b,fantom,beethoven-x,Beethoven X: Locked Liquidity Vesting 3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5d0a9c5aac3024b1100b0f76c2c17a13453f3f33,fantom,beethoven-x,Beethoven X: Locked Liquidity Vesting 4,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x69739a7618469eed0685330d164d50ac19a9411a,fantom,beethoven-x,Beethoven X: Strategic Partnership Multisig Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8166994d9ebbe5829ec86bd81258149b87facfd3,fantom,beethoven-x,Beethoven X: MasterChef,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa1e849b1d6c2fd31c63eef7822e9e0632411ada7,fantom,beethoven-x,Beethoven X: Treasury Multisig Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa2503804ec837d1e4699932d58a3bdb767dea505,fantom,beethoven-x,Beethoven X: Team Fund Linear Vesting,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc6920d3a369e7c8bd1a22dbe385e11d1f7af948f,fantom,beethoven-x,Beethoven X: Protocol Fees Collector,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf26d401c8051c664c1d2047f0cbc34105ac68cd0,fantom,beethoven-x,Beethoven X: Locked Liquidity Vesting 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0000000000000000000000000000000000000000,fantom,burn,Null: 0x000...000,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0000000000000000000000000000000000000001,fantom,burn,Null: 0x000...001,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0000000000000000000000000000000000000002,fantom,burn,Null: 0x000...002,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x000000000000000000000000000000000000dead,fantom,burn,Null: 0x000...dEaD,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7ef2416e62cfa60ea946d0e9883654d3a6c3c56e,fantom,burn,Nova: Burning Allocations,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xffffffffffffffffffffffffffffffffffffffff,fantom,burn,Null: 0xfff...fff,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x00000087c4cebffb95746d1935de7fbcab092f40,fantom,contract-deployer,2omb Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x010da5ff62b6e45f89fa7b2d8ced5a8b5754ec1b,fantom,contract-deployer,Beefy Finance: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x05dddf0ae24992bcc937569cf7018fef311d945a,fantom,contract-deployer,Equalizer DEX: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x062f2724f64bfefbf7075a7974eaff47e74a1ce0,fantom,contract-deployer,DarkOpera Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x08589a0f5fcf62001d59cc671f4fd042548be138,fantom,contract-deployer,CursedTransistor: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0b631545aeb35466330ac887485e2e72e122e146,fantom,contract-deployer,BorgSwap: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0d284265b8682afea68f2ae9cec4e014fde7006d,fantom,contract-deployer,ChillPill: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0d52b75a02b049c6842be93fabf877304791bfde,fantom,contract-deployer,AtmosSoft: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x13c716188c38ce27b9b2b672a59543cf1170eabe,fantom,contract-deployer,Alchemix Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x13cbc2ba1d9ee5b8ebb6d58099820424e172f32a,fantom,contract-deployer,BNBBack: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x143a6fe8f4ef99f56716abd31bdd6eccbc04691c,fantom,contract-deployer,Deflationary: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x16c243a961f56819688e2cefeba9a268ce40abd0,fantom,contract-deployer,CoinBiten: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x18b4287fa4155efd149aece678a75bbd69ede0b8,fantom,contract-deployer,Deus Finance: Deployer 3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x192303cd027fa2cb10edbca7d9ea198d0a35efd2,fantom,contract-deployer,Auto Busd: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1e7b390149abb3b891e0a7027e111188032d4540,fantom,contract-deployer,BUILD: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2148ff3d74d800bdb27516aae716b67416fba093,fantom,contract-deployer,EasyBackup: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2272ecf43a7481088fa2d4ba9109804ed5a31901,fantom,contract-deployer,Circuits of Value: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x236fb4e1f7b4e60ceda6532775d32531c2fc19a2,fantom,contract-deployer,Doge Yellow: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x23ab88eef24ad383a2dff9e10aedf3a5eee71b80,fantom,contract-deployer,Coffin Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2777dac3024f42a3d90f935f4e0e65468cdbdf25,fantom,contract-deployer,Batasm Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x27da479a25603f1045f90f8d93231a0405a06a25,fantom,contract-deployer,Devil Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2add64a6077aa946282da263a839dd0caa0d1668,fantom,contract-deployer,Dark Spartans: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2ffc59d32a524611bb891cab759112a51f9e33c0,fantom,contract-deployer,Ankr: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3000bc6b47f08d3db621fc5810be37731d743e27,fantom,contract-deployer,Bouje Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x33280d3a65b96eb878dd711abe9b2c0dbf740579,fantom,contract-deployer,EverRise: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3401cf2a1064346bf1c4bf9836a44de0529c3eac,fantom,contract-deployer,Assent Protocol: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x365e82adad2c86d38bec033be04768c8ecd108e4,fantom,contract-deployer,Dark Matter DeFi: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x37112524d6ecc9efd713cc38fa0eb2be1c5efebb,fantom,contract-deployer,Blockchain Adventurers Guild: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3c55364b886d5ea7477cc181341d8ae2ef0d3edc,fantom,contract-deployer,Biconomy: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3e131c1ad2be479b411ffd7087214ca877b3c58c,fantom,contract-deployer,contract-deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3fde0292d94140b0d45e0ed0a8cbf6a269899a3d,fantom,contract-deployer,Elyseos: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x405b3ca1047c933f8d0714009bfa43b5f1da6376,fantom,contract-deployer,EGG Protocol: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x44f750eb065596c150b3479b1df6957da300a332,fantom,contract-deployer,BitDaemons: Deployer 1,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x45a09b27a99a4d0a32cd5e67ac7cf4816e2d950f,fantom,contract-deployer,contract-deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4fbe899d37fb7514adf2f41b0630e018ec275a0c,fantom,contract-deployer,Beethoven X: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5055e1d92779fb8400b922dc5f6d953786a68833,fantom,contract-deployer,DecentraWorld: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5410a97d58ea2cfe21f3b97c7b9717c73ecf46ba,fantom,contract-deployer,Cerby Token: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x54779b78d6641d7c8c7c15eef2e97d51aaba76ce,fantom,contract-deployer,Carv: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x55638a37d2c29a1c602dc0e3f81751a54dc504f0,fantom,contract-deployer,Deus Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5704aed90e870ee8a96b0ff6baf836e4cffb2229,fantom,contract-deployer,EqualMoney: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x683d0ee83bd72f10d122800b38a4fa3095a28f21,fantom,contract-deployer,Ester Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6bc5fc9d0d908ef8444a7d8f6a7e1a7050a82084,fantom,contract-deployer,Elk Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6f782fb2e2c7ca617612ae111634023dddbb47d2,fantom,contract-deployer,BitDaemons: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x73ef0b4a0ae027a34fbcbdb3a1588d42a6a3aecf,fantom,contract-deployer,BabyChimpGang: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x82b83ed9587c92b1ca45a5ede74a059d485d4e4d,fantom,contract-deployer,Dark Planet: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x84b630eb9568bd5021524855543022c2d170e85b,fantom,contract-deployer,Doge Floki: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x86665ef1660418ad0992c96929e02f97bcbf4698,fantom,contract-deployer,Decentralized USD: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x86a52094522e2ea5d55c7702895508fedbc217ec,fantom,contract-deployer,Degen Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x87a58ab71b3de67340719d4fb61b97396609a6ec,fantom,contract-deployer,Comb Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8881acf21d569ec8182441ed381ff1945bfec5e5,fantom,contract-deployer,Creditum: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9274a59595dee0b16463796fcc853cb8becb564f,fantom,contract-deployer,DexoSwap: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x93059a766fdac8771114de2ab13e0320bc3ac6fb,fantom,contract-deployer,Boneyard: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9623f62b056f06c392f764286893e14066c46928,fantom,contract-deployer,DefySwap: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x97e90db5ebfa2201eb3b8fb021f70406b310d2ce,fantom,contract-deployer,BorgSwap: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9b3a97a65a07fc2d4f25dc9aa79a4d83b6535293,fantom,contract-deployer,Degen Haus: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9c95de6923ede356c86be6506ab4e676f7e9cca3,fantom,contract-deployer,Deus Finance: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9d5b051685d9272d20af3c94134cb7ac41db5648,fantom,contract-deployer,contract-deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9e26530fbb883e92f27a2596d649f19840fd6b32,fantom,contract-deployer,Catoshi: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa31de1ba6c1b2bd564a3a4908f1cf2f23d7f005a,fantom,contract-deployer,contract-deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa344465df9af11a629d0cac25b31a3b6f5031d32,fantom,contract-deployer,BitcoinBR: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa366820f4781049e0f183697252bc6cbc4fcd9e1,fantom,contract-deployer,EverRise: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa3ef376a62ab008114c8a608c2d5393592bab649,fantom,contract-deployer,Death: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa4611527777c68583ba25eddc22d362cc0bab14c,fantom,contract-deployer,Colorful Pixel Bunnies: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa57adce1d2fe72949e4308867d894cd7e7de0ef2,fantom,contract-deployer,Axelar: Deployer 1,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb42b5c914d9df60eb8585edb8f84f7b461ec1d00,fantom,contract-deployer,Babylonia: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbb23dfe92c75c682c00e4c47613efa287dd4e31f,fantom,contract-deployer,DexBrowser: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbb25f1dd6c8756fdb22df724ce3e2a9e83d1b938,fantom,contract-deployer,Aquarius Protocol: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc009300bcfd76ced1e44ed76e2cac1a8bedd3d55,fantom,contract-deployer,Doaibu: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc0320736b61e181f7c84e80096723147665a0b25,fantom,contract-deployer,EarlyRareBearz: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc0fcf8403e10b65f1d18f1b81b093004b1127275,fantom,contract-deployer,88mph: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc690fe0d47803ed50e1ea7109a9750360117aa22,fantom,contract-deployer,Degen Haus: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd094619807ab28aadb12152a2258e5aa3f0d57b7,fantom,contract-deployer,DiversiFi: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd0f43199578ab0a4b17f59ada0e491dc100d4394,fantom,contract-deployer,Exodia: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd12bff069ba1212e82b594c741ec19f374c5c417,fantom,contract-deployer,Beast Bull Club: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd2df8db1af84e9454fc1df16c7420acb15093e91,fantom,contract-deployer,Boba Network: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd833bb1267c58544965f5530bf3df0a55a49be4c,fantom,contract-deployer,ABBC: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd927ce147f098ce634301e6c4281541b1939a132,fantom,contract-deployer,Beefy Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd99eb02d73bc1c1d80334acf5ea9588742a7b20c,fantom,contract-deployer,Charge DeFi: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xda00c4fec58dc0acce8fbdcd52428a7f66dcc433,fantom,contract-deployer,0xDAO: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xda307d1dcf885b0a0eed1d42f7327254c3b1c763,fantom,contract-deployer,DIVO Global Platform: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe1610bb38ce95254dd77cbc82f9c1148569b560e,fantom,contract-deployer,Byte Masons: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe35c2d87607dc6816c9d0492177b4da70a0a5ccb,fantom,contract-deployer,BabyChimpGang: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe4042ae1c40913ba00619392de669bdb3beced50,fantom,contract-deployer,Bulls Inc: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe523f25dd88ee2b77efb3ab1fb23beef5724819a,fantom,contract-deployer,Axelar: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe6a025845e9ab116a135dbaec6de0f521219782b,fantom,contract-deployer,Casper DeFi: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xec41b6233c080c591443473cc83c7e3f50bc1f9e,fantom,contract-deployer,Dante Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf420c822e7849a71d06f6ab6c0a4d1a043faa26e,fantom,contract-deployer,Alium Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf7c1daf7443d7307df13c81f5f0328d4c7803e7b,fantom,contract-deployer,BoringDAO: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf80341de9199aa2cc4c218f8b991e05d5aac6073,fantom,contract-deployer,BITCOIN INTERNATIONAL: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf8aeed344d9fbfacd16f78f463f151d409a2e755,fantom,contract-deployer,A4 Finance: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfd1dc8bf39bc0e373068746787c1296a5aef31ee,fantom,contract-deployer,Banano: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfe351f5ed699fd5ea80b906f89dfdad2f885a46c,fantom,contract-deployer,contract-deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfe83475880d3592833249baaacfec5ed51e29d82,fantom,contract-deployer,ChainPort: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5ab6215ab8344c28b899efde93bee47b124200fb,fantom,deprecated,Market Protocol: Old LensV1,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5ec86d4d826bf3e12ee2486b9df01d7cfa99b6ca,fantom,donate,Rarity Game: Donate,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x71c7656ec7ab88b098defb751b7401b5f6d8976f,fantom,donate,FTMScan: Donate,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xccdb6c5818116a2a93ee6ec28cf92445d56c623e,fantom,donate,Nova: Grants & Donations,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x35c052bbf8338b06351782a565aa9aad173432ea,fantom,factory-contract,Tarot: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x39720e5fe53beeeb9de4759cb91d8e7d42c17b76,fantom,factory-contract,ProtoFi: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa01c3d760738c79e10334408ae59684aa36b1131,fantom,factory-contract,Degen Haus: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc831a5cbfb4ac2da5ed5b194385dfd9bf5bfcba7,fantom,factory-contract,WigoSwap: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xda004964446e99a4b6326aec6b04199f75153228,fantom,factory-contract,0xDAO: Ox Pool Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xde1c04855c2828431ba637675b6929a684f84c7f,fantom,factory-contract,LlamaPay: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x009c921e9b8be47c055fdb6a50c0f604a4c9c9b4,fantom,fantom,Fantom: Foundation Wallet 15,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x03894d86cc6e1e41e8bba17469204d304c4e92b8,fantom,fantom,Fantom: Foundation Wallet 13,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0b2e90c831626a65a26f75153be54aeaaeeb8363,fantom,fantom,Fantom: Foundation Wallet 18,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1bffb3a232e06e06a5d9e93c8df3321f768197c2,fantom,fantom,Fantom: Foundation Wallet 1,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x35701189d211215cb38393f407b4767886deb03a,fantom,fantom,Fantom: Foundation Wallet 6,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x386aa44439e9c7181b1f0f1cac0efa478b623b27,fantom,fantom,Fantom: Foundation Wallet 19,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x431e81e5dfb5a24541b5ff8762bdef3f32f96354,fantom,fantom,Fantom: Foundation Wallet 4,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x48f7572cfbc4f246600cf816c668271034d81f8f,fantom,fantom,Fantom: Foundation Wallet 16,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x51af0532e6bd89695266e714a1b09fd1ac297dc7,fantom,fantom,Fantom: Foundation Wallet 14,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x541e408443a592c38e01bed0cb31f9de8c1322d0,fantom,fantom,Fantom: Foundation Wallet 5,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x596288a9090c9eedf87bb5f2da5d8e1bbc7bb935,fantom,fantom,Fantom: Foundation Wallet 20,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7f9d1dbaf84d827b0840e38f555a490969978d20,fantom,fantom,Fantom: Foundation Wallet 8,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x93194b30fa85d1927852769bab1822dd2b6818e1,fantom,fantom,Fantom: Foundation Wallet 10,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9fb0935d1f6e2bce2b5fd78e8cd28c8c420f7998,fantom,fantom,Fantom: Foundation Wallet 17,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc73b84eac512a04f139d4a200aae0ff24c4a5cbc,fantom,fantom,Fantom: Foundation Wallet 11,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xca81dbbbb9389a5387f0acad4d018756a04d7f2c,fantom,fantom,Fantom: Foundation Wallet 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd160d9b59508e4636eec3e0a7f734268d1ce1047,fantom,fantom,Fantom: Foundation Wallet 12,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xeb8a4eadd643ea3873dfecfba18bd709d3206919,fantom,fantom,Fantom: Foundation Wallet 3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xefc9200cd50ae935da5d79d122660ddb53620e74,fantom,fantom,Fantom: Foundation Wallet 7,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf72f6fba7d55b00c25f2e5205e6bca9aaa470434,fantom,fantom,Fantom: Foundation Wallet 21,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfd09f0296af88ac777c137ecd92d85583a9b9e4a,fantom,fantom,Fantom: Foundation Wallet 9,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x83633dca596e741c80f4fa032c75518cc251b09b,fantom,gaming,Lair of Wisdom: Lair,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xce761d788df608bd21bdd59d6f4b54b2e27f25bb,fantom,gaming,Rarity,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x053d7e3611eedb390db9b8fc9381d215069e0276,fantom,hundred-finance,Hundred Finance: Olympus Pro Bond Treasury,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0a190202ad82f2bea8be994e34d588f6e235083e,fantom,hundred-finance,Hundred Finance: Beets HND Rewarder,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0f390559f258eb8591c8e31cf0905e97cf36ace2,fantom,hundred-finance,Hundred Finance: Comptroller,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1001009911e3fe1d5b45ff8efea7732c33a6c012,fantom,hundred-finance,Hundred Finance: Admin,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x29ddb4c4f9baae366dbd40eff79d364e004425b0,fantom,hundred-finance,Hundred Finance: Rewards Treasury,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x42b458056f887fd665ed6f160a59afe932e1f559,fantom,hundred-finance,Hundred Finance: Minter,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x772918d032cfd4ff09ea7af623e56e2d8d96bb65,fantom,hundred-finance,Hundred Finance: Reward Policy,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd0bb8e4e4dd5fdcd5d54f78263f5ec8f33da4c95,fantom,hundred-finance,Hundred Finance: Governance Multisig,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf347b0e405249c78d8b261b7c493449b9275b946,fantom,hundred-finance,Hundred Finance: B.Protocol Backtop MasterChef,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfc2d09642a3ef8b9bef2264138e23e6dceac20db,fantom,hundred-finance,Hundred Finance: Olympus Pro Custom Bond,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0575f8738efda7f512e3654f277c77e80c7d2725,fantom,hyperjump,HyperJump: ORI Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x53c153a0df7e050bbefbb70ee9632061f12795fb,fantom,hyperjump,HyperJump: HyperSwap Router,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x85c85647e1a79c2b8bc3ed2b6a1dde326eec66c5,fantom,hyperjump,HyperJump: HyperMechs,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x90df158ff7c31ad1d81dddb1d8ab9d0ecbceda20,fantom,hyperjump,HyperJump: HyperPlanet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x991152411a7b5a14a8cf0cdde8439435328070df,fantom,hyperjump,HyperJump: HyperSwap Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbc2451aad349b6b43fd05f4f0cc327f8a6bca2d4,fantom,hyperjump,HyperJump: AURORA Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf640259e4032ef4f7e0a1b7a14b2473373c0245c,fantom,hyperjump,HyperJump: BurnMachine V3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1c174f6ab0753162befbb916c69def2cc1bfdec1,fantom,interoperability-cross-chain,Tempus Finance: TEMP Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0e7d754a8d1a82220432148c10715497a0569bd7,fantom,market-protocol,Market Protocol: Pool Directory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x110f2c886f8173c9075866d87f78111f8da2b3cd,fantom,market-protocol,Market Protocol: SpiritSwap wFTM TWAP Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1bc7f589d6ca55d466c917899ce7f50506703a39,fantom,market-protocol,Market Protocol: Jump Rate Model V2 Cream Gov,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5dfbf7c7dffb2b95d6eaa84474d24f04e2db59cb,fantom,market-protocol,Market Protocol: Fee Distributor,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6ade5eaf6825dfc4ec1c812e9e9240b6301b12b8,fantom,market-protocol,Market Protocol: Jump Rate Model V2 Cream Major,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x81e97e584f9acf9b57adecbd839bdfedad03534e,fantom,market-protocol,Market Protocol: Safe Liquidator V2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x86a64fe7fcd86446da62f95aea39952f6f056ad5,fantom,market-protocol,Market Protocol: SpookySwap USDC TWAP Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8e4129141be6fffaa6c1e520fa407a0d022dd97e,fantom,market-protocol,Market Protocol: Lens V3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9709d8960bef188f70620a317db04a282b95a602,fantom,market-protocol,Market Protocol: SpookySwap wFTM TWAP Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe8450dc5d6d88be26087272db46c08fa36455904,fantom,market-protocol,Market Protocol: Lens V3 Paginate,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf76028d7b33897403a1f4f5ee17ad498b3f3ddee,fantom,market-protocol,Market Protocol: Jump Rate V1 Cream Stables Major,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf8a05c5970ea365667cfa246bb81d8a0e3783e81,fantom,market-protocol,Market Protocol: Chainlink Price Oracle V2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0c35b3b57cde4a3007398045b274548a6592e9d0,fantom,morpheus-swap,Morpheus Swap: MORPH-PILLS Swapper,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x415742c217ea4941b706ff358bf6178985590cfa,fantom,morpheus-swap,Morpheus Swap: Neo Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x77e4b42c3d788735bc27ad7f494362b07ccd9f04,fantom,morpheus-swap,Morpheus Swap: Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8ac868293d97761a1fed6d4a01e9ff17c5594aa3,fantom,morpheus-swap,Morpheus Swap: Router,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x92fcfc79187bc2db094c784d2a1b09e427ede24f,fantom,morpheus-swap,Morpheus Swap: Multisig,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9c454510848906fddc846607e4baa27ca999fbb6,fantom,morpheus-swap,Morpheus Swap: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc7dad2e953dc7b11474151134737a007049f576e,fantom,morpheus-swap,Morpheus Swap: MasterChef,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x54f5a04417e29ff5d7141a6d33cb286f50d5d50e,fantom,multichain,Multichain: Anyswap Create2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x84051efb5e0c61ac1863b5de72cd5bc3221870e4,fantom,multichain,Multichain: anyHND Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd652776de7ad802be5ec7bebfafda37600222b48,fantom,multichain,Multichain: anyDAI Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfa9da51631268a30ec3ddd1ccbf46c65fad99251,fantom,multichain,Multichain: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0cd022dde27169b20895e0e2b2b8a33b25e63579,fantom,old-contract,EverRise: Old RISE Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x530759199116b9c261211d95686fd46a5f9b3175,fantom,old-contract,XR Coin: Old XR Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6a403ffbbf8545ee0d99a63a72e5f335dfcae2bd,fantom,old-contract,Rave Names: Old FNS Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x99edb1be74144c45914d12dcc3dbdc5ced1de6c9,fantom,old-contract,Potluck Protocol: Old Fang Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb0c96020aac0003e61c609bd51e1629389e43674,fantom,old-contract,Fantom Node Capital: Old FNC Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc30d1b0ce932c3dd3373a2c23ada4e9608caf345,fantom,old-contract,Casper DeFi: Old CASPER Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc45d2733819b9c9e2ec87088c1ab82bcd256c3c4,fantom,old-contract,OwlDAO: Old OWL Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc8da1a26abef9e2e41b4c89c1b345cc05ce034e8,fantom,old-contract,JustYours: Old JUST Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3,fantom,old-contract,Deus Finance: Old DEI Token 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfd46f44a5ad3227a7325b695b6ea1aa549862309,fantom,old-contract,Lira: Old LIRA Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x022fc3e5df5d474ec1b40dbb83bd71c23fb8c664,fantom,oracle,Fantasm Finance: Master Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x05cf468c96d8ae739222ad856d8d3c0b2d0d02ac,fantom,oracle,Revest Finance: Chainlink Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x287d95c954bbfc19720b320a8bfb1a60cc8cf41b,fantom,oracle,Fantasm Finance: Oracle XFTM- FTM,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x33dbc435ff3ec866d4d95bce35695943af3d074b,fantom,oracle,Fantasm Finance: Oracle FSM - FTM,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3967e99b02d86ffc84fb69fd9a7c136952906201,fantom,oracle,DEUS Finance: Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6b79d5f425e9deed2a3b83903da2bf88b31aa044,fantom,oracle,Creditum: Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc417d14f3a527cce4a1bfc0ac7ce38f8121c0030,fantom,oracle,MiniVerse Finance: Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x02224765bc8d54c21bb51b0951c80315e1c263f9,fantom,scream,Scream.sh: scfUSDT,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x260e596dabe3afc463e75b6cc05d8c46acacfb09,fantom,scream,Scream.sh: Unitroller,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x37517c5d880c5c282437a3da4d627b4457c10beb,fantom,scream,Scream.sh: Comptroller,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4565dc3ef685e4775cdf920129111ddf43b9d882,fantom,scream,Scream.sh: scWBTC,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5aa53f03197e08c4851cad8c92c7922da5857e5d,fantom,scream,Scream.sh: scWFTM,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x70f8892b9aed192b3e794f9398b62d50cf2fbbf8,fantom,scream,Scream.sh: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8d9aed9882b4953a0c9fa920168fa1fdfa0ebe75,fantom,scream,Scream.sh: scDAI,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc772ba6c2c28859b7a0542faa162a56115ddce25,fantom,scream,Scream.sh: scWETH,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd4db215db60035c7d7a3d4e91ab09c75584fd52e,fantom,scream,Scream.sh: Comptroller Storage,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe0654c8e6fd4d733349ac7e09f6f23da256bf475,fantom,scream,Scream.sh: SCREAM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe3d17c7e840ec140a7a51aca351a482231760824,fantom,scream,Scream.sh: xSCREAM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe45ac34e528907d0a0239ab5db507688070b20bf,fantom,scream,Scream.sh: scUSDC,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x07e820762910672613636d44c6e70954a6c6052a,fantom,spiritswap,SpiritSwap: Vesting,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0bf34815d05f0f6cc91a6fccb3ceacd4a1254ea1,fantom,spiritswap,SpiritSwap: Burner,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x18cef75c2b032d7060e9cf96f29adf74a9a17ce6,fantom,spiritswap,SpiritSwap: Fee Distributor,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2fbff41a9efaeae77538bd63f1ea489494acdc08,fantom,spiritswap,SpiritSwap: inSpirit Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3554f3369a3530abc031d938d2f717006fe01fa1,fantom,spiritswap,SpiritSwap: minSPIRIT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x420b17f69618610de18cacd1499460efb29e1d8f,fantom,spiritswap,SpiritSwap: Gauge Proxy,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4fb2bb19df86fef113b2016e051898065f963cc5,fantom,spiritswap,SpiritSwap: Deployer 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5cc61a78f164885776aa610fb0fe1257df78e59b,fantom,spiritswap,SpiritSwap: SPIRIT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5cec66f552b1d3406f65eb1a4a4914f448f98e9c,fantom,spiritswap,SpiritSwap: Spirit Maker,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9083ea3756bde6ee6f27a6e996806fbd37f6f093,fantom,spiritswap,SpiritSwap: MasterChef LP Staking Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb835bb6ec5219660a4e906efb3c8c00d5e6f0cef,fantom,spiritswap,SpiritSwap: Smart Wallet Whitelist,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xef45d134b73241eda7703fa787148d9c9f4950b0,fantom,spiritswap,SpiritSwap: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf9f6792ece33743664fc82eeab3cc6acaf2a8fe8,fantom,spiritswap,SpiritSwap: Maker,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3,fantom,spookyswap,SpookySwap: Factory,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x16b6deee778bbcf427e40ffa3c14c4840be10e6a,fantom,spookyswap,spookyswap,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1ad2870510e1ce60c1f3951208b99d4ab79f5ba6,fantom,spookyswap,SpookySwap: 120 Days Token Vesting Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1f269c1b8aa6dbe1b2bcb97c451a0e51a17a645c,fantom,spookyswap,SpookySwap: 60 Days Token Vesting Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2ab5c606a5aa2352f8072b9e2e8a213033e2c4c9,fantom,spookyswap,Magicats: MGC Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2b2929e785374c651a81a63878ab22742656dcdd,fantom,spookyswap,SpookySwap: MasterChef LP Staking Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x68f598280a843a5ce07c1b9fb0d3af00cd085c31,fantom,spookyswap,SpookySwap: BrewBooV2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x841fad6eae12c286d1fd18d1d525dffa75c7effe,fantom,spookyswap,SpookySwap: BOO Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9347d7629ad26fb60448eecf070e640dcb420915,fantom,spookyswap,SpookySwap: 180 Days Token Vesting Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x95478c4f7d22d1048f46100001c2c69d2ba57380,fantom,spookyswap,SpookySwap: Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa2a1c57faeceaf330cad764a7afe1e219e82df9b,fantom,spookyswap,SpookySwap: 240 Days Token Vesting Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa48d959ae2e88f1daa7d5f611e01908106de7598,fantom,spookyswap,SpookySwap: xBOO Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xacaca07e398d4946ad12232f40f255230e73ca72,fantom,spookyswap,Spooky Swap: IFO,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb07fddd8a191d540b913a7e360119fa2e1064358,fantom,spookyswap,SpookySwap: 360 Days LP Vesting Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xca79f97d3af4bce5bfaa9821a0887e50542636f7,fantom,spookyswap,Spooky Swap: Brew BOO,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf491e7b69e4244ad4002bc14e878a34207e38c29,fantom,spookyswap,SpookySwap: Router,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf4c90bba1747cac1ca332d9483fa54845948e3c4,fantom,spookyswap,SpookySwap: Magicat Royalties,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x04d04f9a200d63d8ff5d2dc1f59bff49410c565a,fantom,tarot,Tarot: Fee Distributor,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x075b7f7e2960d49c67c5a44134928e5e2896283a,fantom,tarot,Tarot: Supply Vault Strategy V2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1a8c7d27abb6c2976e35a42299674d62e775dd4d,fantom,tarot,Tarot: Fee Processor,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1f7a54df8b04ca31ac875cef5acaa247c87420ed,fantom,tarot,Tarot: Liquidity Generator,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2217aec3440e8fd6d49a118b1502e539f88dba55,fantom,tarot,Tarot: B Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x283e62cfe14b352db8e30a9575481dcbf589ad98,fantom,tarot,Tarot: Router,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3303a565741d0d41d026c12259ff2d4772d3622e,fantom,tarot,Tarot: LGE Bonus,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x36df0a76a124d8b2205fa11766ec2eff8ce38a35,fantom,tarot,Tarot: Tarot Price Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3e9f34309b2f046f4f43c0376efe2fdc27a10251,fantom,tarot,Tarot: Supply Vault Router,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x449eadd544cb6de7e12dbc0b522ee518a7641561,fantom,tarot,Tarot: Token Splitter,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x466ebd9ec2027776fa11a982e9bbe4f67aa6e86b,fantom,tarot,Tarot: xTAROT Staking Pool Controller,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x46fcde1b89d61f5cbfaab05c2914c367f8301f30,fantom,tarot,Tarot: C Deployer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4c093134657904a7c3f1e47a6d9a38955094ebef,fantom,tarot,Tarot: Early Lender,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5494b29f78714397e96086ba7542e364842a74df,fantom,tarot,Tarot: Claim Aggregator,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x63d5554b748598c191ab0cbd0e0e1c638ffebee6,fantom,tarot,Tarot: Supply Positions 1,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7e5f7da8b5d70b40397487780fdf89384cfebb9a,fantom,tarot,Tarot: Supply Vault Strategy V3,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x93d01402fc51dd906bbaadb2431ddc2ff535eaac,fantom,tarot,Tarot: Supply Vault Strategy V1,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xcf8660e267d44cc804ddbee6b1ce44f9ed564889,fantom,tarot,Tarot: Gauge Vault Proxy,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd204e3dc1937d3a30fc6f20abc48ac5506c94d1e,fantom,tarot,Tarot: Supply Positions 2,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd4fcd1d1252bf4a3134e0e848479ad90a60979ef,fantom,tarot,Tarot: Tarot LGE,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe1fe8b5c3f5b592613305fc6ff551c67cbe40e17,fantom,tarot,Tarot: Early Borrower,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf62fafc9b31b016484dcb779d8c3a0b26e9815a6,fantom,tarot,Tarot: Safe Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0615dbba33fe61a31c7ed131bda6655ed76748b1,fantom,token-contract,Ankr Network: ANKR Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6,fantom,token-contract,Aquarius Protocol: AQU Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x11eb3aa66fe1f2b75cb353d3e874e96968182bda,fantom,token-contract,Alpha Venture DAO: ALPHA Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x132331815a1d519ca461e85949c8f2ed0feaece9,fantom,token-contract,BabyChimpGang: BNA Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x14def7584a6c52f470ca4f4b9671056b22f4ffde,fantom,token-contract,3OMB: 3OMB Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1adbeb67d9986ba12cbd41076a03c64f573435a4,fantom,token-contract,Beast Bull Club: SBB Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1b6382dbdea11d97f24495c9a90b7c88469134a4,fantom,token-contract,Axelar: axlUSDC,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x22dea64a0e9ecbb13d2b0dd2d95a91a06dacb23b,fantom,token-contract,BitDaemons: DMNPUNK Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x280ebb7c9f2c90ac6dd136516598a2f9efe70507,fantom,token-contract,BNBBack: BNBBACK Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x323d0dba53ee9a6f0faa464fb099ec562b591fc7,fantom,token-contract,BetSwirl: BETS Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x38540b4613d2e57ecf190d3486ae6f74591eb8a9,fantom,token-contract,Alium Finance: ALM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3d41cf7df8cb8ff3ce51254f59b0cf41849ca69d,fantom,token-contract,Amicable Koala: NFT5 Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4389b230d15119c347b9e8bea6d930a21aadf6ba,fantom,token-contract,Boba Network: BOBA Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x44e314190d9e4ce6d4c0903459204f8e21ff940a,fantom,token-contract,Beefy Finance: binSPIRIT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5,fantom,token-contract,Band Protocol: BAND Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x47931e0d42b254dc17871ce74b1d9a37a5a36d67,fantom,token-contract,Beast Bull Club: BBC Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4f16b83e55b92e6f8f7da6d78dd19d5a00954864,fantom,token-contract,BorgSwap: BORGDAI Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x511a986e427ffa281acfcf07aad70d03040dbec0,fantom,token-contract,88mph: MPH Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x524cabe5b2f66cbd6f6b08def086f18f8dde033a,fantom,token-contract,Biconomy: BICO Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5b3c1f260e09e653290f24f75abc5e466fd42310,fantom,token-contract,Assent Protocol: ASNT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5e2e2d3ee4944d0e6c0b663625859cf8cc45ca88,fantom,token-contract,ArchAngel: ARCHA Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6437adac543583c4b31bf0323a0870430f5cc2e7,fantom,token-contract,3Share: 3SHARES Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x666a3776b3e82f171cb1dff7428b6808d2cd7d02,fantom,token-contract,AladdinDAO: aCRV Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x70f9fd19f857411b089977e7916c05a0fc477ac9,fantom,token-contract,Alchemix Finance: gALCX Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7381ed41f6de418dde5e84b55590422a57917886,fantom,token-contract,Beefy Finance: beFTM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x73db844fea1fb6fc6ea3ddaacbb0d0dc00714753,fantom,token-contract,BorgSwap: JEHMAD Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x75e0eb8e6d92ab832bb11e46c041d06a89ac5f0d,fantom,token-contract,0xNodes: BIOS Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x765277eebeca2e31912c9946eae1021199b39c61,fantom,token-contract,token-contract,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x79f8e9862c5240f316fabf31e5406e497d65484d,fantom,token-contract,BITCOIN INTERNATIONAL: BTCI Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae,fantom,token-contract,2omb Finance: 2OMB Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7b5a8f4c92ba4796c932654ba1daaa1e74c1a3b2,fantom,token-contract,BorgSwap: SAFEBORG Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7beb05cf5681f402e762f8569c2fc138a2172978,fantom,token-contract,Billion Happiness: BHC Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x7f9893ef9726d23e249518eaa1424677b7fed6a9,fantom,token-contract,BabyChimpGang: BCG Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65,fantom,token-contract,Axelar: AXL Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8bb765ae3e2320fd9447889d10b9dc7ce4970da5,fantom,token-contract,BitDaemons: TINYDMN Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9767203e89dcd34851240b3919d4900d3e5069f1,fantom,token-contract,A4 Finance: A4 Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9a775700694b0af4b0dea668f809d453eac4cbcd,fantom,token-contract,BorgSwap: SON Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa4e26bd6dcba9021dcd3a1159ba52e97cd770b8a,fantom,token-contract,Babylonia: BABY Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa5365f2e77bce1cb2d42f5c808012c01b1548d3c,fantom,token-contract,token-contract,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa57e7fd8e678d9f728a789343cd85d4c5685ba87,fantom,token-contract,Anyswap: AnyWBNB Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa91ade2730bf6041ce9de1ba9cb22ee7fea2b009,fantom,token-contract,Batasm Finance: VAMP Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xab41861399eb56896b24fbaabaa8bce45e4a626b,fantom,token-contract,0xMonero: 0xMR Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xabb63bfcbbe7a928864bd3eb75ff06746e1b8a40,fantom,token-contract,Blockchain Adventurers Guild: BAG Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xac1f25aee575d35c668b0a4d336f20e3e92adcd2,fantom,token-contract,Billion Happiness: HPS Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xad870b277b3f74f42965ed9bb9e737ca5ffac709,fantom,token-contract,Anyswap: AnyWFTM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xad996a45fd2373ed0b10efa4a8ecb9de445a4302,fantom,token-contract,Alpaca Finance: ALPACA Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb214d491a58a250a99f11ce01c361e7fad4d3e69,fantom,token-contract,Batasm Finance: BSM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb238a595e9797e009efd5f938c9918181662066c,fantom,token-contract,BoringDAO: BORING Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482,fantom,token-contract,BitcoinBR: BTCBR Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb42bf10ab9df82f9a47b86dd76eee4ba848d0fa2,fantom,token-contract,Ankr: aFTMb Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e,fantom,token-contract,Alchemix Finance: alUSD Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbea7c3f2d91a9c6fd7f5aa9c803d4c31c1db8db9,fantom,token-contract,BitDaemons: BDMN Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc165d941481e68696f43ee6e99bfb2b23e0e3114,fantom,token-contract,token-contract,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca,fantom,token-contract,2omb Finance: 2SHARES Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc5a9848b9d145965d821aaec8fa32aaee026492d,fantom,token-contract,0xDAO: OXD Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc76930c9fba70bd24ddbce15982401c1630e3bda,fantom,token-contract,Auto Busd: ABS Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xcef2b88d5599d578c8d92e7a6e6235fbfad01ef4,fantom,token-contract,Bouje Finance: BASTILLE Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179,fantom,token-contract,Ankr: ankrFTM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd2f38621c3c65300ecaba7020c05d1350f9c265c,fantom,token-contract,BiShares: BISON Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454,fantom,token-contract,Binance: BNB Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xda0053f0befcbcac208a3f867bb243716734d809,fantom,token-contract,0xDAO: oxSOLID Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xdc79afce5ae2300834b2bb575bc40cf78ef7b5e3,fantom,token-contract,Batasm Finance: BFTM Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xdda7da47f3b53aa1fcb341650c614daf554f3e57,fantom,token-contract,BorgSwap: GPL Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034,fantom,token-contract,Banano: wBAN Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe2463256e69e4c86345dc32e2ffed3283b0022e8,fantom,token-contract,BorgSwap: SPOCK Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe401e06c977cef1a87d9e9ab9346df87fd2c8077,fantom,token-contract,BorgSwap: ROMS Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d,fantom,token-contract,ABBC: FABBC Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe9828045632b32e2aac7f3a4c1511c0d8965576c,fantom,token-contract,BorgSwap: BORG Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xef324fae34199cbdfdccd4fa2a8e68e2bff919fc,fantom,token-contract,Boneyard: BNYD Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf24bcf4d1e507740041c9cfd2dddb29585adce1e,fantom,token-contract,Beethoven X: BEETS Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf7d3ac82f6732dc5ee64acdb77d98a41b5d6536d,fantom,token-contract,Anyswap: AnyWETH Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf99231d26437a5a24928fbf2cb4424d1f8010ea1,fantom,token-contract,Batasm Finance: VSHARE Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xfc74d58550485e54dc3a001f6f371741dceea094,fantom,token-contract,AtmosSoft: ATMSSFT Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x0fa5a3b6f8e26a7c2c67bd205ffcfa9f89b0e8d1,fantom,tomb-finance,Tomb Finance: DAO Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x24248cd1747348bdc971a5395f4b3cd7fee94ea0,fantom,tomb-finance,Tomb Finance: TBOND,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x32439f5a7dc35590e83aac0a80762de27ab76046,fantom,tomb-finance,Tomb Finance: Dev Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37,fantom,tomb-finance,Tomb Finance: TSHARE Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x50884e84e427432ea0aac7d9bb915c2b10bb4b33,fantom,tomb-finance,Tomb Finance: Airdrop Wallet,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x55530fa1b042582d5fa3c313a7e02d21af6b82f4,fantom,tomb-finance,Tomb Finance: Oracle,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6c021ae822bea943b2e66552bde1d2696a53fbb7,fantom,tomb-finance,Tomb Finance: TOMB Token,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8764de60236c5843d9faeb1b638fbce962773b67,fantom,tomb-finance,Tomb Finance: Masonry,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x8fb778209176622de9e3564302211f9c13405858,fantom,tomb-finance,Tomb Finance: Tax Office,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x9a896d3c54d7e45b558bd5fff26bf1e8c031f93b,fantom,tomb-finance,Tomb Finance: Genesis Rewards Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa7b9123f4b15fe0ff01f469ff5eab2b41296dc0e,fantom,tomb-finance,Tomb Finance: Tomb Rewards Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xcc0a87f7e7c693042a9cc703661f5060c80acb43,fantom,tomb-finance,Tomb Finance: TSHARE Rewards Pool,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf50c6daaaec271b56fcddfbc38f0b56ca45e6f0d,fantom,tomb-finance,Tomb Finance: Treasury,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x330b6ba54f16df0db2e1092f1ba06ffd95d5d10e,fantom,wigoswap,WigoSwap: Seed Funder 1 Initial Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4178e335bd36295ffbc250490edbb6801081d022,fantom,wigoswap,WigoSwap: Vault,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x47a88fa16f48a91c201a523cc796e31ef0efc630,fantom,wigoswap,WigoSwap: Seed Funder 2 180 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x4c3c043f8c4103c048de6fb437b95ef8209038d1,fantom,wigoswap,WigoSwap: Core Team Initial Liquidity Lock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5023882f4d1ec10544fcb2066abe9c1645e95aa0,fantom,wigoswap,WigoSwap: Router,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x515be0f005e657222d059c764726895598f0a911,fantom,wigoswap,WigoSwap: Seed Funder 2 240 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x58b1bd5e631bae7739ef5b9350aebdcc7ae4ed90,fantom,wigoswap,WigoSwap: Seed Funder 1 60 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x870c3f3bd7f1898e76640fefb43ba7cbcf9f7642,fantom,wigoswap,WigoSwap: Seed Funder 1 120 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa1a938855735c0651a6cfe2e93a32a28a236d0e9,fantom,wigoswap,WigoSwap: Master Farmer,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa1dc8780380dd99bdc1622ff4364b381ec4f937f,fantom,wigoswap,WigoSwap: Seed Funder 1 180 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa3b6ca020da0861017ff4906c435da268efb50db,fantom,wigoswap,WigoSwap: Seed Funder 1 240 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xb16bc9fb77437d86ece369ca40ef22b918934a29,fantom,wigoswap,WigoSwap: Seed Funder 2 60 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xbd5cd655be1aba80bebfa0e938cef806146ce3ab,fantom,wigoswap,WigoSwap: Seed Funder 2 120 DayTimelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xf5df3d0e928f18c02e06b5e7db54f42a8b931078,fantom,wigoswap,WigoSwap: Seed Funder 2 Initial Timelock,entity,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xed9eef56e64a8e779cfae9ddedb25d11ba2b2425,fantom,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex+graphsense,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,fantom,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x7A1CF8CE543F4838c964FB14D403Cc6ED0bDbaCC,fantom,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xDD374d8202D43a18BE95C8B64C41a87a9898889f,fantom,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xE9BB729A7eA588c2ad10acaF647124503Dbb08d1,fantom,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0B5ffAE844a4B21c7beeDed2595F22215288173C,fantom,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x50B0063161e507bEc6c21cC23FD11EC2945b7b52,fantom,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x8c7Efd5B04331EFC618e8006f19019A3Dc88973e,fantom,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xAda1fA671651D335998c6a0dE336a78F5b49Ad3F,fantom,CoinDCX,CoinDCX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x6262998Ced04146fA42253a5C0AF90CA02dfd2A3,fantom,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x72A53cDBBcc1b9efa39c834A540550e23463AAcB,fantom,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x7758e507850da48cd47df1fb5f875c23e3340c50,fantom,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xcffad3200574698b78f32232aa9d63eabd290703,fantom,Crypto.com,Crypto.com (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0d0707963952f2fba59dd06f2b425ace40b492fe,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x6596da8b65995d5feacff8c2936f0b7a2051b0d0,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x85faa6c1f2450b9caea300838981c2e6e120c35c,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xD793281182A0e3E023116004778F45c29fc14F19,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xa4992ccf2a74132936b87cbf28b5d52304ba3be7,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xc882b111a75c0c657fc507c04fbfcd2cc984f071,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xffeb0f61871acdb4838dfc6d5082f063e738e421,fantom,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x768f2a7ccdfde9ebdfd5cea8b635dd590cb3a3f1,fantom,Hotbit,Hotbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xb18fbfe3d34fdc227eb4508cde437412b6233121,fantom,Hotbit,Hotbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xc62A0781934744E05927ceABB94a3043CdCfEA89,fantom,Hotbit,Hotbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x8e1701cfd85258ddb8dfe89bc4c7350822b9601d,fantom,MEXC,MEXC: Hot Wallet,exchange,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6914fc70fac4cab20a8922e900c4ba57feecf8e1,fantom,Nexo,Nexo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x9bdb521a97e95177bf252c253e256a60c3e14447,fantom,Nexo,Nexo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xa75ede99f376dd47f3993bc77037f61b5737c6ea,fantom,Nexo,Nexo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xb60c61dbb7456f024f9338c739b02be68e3f545c,fantom,Nexo,Nexo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x50be13b54f3eebbe415d20250598d81280e56772,fantom,Phemex,Phemex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xdb861e302ef7b7578a448e951aede06302936c28,fantom,Phemex,Phemex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x06ffd89a07b078d4a1a1d9947a28e95825f9c35c,fantom,ProBit Global,ProBit Global (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x813e711993fc8ec29e9e45fb3a7e47f8c33ca64f,fantom,ProBit Global,ProBit Global (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xc78600a92caf0fcf6990e7ea7381bf4297054f86,fantom,ProBit Global,ProBit Global (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0d83f81bc9f1e8252f87a4109bbf0d90171c81df,fantom,WOO X,WOO X (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x63DFE4e34A3bFC00eB0220786238a7C6cEF8Ffc4,fantom,WOO X,WOO X (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xE505Bf08C03cc0FA4e0FDFa2487E2c11085b3FD9,fantom,WOO X,WOO X (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xea319fd75766f5180018f8e760f51c3d3c457496,fantom,WOO X,WOO X (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x574dc5842e00cf0d96545bfa680183f3499ae866,fantom,contract-deployer,Excalibur Exchange: Deployer,exchange,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x08b3cca975a82cfa6f912e0eedde53a629770d3f,fantom,factory-contract,Excalibur Exchange: Factory,exchange,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xa588c99de311d93479c0c4b4eaa24b751f443efa,fantom,old-contract,MCash Exchange: Old MBCASH Token,exchange,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1f56ccfe85dc55558603230d013e9f9bfe8e086c,fantom,,exploit,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x489a8756c18c0b8b24ec2a2b9ff3d4d447f79bec,fantom,BNB Bridge Exploiter,BNB Bridge Exploiter,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x701428525cbac59dae7af833f19d9c3aaa2a37cb,fantom,DEUS Finance Exploiter,DEUS Finance Exploiter 2,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x1ed5112b32486840071b7cdd2584ded2c66198dd,fantom,Deus Finance Exploiter,Deus Finance Exploiter,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x11111112542d85b3ef69ae05771c2dccff4faa26,fantom,Fake 1inch Contract,Fake 1inch Contract,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x47091e015b294b935babda2d28ad44e3ab07ae8d,fantom,Fantasm Finance Exploiter,Fantasm Finance Exploiter,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xdefc385d7038f391eb0063c2f7c238cfb55b206c,fantom,Grim Finance Exploiter,Grim Finance Exploiter 1,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5089a0553c08212256ed72a65dcac91b5d91f7ff,fantom,Nova Exploiter,Nova Exploiter 1,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xc2d12c37acbfd5593bcae162bd12a161e0d2786e,fantom,Nova Exploiter,Nova Exploiter 3,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe2d7d415640249ec37d30458c71f73972146ea20,fantom,Nova Exploiter,Nova Exploiter 2,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x6a6d593ed7458b8213fa71f1adc4a9e5fd0b5a58,fantom,One Ring Finance Exploit Contract,One Ring Finance Exploit Contract,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x12efed3512ea7b76f79bcde4a387216c7bce905e,fantom,One Ring Finance Exploiter,One Ring Finance Exploiter,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x2c177d20b1b1d68cc85d3215904a7bb6629ca954,fantom,ReaperFarm Exploiter,ReaperFarm Exploiter 2,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x5636e55e4a72299a0f194c001841e2ce75bb527a,fantom,ReaperFarm Exploiter,ReaperFarm Exploiter 1,hack,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x628f094c6ef383271f37516df7abf869046d6aaf,fantom,Fake_Phishing1,Fake_Phishing1,scam,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0xe43d8f9e2ea875c6e342e7b3f78acbbae0a9110b,fantom,Fake_Phishing7,Fake_Phishing7,scam,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01
+0x3448872bba4b87ca48cae98602795a9ceb9c57c1,fantom,Fake_Phishing8,Fake_Phishing8,scam,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-10-01

@@ -1,14 +1,300 @@
 [
   {
+    "address": "addr1q976xcl3r2vt6he4q3rq6lyq8832v5mgpdds0e84z7vn0hma5d3lzx5ch40n2pzxp47gqw0z5efksz6mqlj029uexl0snqdsul",
+    "network": "cardano",
+    "entity": "21.co",
+    "label": "21.co (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DdzFFzCqrhstFM5XQYA28G2ekCkvpb6bPdhUT5vcsZtqYT3i7wAtjNPCTEGNbUmgL4ym9udeV5k6Utc3vCmAbky6Bvda72r1SQknZH9L",
+    "network": "cardano",
+    "entity": "Bitfinex",
+    "label": "bitfinex Cardano ADA hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "addr1qxrlkh6yh0km5m5n7923syel0yqqvc3pjrnqrzrz3gwpxd70prfqwehanuxzkwmv55ff9gr7tjx5vymykd2galr9chaqlwjwm9",
     "network": "cardano",
     "entity": "Bitfinex",
     "label": "Bitfinex (proof-of-reserves)",
     "category": "exchange",
+    "source": "defillama-cex+graphsense",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8080hxmacdlnhrjllmurq35uj8jnj4ak0egxyl0zx6y9hns6jxls0ngn2qadghy4h7dterk0gzm3y7czmh8zlsfvmesug72j9",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8j70zld3p2dhpgkxksprpsmzm4qhfhm2l6w9wk44gqs6264x2gg8f3gacy3x74ew8felyagrtq3lztx4cnx90cs09fsp87nrj",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8km36sd4wgt6f5e3n557nk454tqwxzg670fxylsztsccq5yy7w9y0uz4hlc3j2veln52xu3ktrrrzkr4p9ays0uhu5q6vukqh",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8rgxa3edn03lywl8c9hk6p3c6rpyf9frhqe6a97qtrjktkxsdmrjmxlr7ga70st0d5rr35xzgj2j8wpn46tuqk89vhqaglq5q",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8w6ydejn4v89cxmvmltzg4g0y4xkg84p3sqf3gmdst032pef9780gqwzm4c5q3m4juvp5q08e37yx9rvhfxahv7kywqn7h8jp",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q93njnfcfeky7ygfg5wjk3pms74qnxtashr7xmwnzykxpgp4yjdypphupnvrnskz8uj55cuzydmnmmnjvy70hytezjssux9ahu",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q94vgjd7zfesgq06vgtrqe9q9g2rjtl6yn35gepwta9eqz25ts95j7frk9yh479d2fqln76xj4gldjflczkqwq003q3s39lprc",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q98xhywsa3xgu79ftrjyrfg6e2wrxfgqvepnudusw58ee6vmw0j8gzw6hmyuefah02purkfvqj6x2pz2wpjr26mr8r7qv6v2qa",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9czs903atc9hmz9vf8sdrqgk33dz9hnwdgpgx98q4fsnj9t3n4wl5p8j9uqg4ewj740uupwjsv4c8p0eckuh3p0tjasl8v77f",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9fe0wv28yd6pse9hrwqn8rhcudj42e4z3a5vveqyqww6uys8ta3zga2drsxq42e003wxm7lvxt9skmrnst8f6z7sytqke4up9",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9lnc0jsh3f76hmapmsf8m7d6a32gm993gyhjspfvjgpdatl8sl9p0zna40h6rhqj0hum4mz53k2tzsf09qzjeyszm6s6n08gw",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9pag8w4fhlfntk53te5ggjcxfv3a47pjs3kp79espx0xa3ry9xxlmzqcs8t8xj28xmw5l34pcdshnm80hjlsl0rlgwst42fps",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9vp536dm7jz05h8qfux247yl4c2cnzrz6kj9p3wh6u98gxuef7ar9t9kpnwpnnksgz8x4tuqtup6jch7yg55kns3p5s4vhaqa",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9xfm9pxac0vhxym802eagwmtc0aus5w5uhc0tg9rslzzhfcj99akd57ewpta8ww9wf3vp9af3psmyw62vy00tvk3yaq9c3yw6",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qx26c2mdztwk02fyn43692lzqcxscf0ujye06vv3jadhsazwram6xhx09z4yka4q6uexkelc92df9dysnjf5nhajvmnq2e4qwf",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxdsu34cmfw7er4zmd4702szx7yhc9gayrnyv6lsm89k6mafmzzku8yt4xqu7tqh3qctas87ukfswf0h3ytq9c92razqph7vpw",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxpah9ck505d7dvxvkvh33v5awrxv89vvjcduhfu29fr7dns6jxls0ngn2qadghy4h7dterk0gzm3y7czmh8zlsfvmesxrkkg7",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxrs00m9qntkxhru8vdmd4xz562rv3ajck36l9yvcs06nwzcx8u53x99sahetdtaascmug9363m5sjjx8aullxgswvesy5td9l",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxt89e3xnepa336w0t6td4as2awn0e57nk6f025r26rwug8q8t28pdfqtkt90eeafdf4axmzrh46cg65u47z59tscj3qfpxyxx",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxxm602az76en6rjyvurmdpv7sj8jwxxfxv9jvjrttvrxt5l8pzavzkxpxuha8ra90t0h3s2zs5dhv2jmaq3mm6snfkqdmj5vl",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qylmz3tepjdum5alfegjw80xawkqxrqy0lzl9ndhrcmr0dg34hvrr6m7qg538lpd6ppvxe7gp47rm36vyjw9cckuc0qsg26ngm",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qyswadm6cz8u2lt8eh752d8434dgtjuvkmp3yv00klcuqm50s7wwjnhjjrt6h206nlzavqmsaqfllzslny5zyhfhemgslhpqe5",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1vx7vlgvuupzvvls99penvatpm2c4j9ljscevzsnn3awk8ys6xynxk",
+    "network": "cardano",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxheka95t9mgdvpta5tn7k0hzkd4vefm3xu2dgy20fn8nevvquk8gyd0mj7cfgju0ww69qvekezlf74jxl7jajds2dpqtr5hcc",
+    "network": "cardano",
+    "entity": "Bitlo",
+    "label": "Bitlo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1q9n7fk3ldjprw08egt78ekdseec4h27kwyc597wk54d30mjmj4sg7lyj4mpf0qmkzc7rz4j3g8ge0pgq25ju9wzqengq7qqf4z",
@@ -19,7 +305,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1v9wa6entm75duchtu50mu6u6hkagdgqzaevt0cwryaw3pnca870vt",
@@ -30,40 +316,216 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
-    "address": "addr1qyn4lcv64v40a4667j7x3gjmc4wt32dejakwnwxx2geyemp8tlse42e2lmt44a9udz39h32uhz5mn9mvaxuvv53jfnkqc00vz5",
+    "address": "addr1qxawa6kw3wxtqxdaegrcph045lpqh3gkk4t9xj0ype676n59qwmq25cjka2q0zsjp0dq8a8c8v83p4p0twrp4q04a08sdm3epa",
     "network": "cardano",
-    "entity": "Coinbase",
-    "label": "Coinbase (proof-of-reserves)",
+    "entity": "Bitunix",
+    "label": "Bitunix (proof-of-reserves)",
     "category": "exchange",
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
-    "address": "addr1vx6h5wyagdu70ecth9xmcnlnq9jct42nj4mm4ej3fmrcmvgaycmzh",
+    "address": "addr1q9pnql2ut22sw3695jxcegfu8f273jyw78u8605tlx3gj0vf7nsu5v2rrpxpxwsx5ekxx07m3yy4jry5v706aqa4gklq7mwa54",
     "network": "cardano",
-    "entity": "Coinbase",
-    "label": "Coinbase (proof-of-reserves)",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
     "category": "exchange",
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
-    "address": "addr1vxwzm0hd3vpsxg9p7mm386ahul8l08jvq2v6cm7v5gg9p3cx8al02",
+    "address": "addr1qx7ulwm3gkfxdxzsvsd3a8j8tfxql2j75tc572wk73zyz9kg6jsax3gztqfqneqsw05k7vl4r74zt9aaxe93gsxdx8lqjzrfdz",
     "network": "cardano",
-    "entity": "Coinbase",
-    "label": "Coinbase (proof-of-reserves)",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
     "category": "exchange",
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxdx2vxw9mdqkwq4eyss4xd03g9amv5ahw7je9d7ms748ey6v5cvutk6pvuptjfpp2v6lzstmkefmwaa9j2mahpa20jqudqquv",
+    "network": "cardano",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8m3qp920cljg5g079909xrvhngfln5u9n8xug6jtz44rfsm9sj09fksz42yhj3gfcukrlfarty39dac26wd5wp2gsrqc6cuxk",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8xeul4sslt5xyeaa02vzgquwagv84t9xcjekauja5cz4wsat2uc2fe4mqfdzaaag2y9nevju4p5va0yqf0tuj9cmu7ql9emkc",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q90372c396d7w0cw3agseaj8vf4t8m9e3lwwc752jd30hyt4pthja5v60hfjesrayhrc7tnasnsev0uka3c0vpukazms5uw76h",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9h690lw5hpd37r4ngmlhf0y8wms394y4dlm0wa6nmann9pm8fwxgvusmpkhsgtl3gdlj988mllq7teadjlk3eld3c6qyc3yf6",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9m8eq44qcqe40yz0jwcuc3vs9t7zr6ukz8ctvfkjma5dmxdlpn5em67csmpgdeqvkjl6ppwe29a85ddgdmmg0nmpfusnq98e6",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qx47g9mejkukkspsp6jdjdzf2lmektye8w7n0cm9ukxvewdljr2awtjh5r9kgt5evrkk6j4fe2pe33etuvazrg3flnnsg0jlex",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qx824fl32wrgankldpnyt7txz0mel5d9cldfkus4xykl3uzqzu4gt7tqpysglu8xz7fgt4ym6el57wl7fm80wy99d3ks0srn98",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qy5dqjx4mtegqu6kx5gu6upkk96c8haf38eksj5tr8g5dae2z9j36evkf2ek7zej3exgls6czmr4vz3ff8h952f3933sw25zf4",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qy7f98r5ar2ayyst7lmm90tl630tsetygecz36vq33qmvevngs3w3w3mt4l3em80z5f9e64j0jj37hazql87nfmzrfqs3f7gum",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qyu9n5wtyufnp6vuhcak38tx4lw37znzkulat7s987xtv86xx265k42gtvuvkt4vyjjxgqn9wat2zmda3f7ns2pl2y2qwtgdav",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qyzrghamkktczv3wujrdqt243emzu49zu0z3vxw768kpy0fknd8whx6gnzwtg78yxfuxwu4z8k4zsk9rvx34sxalet5sgjcn56",
+    "network": "cardano",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1vysfm34dhk3an94lz0s8p76rcze7ee5060dp9uenku5g2jc9dapls",
+    "network": "cardano",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8yrpu5fw3qw62fjezu72pap8munej98zpgmxgrye6rw6nkc65axaph2qhcn9f08edaujlju8uflqpra9sqyz96w7rpqmn48ww",
+    "network": "cardano",
+    "entity": "Fastex",
+    "label": "Fastex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxmsmmjh668w66h4xjvrkyl8wkqcpdnpkn5qhv9yuendnfa0stadpn6g73vwrjs06udq2rnmlpr9twejzdrd7nghk5msus5aqd",
+    "network": "cardano",
+    "entity": "Fire",
+    "label": "Fire (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q99z92nxflfj0qz28ux8ctl85xcylhyaglfun9s57qfwr9jet4kdnjhzk34nxce5dnxx3jqmsjejtkkwkwn4s8tele9slecdqc",
+    "network": "cardano",
+    "entity": "Gate US",
+    "label": "Gate US (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1q9lqxlvk2dk8sffhr56gc4c4lckpv56l4r7wwh474caywurve9ssnt966vmezsfsppfm5sxgu5sqxacp8t7kpjzp9yxqn24ckj",
@@ -74,7 +536,29 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9lxym523pnns50dyymdv3n8vktyc0nkedr54c8d2prgxsumfyd8qtrg9yr4lqadjtczu6y94rtevjua36rv75v0qsnstezggc",
+    "network": "cardano",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qyxuqrcjfyyz99yx4s307x33tu45944j607cywzvh3ykxw8c0cqknc77ed7uu7v465ufhkuu73ve6x7r9emq8vfkhxts23pyk4",
+    "network": "cardano",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1qyzppj9mh28q9d7x070j7aphnn6dx5lsh203zukzs7q68jqf08fcmxg8h9tvx8m529hjjnm9g3pt8vlkh95em7nup32sm78295",
@@ -85,7 +569,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1q8wk8rw6xeqzerhahlhweuukkxme0fjsy4xqsqze3m4r8lxavwxa5djq9j80m0lwaneedvdhj7n9qf2vpqq9nrh2x07qfmr8sf",
@@ -96,7 +580,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1q9n8v7e76pt4mmvxqprc4k7nk5nqz4x2flplfr0azq9dtnz5wckfyaph0sj98f7nc5g98q9dv2v8ece9jm8w30upgfvq4zhpjy",
@@ -107,7 +591,62 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DdzFFzCqrhsuQV5ohP1EBh9d4UjmmWDb2Vui2s2SACSBDeEW74kHhp3zj9hvLFDb9mK7hRr7fbctu1UYatPaF1omXiXPwf12bn7DQvbT",
+    "network": "cardano",
+    "entity": "Huobi",
+    "label": "huobi reserve wallets ADA",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8dgvzrpa385vgs3wr9p3r0ns66327gwpgk6u0y6qp3nzjj3a3hmh3hw4kjhyc2tr2pt6m6jcl2t90s8nkpn6hcx9rrsl9ydew",
+    "network": "cardano",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9nj5y9yuth0yauwjcgl5dws56m652c3hvxnwkhc0pmhuaulecprn0pq0jlf6jk3spp6aheq2m9fpvuj6ehxufjkpm2sk3apes",
+    "network": "cardano",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxd2v6emtjaf53h8qywdux0jrdsny78djgkjvku6c2e3rk8d66hu9tv6g6ugspljr46mtytsyq7hsp8x80z3lcrvz7nq8lrr4x",
+    "network": "cardano",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qyuns2krdrf9w630ae6whdrwh6p4n0qq9hetk0ld6atr25whmelaqedvtfllmx64r0vngz2dwzkzhdjut4h8p78s7rxq67cw9m",
+    "network": "cardano",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1q87n2sy2n3k844h98wxt530rr70vhkrg05prkqls60qtpeqq38w20v22ed8lufl5llnz6h3yl0mgcm9h8jsx406t6qssu03ga8",
@@ -118,7 +657,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1q9h4f2vhh5vnqgnsejan3psw6mj3a504fxlqm2eh3262qufesdvfs83ulr22vprsv9mwnt0vgkfwxlflxkns32twqzdqjpq2na",
@@ -129,7 +668,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1q9vespgxm3dk5kfgg9zgkfae8j5f8r3gnz405tm83tfwgj6enqzsdhzmdfvjss2y3vnmj09gjw8z3x92lghk0zkju39spn42mj",
@@ -140,7 +679,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1x86wkztx2pqvvh9nlqclpfn3lc43gh8gjgqe258hp7fflr05avykv5zqcewt87p37zn8rl3tz3ww3yspj4g0wrujn7xsn3ekxy",
@@ -151,7 +690,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1x8z7n429sfah3edwj5cgle7hjur5ge6z20shr644lrxe9l79a825tqnm0rj6a9fs3lna09c8g3n5y5lpw84tt7xdjtlslelrez",
@@ -162,7 +701,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1x99gcg9us9jfp6gtsrgsenjjreg9ytevv7ha8nvyzuz4ef623ssteqtyjr5shqx3pn89y8js2ghjcea060xcg9c9tjnspxv0pn",
@@ -173,7 +712,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "addr1x9qy3qeu59ngqfwe2uv4qz7n8y2wzzk0n5h3t0r2sdmflrzqfzpnegtxsqjaj4ce2q9axwg5uy9vl8f0zk7x4qmkn7xq27ppet",
@@ -184,6 +723,215 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1v804l0u7q4ju4eyrd8ykvvdehryn6qyz3n4nh8ucfr8s3pgeskjvu",
+    "network": "cardano",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1vy9wq3je4xrfhuha4krxfe9sw7q2ll2k7pcfsfdmayvue4qw7dgc9",
+    "network": "cardano",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9phfjzqhcndne6chkxvtwt209n4335ghy0389mp5jfh3gyhry659z5gnwn04r2as2hy9m4uuqvlhjm0gm7r9dd7j65s7tsfxa",
+    "network": "cardano",
+    "entity": "NBX",
+    "label": "NBX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qywum3fvtfrw4t52xk6y2ls9dsgkgwk759fxrnpae7f4q5d3uk2aw97ypjvvf3kjy43pl4axma6c4sjadq2lwlx80tus3k4j0v",
+    "network": "cardano",
+    "entity": "NBX",
+    "label": "NBX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qy77lfdhpnxyl90t58amp2x3dz0lhgzttmw53g2nxe360x7aht5vw4djzh7jluu6jrl384l6u628ymh4yghgnfgk3kqsjymy5j",
+    "network": "cardano",
+    "entity": "NonKYC",
+    "label": "NonKYC (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qx3c3m0c48pk66qhv8rxwexr4h0yxa0y4uzjuy9pwzvul7tg8j5jpxu3w839gmzqwhpv8ms3zm8xwvmuqnyx44q3vfeqfa0vt7",
+    "network": "cardano",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxyl2w9m3le06ap89j089tm90ks4xttscmz5yup4rupg7jnp2e4cx2g5aznrx754xufx4c63sz0rp2u3em6wktk8sp0qxrsrjl",
+    "network": "cardano",
+    "entity": "Poloniex",
+    "label": "Poloniex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qy7kcd0qrvc5t6mqqacz8ta5jc9an6xj4uqavreey3gf45pads67qxe3gh4kqpmsywhmf9stm85d9tcp6c8njfzsntgqxsu4m8",
+    "network": "cardano",
+    "entity": "Poloniex",
+    "label": "Poloniex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1vxn9jr4ewahttr8wd8d2a4n2jq96crcje0c8402s9spzppqgmv9hu",
+    "network": "cardano",
+    "entity": "Poloniex",
+    "label": "Poloniex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q8n8jmkaqfwnw9f6f6cwex5uv9vl606s9945qp2t2ffrzypdlx09ue7ha5jvmda4re0pexpl9pshqjx8a8eqfs0kya8qg8hsat",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9agg3ljmqtvcyz4yw92kvmz6sctj03zy5fvynjv7m8pzraxqqlken6uqfrvxr5qa3yrac593hlmmnjxrjzk6qkzyqwqke4uf9",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9agg3ljmqtvcyz4yw92kvmz6sctj03zy5fvynjv7m8pzref3pwu5zst9u9hwxe3djpu6nrwn2eul9wnm0gneq26808sffzugd",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9sea30p9wqy9ad2h3klpwhxudd45fvqfe5mqpcfdh8afycx8tzdkudm7udv9uvfz6epmqdnucud9jv6twpu338mqymqdcphs3",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9vrcmu4sr7yrspknu8gwrzgrs6wuh0e6pkk9tyz2clg9llt77jyl7422xv72h9mc9kmsgvajssj4a4cpsv07n4e5lpqkfe9ft",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxfcqh0yylf0zan0s4c6a2pt5jkulryqjfjrn8vll253m3skcrtekcs32m5d3nqvrayrmngkv6zz5zkvtldrllprshzqk0z64f",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qxqut96hxv5zxmhcgspmnq9tuaf6xglvq6tdv8jm5zltatv5hnm8tps2jw73pherd4l9yuuetxlp6gkeufq5p6ftjswssk33fx",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qy2muwyr7edegpw4ywn50jnzw7kkpxjw7rjsuf27ws668yswdttyth96zpsjwfuf6m9x2ccgwz0p0864uvavs3qtfkgsaa2jy3",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qygcz8flfwuzwtqxk58chs8g5htsghxyk7ltkt4rlp0c4h98heedkjaf00sg4ec4lh9vlsw988d58t207a86jp00npvspv7zpu",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qyy6n8xnyzulrax4mt0d5kdy93qm43qg4wxy09dw6apdxpqzldjpstc72lsna3krj6damxt32gw9jllr4q3u7mhg7jhs5u7jhd",
+    "network": "cardano",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

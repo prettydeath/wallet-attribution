@@ -1,13 +1,27 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-JDQ7EW3VY2ZHK4DKUHMNP35XLFPRJBND6M7SZ7W5RCFDNYAA47OC5IS62I,algorand,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-NWPUVAIOBZHBVLCCYGERFGQ3ZRQPSJ7R6UB3NXFBF552BGYAGX4I5TCVCY,algorand,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-UGYKOYFAEB6373DVH6ME6BFVHNG6BMWTYU6VZBMFFI2YQ72QACBSZLNYZ4,algorand,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-7BL55CRKRASIQI263JQ5H5A4JJQFSHL7RWXMCKM6YDZAIJVEZQ76SXF2S4,algorand,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-BVMEUTF37WNEQ6GYCZISRFHGLEMOKT5OCPPTTJXVED6JBSXKF6YJJRZRI4,algorand,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-J4AEINCSSLDA7LNBNWM4ZXFCTLTOZT5LG3F5BLMFPJYGFWVCMU37EZI2AM,algorand,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-2X2GV36S66B64URLMRZ4O4IGLWSM5MEKIE6J5VREIZC62GVKCSH25IG4PM,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-IMGMVBZEPMM36AIMWI7FZHG2G44KEESC5ALZHWX7B7SBNBDY6Z7COYMO6U,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-NDVDIGWEP77WQDDU5M6F7AAS77AOFXLML7DNNPUEVLQMKTIFHYTTMAG6OU,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-T6MXHXMGXURKJ7AD5NCB4IYPLWXYXKKFLLO5KAPJ56GKS7BFXHNHOODZCM,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-WBI5LT2BQ7FFYBXW2PEDVB6KBX2F3C77WXBJ2FPVERBXXBUV6SC7XXPGWM,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-YXDKDH5XHXL6OYMH2HYCJCXOZWPOBEUNK5ICFVJRFW3JVQXZ6HQ6QPVQVA,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+JDQ7EW3VY2ZHK4DKUHMNP35XLFPRJBND6M7SZ7W5RCFDNYAA47OC5IS62I,algorand,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex+graphsense,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+NWPUVAIOBZHBVLCCYGERFGQ3ZRQPSJ7R6UB3NXFBF552BGYAGX4I5TCVCY,algorand,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex+graphsense,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+UGYKOYFAEB6373DVH6ME6BFVHNG6BMWTYU6VZBMFFI2YQ72QACBSZLNYZ4,algorand,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+Q3GDAVXJLVHL2YNTIP35LMXEIZRGLLANSUGXGG4O2O44RZYYFNAU32OBNU,algorand,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+TBXO5VXDTYVFRQBMK3PQZZRPCEKME2D7EKNBTT5MB4P2FOGKX4SPGNOB5A,algorand,Bitlo,Bitlo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+WECLYJ4ERN445J4Y4IDRV274HMFG7MJ3A2IWOUCHSUKEQNORIVW7QEKKNY,algorand,Flipster,Flipster (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+M6LWANJOQD6KK3KBN7N6RSPAMDWZNJNCY62LWWW5KH4ZUCH5RL7P27TS24,algorand,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+4EHCQSBDXQDSR4MFASDP2TGNKVDCJEKA5FUCHLAJ7FVTANR42JISNPV6UU,algorand,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+7BL55CRKRASIQI263JQ5H5A4JJQFSHL7RWXMCKM6YDZAIJVEZQ76SXF2S4,algorand,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+BVMEUTF37WNEQ6GYCZISRFHGLEMOKT5OCPPTTJXVED6JBSXKF6YJJRZRI4,algorand,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+J4AEINCSSLDA7LNBNWM4ZXFCTLTOZT5LG3F5BLMFPJYGFWVCMU37EZI2AM,algorand,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex+graphsense,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+AXKCE4MXLRGFTUBQY7PMQDBIDNNFRKBERZN2RCYL7RMH6NAEX5SWAERFYY,algorand,Indodax,Indodax (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DXMMSEZGA2BLSV5H5KPMXLYEHQOYCRTFRYEBZW2ASK2PNT73GFEN3DFGMY,algorand,Indodax,Indodax (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+E6X462WQOSYOTSJD7BKPESAZPYFQRTQEJVRP2AWF3QWGYDG2J3VWJMFR4E,algorand,Indodax,Indodax (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+IAVWTKTCLQOGRGGNJ2DCWEASXD5K247OE3WKGIVTKGNPRURQXBZILTEXEU,algorand,Indodax,Indodax (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+UIGJ7VRNBLCLLXH6VRVUJRSHWJVCCPK6UURXZAY5POJYAR43N75ZLKRD7M,algorand,Indodax,Indodax (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+2X2GV36S66B64URLMRZ4O4IGLWSM5MEKIE6J5VREIZC62GVKCSH25IG4PM,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+IMGMVBZEPMM36AIMWI7FZHG2G44KEESC5ALZHWX7B7SBNBDY6Z7COYMO6U,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+NDVDIGWEP77WQDDU5M6F7AAS77AOFXLML7DNNPUEVLQMKTIFHYTTMAG6OU,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+T6MXHXMGXURKJ7AD5NCB4IYPLWXYXKKFLLO5KAPJ56GKS7BFXHNHOODZCM,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+WBI5LT2BQ7FFYBXW2PEDVB6KBX2F3C77WXBJ2FPVERBXXBUV6SC7XXPGWM,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+YXDKDH5XHXL6OYMH2HYCJCXOZWPOBEUNK5ICFVJRFW3JVQXZ6HQ6QPVQVA,algorand,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+5L26VADNZTMVSLEGTRZJQQO233G5HUBN3H6TECS2LPUL3HUKXF6UT2YGFE,algorand,Latoken,Latoken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+ROH5LMHZLKHUGTNAVWNQB5LG4XHBFXM4FKNUUREDAB55UWDH2TY7S35KMU,algorand,Latoken,Latoken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+26NEOQ2ZVVM6C53LVFC7MUNA32HF4S2DCZT5JZ5SDSKTN4OOMA7VMIRZVA,algorand,NonKYC,NonKYC (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+2BNEJ7ZV2SDGRZ2JGXTSVWVIBK5FYKAERAWXXGYZ66TSWWGHWAPXJ52HAE,algorand,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

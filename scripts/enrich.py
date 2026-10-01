@@ -34,6 +34,7 @@ Optional overrides:
 """
 import argparse
 import csv
+import gzip
 import json
 import os
 import sys
@@ -319,10 +320,13 @@ def targets_from_args(args):
     if args.from_data:
         path = os.path.join(DATA, f"{args.network}.json") if args.network \
             else os.path.join(DATA, "_all.json")
+        if not os.path.exists(path) and os.path.exists(path + ".gz"):
+            path += ".gz"          # build.py gzips files larger than 50 MB
         if not os.path.exists(path):
             sys.stderr.write(f"! {path} not found; run build.py first\n")
             return
-        with open(path, encoding="utf-8") as f:
+        opener = gzip.open if path.endswith(".gz") else open
+        with opener(path, "rt", encoding="utf-8") as f:
             rows = json.load(f)
         seen = 0
         for r in rows:

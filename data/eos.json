@@ -1,5 +1,104 @@
 [
   {
+    "address": "bitfinexcw21",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexcw22",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexcw23",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexcw24",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexcw25",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexcw31",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexcw33",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexcw55",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens cold/wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitfinexdep1",
+    "network": "eos",
+    "entity": "Bitfinex",
+    "label": "bitfinex EOS/EOS Tokens hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "9f5WpnpDCAWHXk4HYARp7NKBJV58QSkCKAC2vucsaVBjPgKsght",
     "network": "eos",
     "entity": "Gate.io",
@@ -8,7 +107,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9gQYrh6yubA4z55u4TtsacKnaEteBEdnY4W2r5BLcFZXcQoQDcq",
@@ -19,7 +118,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9iKFBBrryPhBYVGDKHuZQW7SuLfuTdUJtTPzecbQ5pQQzD4VykC",
@@ -30,7 +129,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cg3QZnNBPvXUiaAJzXqR1Ria2egcLXgmmRu9wGa2nQk5aV7FP",
@@ -41,7 +140,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cg6usTPiL5jS36gj2PUeqzMciJE58pphJgaQcDp8513jVAtc8",
@@ -52,7 +151,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cg7UxrDtRbE1REmDTAZWGk6x1Dgp5MdrvuuarjsMsNaoS4eUp",
@@ -63,7 +162,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cg8igunJcEk6hGCxhpkYCginE43SayNKELcZMN8grcbyNtcg9",
@@ -74,6 +173,17 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "vuniyuoxoeub",
+    "network": "eos",
+    "entity": "Huobi",
+    "label": "huobi reserve wallets EOS",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

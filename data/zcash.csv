@@ -1,5 +1,10 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-t1MMXtBrSp1XG38Lx9cePcNUCJj5vdWfUWL,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-t1WSKwCDL1QYRRUrCCknEs5tDLhtGVYu9KM,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-t1g7wowvQ8gn2v8jrU1biyJ26sieNqNsBJy,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+t1ZmpK4QFcvyQZ3ghTgSboBW8b4HgiZHQF9,zcash,Internet Archive,Internet Archive,entity,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+t1N26vuBpBG9oTZ3ixtHxrhbhDWA24NPaji,zcash,Bitfinex,bitfinex Zcash cold wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+t1RRKgYb1bTmtUZvwqc3S5vLN5h8vke3xUY,zcash,Bitfinex,bitfinex Zcash hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+t1MMXtBrSp1XG38Lx9cePcNUCJj5vdWfUWL,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+t1WSKwCDL1QYRRUrCCknEs5tDLhtGVYu9KM,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+t1g7wowvQ8gn2v8jrU1biyJ26sieNqNsBJy,zcash,OFAC SDN,OFAC sanctioned (ZEC),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+t1R2tWtBWr7Us5PSXoLJZgEPoxPbNL8uk5C,zcash,bithextrade.com,bithextrade.com,scam,graphsense,https://github.com/graphsense/graphsense-tagpacks,medium,2026-10-01
+t1KAedN3mupcum5ffF7DF5KNz27vRB9pYnr,zcash,dexcompetition.site,dexcompetition.site,scam,graphsense,https://github.com/graphsense/graphsense-tagpacks,medium,2026-10-01

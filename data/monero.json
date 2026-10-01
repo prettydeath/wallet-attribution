@@ -1,5 +1,390 @@
 [
   {
+    "address": "49HqitRzdnhYjgTEAhgGpCfsjdTeMbUTU6cyR4JV1R7k2Eej9rGT8JpFiYDa4tZM6RZ",
+    "network": "monero",
+    "entity": "Asset listed under US Treasury OFAC Sanctions List",
+    "label": "Asset listed under US Treasury OFAC Sanctions List",
+    "category": "entity",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "884Bz8UH63aYsjVdkfWfScRYWZGGNbjFL7pztqvWNSrtYT4reFSwyvkCj9KEGUtheHh",
+    "network": "monero",
+    "entity": "Asset listed under US Treasury OFAC Sanctions List",
+    "label": "Asset listed under US Treasury OFAC Sanctions List",
+    "category": "entity",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "42CU1xexo9PB2uM3B3iwgcA49Phzq6QJsMZhw469XYTVdX1Y9WXV4R4asR6qBFL7xuCBYNfXodmSiTyWf7Hi23ckQDTaauH",
+    "network": "monero",
+    "entity": "Bitfinex",
+    "label": "bitfinex Monero XMR cold wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "48iVBYd8rHfH4aTKffWXwpTqpo83dKUthimYZbHfPF3W4P66mEw2f8yCNg4JfY8pgkjge1fnpT8XuLwgUekQnKK8SqGj3a8",
+    "network": "monero",
+    "entity": "Bitfinex",
+    "label": "bitfinex Monero XMR hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "42WzsvZCEaLTqy5HSCH4KL1eE2W5vCZ9cbSKP45L8o9PDt3yPPaELbAGkBx3wCfGAbK3PRdUjKkaq2eUZ3eyYoB64nUDgDk",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "42dbVDYvhiK9DVSDK6MENPb4rdaFKsxD9ccjhoUNamiD9t2PoHqqF5Ea5Djg3pAnwo98mk7wLGDZTYWNxs7tfP9jKzAXUQP",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "42nBfQ6REne64i699MYuip4E2xm8cpNEpRcHFh5qfpSn98j5cCfH9boE7W96SjuBA2afCUY2igLsNbPfugtqba45SZLqtyL",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "42qypZQGMzNfFa5yXBxkqxL4iDw5cmzbtCC81dKcQbMrhLrsJUYAFSsLs9Um4hG32R5GfaqfgGj7oR6ZJ7pGyaY3FFu9HKD",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4375rZoyk27TSyhpoR92i3Vg9FfDk53EkXRBxX11hpsUESyTojKM9Ey1PJwBDXBPhhUfw7DG5N5hZM8QP2uzT2Ww25c1Jwq",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "438fUMciiahbYemDyww6afT1atgqK3tSTX25SEmYknpmenTR6wvXDMeco1ThX2E8gBQgm9eKd1KAtEQvKzNMFrmjJJpiino",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "43omKZg9j4DVF3d3Z3NvpN5BhCCnx95nCMJmPPgdXjdj8ztP5CdabUbHXPzzkpqdCSUe3j69HF2d1RebwYm3ZN3yKas6j5z",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "44CwACm8z4FfK2AtijbLng7YaNjN6LB7wRxdgV783J4JXbjdg43c9KxCWqaMNJ7xZzNicWqE4wp6j56G34UNWiSe1odp8mU",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "44FyzKfdAyWR873fbTquWSgJvVXBcXZr7AuNopEAkS4Hf3sH2NthaBBT74Bu9ohizNMDdjsiH9tEvANNiNpRZSAQ799Musm",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "44dfNpKNdVbM44eBSymRRTGSJjCKyjhK45S4YWceAwqojB6WnWh8naeDWQ8eA3orM74N1mcG8NdZP7RHzRh3Btwu3CZYmo2",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "44tLjmXrQNrWJ5NBsEj2R77ZBEgDa3fEe9GLpSf2FRmhexPvfYDUAB7EXX1Hdb3aMQ9FLqdJ56yaAhiXoRsceGJCRS3Jxkn",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "454SH9mut5QFtR2De3yPhDRMiuJPnMfqTWtQzuUD7uzqTcaPbV6epu5ZtSrzpKVqK9KAKkNT1dZ76Mg1dxidT18rBnMrAuH",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "459QZHgByeRVLA8U3JrPEF6H2XbjLQyjnDQV5JWFD8cGSw5wSfGHxqzRt6kkM672tb7NGks5MuKMBffuUsfhDZ4p3BBbk48",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4677b543TDbV83WZXTbmapFdHZQRnusNE5eBQfWrwemwSoQ634W4Hu427HCF7vWvuodx6hvnhwv3u3UQER8bGqJyPNgjC1p",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "46mC7MANKTXeYnbN6KYamx6SYJyB19uAr53rvmG8XdyNfjHwbEcgjeoBsxmK7oqo3CbTHVDqtV6afgciN1qBJKUu2SiECWx",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "47NwyoaE5e98tz6SFuF9L99x8P55UeT1HDAJjwjMWMG9PuwpfYg6nRpNzXoShWgweHFSTKQwbnmRUdvM22QXHpR7MfENain",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "47c35fve7ipTpHsDDRMB83Dc7taW1KVYKjkqWKpEGY7JZQqUQQhpYrTe6eXc7r2nvE8Vd2kGuB1tx7mrEN753kf3EHLKr3M",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "47kTv9YpTbfDXg8XsKZ18Fe8UAYQw5BLRNTpNZN4sp9oDhtTtizfaN37FXcypyKJmyTcb5TBnVd1k4qFevhMjkrvFBjEVM8",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "484zzmeaq2AjNxmdeSDGQ7DL5UpUWpkUt3WZF4DzY33A4eASNkJqLnD4Pa4QuDGYX7LzdWJDp3XSjR4x8uvgyruC8Shs6c3",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "48jCHB6VfDp7Khr14tF6bihyi6pwefLWVaWzK9dCQwCkeqzHg3roLgdSQ6LhZsP4j64yU2A6xQdCnNucA3Ftyd5DQYPAWbs",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "48jewbtxe4jU3MnzJFjTs3gVFWh2nRrAMWdUuUd7Ubo375LL4SjLTnMRKBrXburvEh38QSNLrJy3EateykVCypnm6gcT9bh",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4A7xM312vX9DnZpGeDaxTGasTyPTqAM5QFyzHy8vva7ufFVcVeW3NVnAXTzSdxnPgY469fnD81MpDZW4zjea4nyyNbBFnnh",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4AAM1fWwAsPVBvrTQFQEArE1pNyMztDUfH6cXSYsxq2taAAMZLeVEH2RrpyF6w685v49oCj3u7pnUKP9a8KD74AK5XP74QK",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4AVhrfB7yeEgCQANzFeKwxeerLnRxESsRQsMsVU8uZevfG3uCdSM8jdfGmFYU2P7P9R1cceyVrAGuLUg3uNTWXisVLXgaph",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4AkJvUXUVNTgUwnUDsToY3e1xEAVWcgX2etGdfi1KWS4DWqXNZnFe85AJ3e8GNjV8TNBNXGEWyGB4gErSFvBcyr3PZPrFGs",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4BEBM4QWZcsJkMK176Jz9CPePVvfhyHLwLKa8mNxeCEPEexkCyGGdNQTEYDebp1e9QR5G8PugH9QtK3GDYxD9NxsKgcivYR",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4BHE9T5HUqbRzsAaq5grGq31G3JevBD1RBNbRdWQLg8ESYugNNyyAnt2JL9ZuWA1w72g4LPr25rSHjQJS6MwANT3MMJFA16",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWDDsN1jJYDwRjdr3ZF",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "82bzRSARwWgApWVHq3h8ucReyTznschUeW8kGWLBtKuZexjWUVPSkZQK4sg8tgLzPJ99fxL5YWhs1aPH1W2B3MEj9EcXP9E",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "83TgCtrG6GXDF9Vmx7MZPRR8diUWBMKFxcMPd23MgdGfRx5WFujRkDfE4uGpBq83VX3edbBbPSesmepTVENZepks4LFFGLP",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8BDKkQY5eNJXBwcDqQ4mAU1XjoJZyqqBCcCwNpk1wf6JheywNttqeRNKNqB2LkXAXyM9usXbkH3iJ7p7BrHJdSPcTU2QZcd",
+    "network": "monero",
+    "entity": "Alt-Right Entity",
+    "label": "Alt-Right Entity",
+    "category": "extremism",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "44dZUJ7w1T3fKAvFW8XyXUVoAGSbFvXef2wcbnsjNKGWYorpLJBjth5VKSFhLGkpYKJb2J341tdZHBnbpv72WL7e8zuxfR2",
     "network": "monero",
     "entity": "OFAC SDN",
@@ -8,10 +393,10 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
-    "address": "45ezvPejNsKYntjhyyeb7fbfzilsxYQozc5Ffseh8jPGW4JZQQVXykNTfK5uGFiij7Hp3qPv3T5HCR7F3Fnmz2mzE1aKQwo",
+    "address": "45ezvPejNsKYntjhyyeb7fbfzi1sxYQozc5Ffseh8jPGW4JZQQVXykNTfK5uGFiij7Hp3qPv3T5HCR7F3Fnmz2mzE1aKQwo",
     "network": "monero",
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (XMR)",
@@ -19,7 +404,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "47FVhkRkWgnLs81UBqgY8ui6axAB1627HJjkY2qPnWxMbGfx7387kcY6RzScHgGMQAaH6CBxKXAS4862tS2fhs9BRdmuyav",
@@ -30,7 +415,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "49HqitRzdnhYjgTEAhgGpCfsjdTeMbUTU6cyR4JV1R7k2Eej9rGT8JpFiYDa4tZM6RZiFrHmMzgSrhHEqpDYKBe5B2ufNsL",
@@ -41,7 +426,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "5be5543ff73456ab9f2d207887e2af87322c651ea1a873c5b25b7ffae456c320",
@@ -49,10 +434,10 @@
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (XMR)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "84AwzjeFWXNEuhj8LWinXo93AqYr6wS8ZcnaBCoGhrL7EtvBMBovdhiUSV9xLhjrPA8t64hYSaMc8bHtWXoV9129EHUjU62",
@@ -63,7 +448,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "86ze8c9oUftDSTxzFBhfSJYpjvw6GYkqjeEaggy3hBVL1ou2tk79DfSj5YiZ3wjDHp541tizcQ8bVCxCtVHQncuc3asa8wz",
@@ -74,7 +459,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "87XWTP9tBECHXCwbyMK1KENoy4GeXkRviNzmhNc5Pvo5ExZ1QXjtRRyFeXPuHf7fNiS7KzBZNJeGweJhMbFB647171y66id",
@@ -85,7 +470,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "884Bz8UH63aYsjVdkfWfScRYWZGGNbjFL7pztqvWNSrtYT4reFSwyvkCj9KEGUtheHhhMUj87ciTBFyzoesrMJ4L1FvSoxL",
@@ -96,7 +481,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "88wRZuGMuC5YQvXpKpeLFHQeZWW28XtGyZCizkqeypTaRcjzNNKVrCg7PpoEeWaj5A7wwbh5M2X9ycXrfUkbeptACsG4bVn",
@@ -107,7 +492,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "8ANG5NBnApL94YAKRfCSaS7g2fjEi1DWVcFNTn3wQ5HpfsgtnusgxaXE24bbhXukTgF8esRnMsWaReRiqNbSBSbmRE5Nm5M",
@@ -118,6 +503,6 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   }
 ]

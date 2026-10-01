@@ -1,46 +1,65 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-12T1tgaYZzEkFpnPvyqttmPRJxbGbR4uDx49cvZR5SRF8QDu,polkadot,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-13AE11jLvxcxsjqaSoWFXCTGUfbjXb1gmZTY8x3TXJzWutmf,polkadot,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-1F5fhgHpekmLPSdbwESJRsWU5KJdhEFZuwBMTj1czBuvyzm,polkadot,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-xdc27f03b6bc690a5739b0603b4c92eaff176e3d567,polkadot,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-xdcc1b519019639c7e684c6626440b448582cbe0a75,polkadot,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-123tA7zfH9XdqHX5v9W4mB4VfmrjE95yJvdvMbpWv5V851rX,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-133kTjVSJA9VDrybSVCWahbQ5BQ5WevtLmHoGKp83dGPT,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-13fKFYVSosvQZKhPP8izubADEn6q9a4np3uqw3YWjA6Hk,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-14ooXLY2gmiUTVym9SnKxNwEgcoikXzMEav2kiLjr7pPPHPR,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-15NtvAi8CGHrbaUBvXdki8GXc5YfHM9yTv6HGmaYDetLH2ob,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-15dZTKqG6YZiQNiisMZP1DT4J6J9bmEEC4Bkz24nMC1ccRe2,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-1665ypcQXKmqXtjE9yuWsZqK5MQmBQokFjPGLq5SvoKAWBjQ,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-16ccyj8JqnP8d2DSaifgek6kSSBAu5cGtd4mu2uXTg4H6mSU,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-17R6Ptkz9i1LhiKyMhnitUMkgFygGeeQUFZvRx6GgV8Fc,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-1JVrK16XZm9vyZjHoYVPjtZ35LvTQ4oyufMoUFTFpAUhath,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-21B6SER8NUWRVZcNM8LjAkYoVvms1EN1sKCfxJgTtN7MWpWm,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-21Te3eubq6Yc7kv2FzVUvBLiyQnTZVe7nXodvexsKSZYBeoYuR,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-24gQ7Fx4XgTk262QCmaZjPbV9UEfJNHZ7zTLuYmkUfmGCMwH,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-25FVW68A3B38AAWpyrRzV8vn4vybqBTBMKdbRc1YrCqD64b7,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-26VDZeYLgh8QBcG5e3TvRkkzuHc7SuuUn2c63sLY6E19vDaU,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-2ZwykiMYYMPx7NUodb4Z9VRzYqLrrxEpPcVuNKwT3kSQaSerQW,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-MTCNynuhCFJsFAwExEsXWe6tnydfnyv7WqA1SxVfsE9DT3YiG,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-SP15R31KXD5C0N9ESSG7B28M3DP6ZQE2GSED759B3,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-SP33XEHK2SXXH625VG6W6665WBBPX1ENQVKNEYCYY,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-SP3RWVFCERVDYEE1F9630H13P0Q0GEAGDC9MW9BJ0,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-agoric155svs6sgxe55rnvs6ghprtqu0mh69keh3wdjs4,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-agoric1jm068whkhkxk48gx80ppm2m0nwy677pryr9uea,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-agoric1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9npn88m,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-agoric1xunyznpjmj9jv5e2zwngp2qrzmulr2gg29rpeq,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-ak_2UHGyGVYKx8L7EgPw88x3Dm2CK9WerYSTVWDf6RLuNEUxKu6q8,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-ak_2tNbVhpU6Bo3xGBJYATnqc62uXjR8yBv9e63TeYCpa6ASgEz94,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-ak_6sssiKcg7AywyJkfSdHz52RbDUq5cZe4V4hcvghXnrPz4H4Qg,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-sei155svs6sgxe55rnvs6ghprtqu0mh69kehwl7mxz,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-sei1jm068whkhkxk48gx80ppm2m0nwy677prmjk402,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-sei1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9vsqw3v,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-sei1xunyznpjmj9jv5e2zwngp2qrzmulr2gg45sg0h,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-165tzcxR1o2EUkpZVr17DxQsdJwtEkB6HAh69hQubmKGL93f,polkadot,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-14B3z6xL9vGgKz8WptoZabPrgH6adH1ev2Ven4SiTcdznfqd,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-14n7KYKKjZohVapvNYnWdCVu7oCJMjyWHqehGcC11wE7dKWv,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-15abPBmJrMY7QJeCEQJQbQ9a62A7ndfTo8KC7Wn4dzt9zMMg,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-16UvKYsqojoivDsNXH3d5G48oXMfo1asxA4NtF2GxhoBjZHz,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-16hp43x8DUZtU8L3cJy9Z8JMwTzuu8ZZRWqDZnpMhp464oEd,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-1Dkx7zjy4pRMwLQwWkbhb9Jxy7EXLfkdHVRXufwvdLV73QV,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-1gn68eNGNGqV3QjVcRRDVfw22xFn1eFyUizHCENVn256LXh,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-1xpD24SQ9UgeFPQ2P9eRc7dppjgU9hiHDULqvWNfH3g3U54,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+161fEUkrGhhAog8QG1ik3sfch9UzPdvAJtUwRH6WZnsgqkuw,polkadot,21.co,21.co (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+12T1tgaYZzEkFpnPvyqttmPRJxbGbR4uDx49cvZR5SRF8QDu,polkadot,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex+graphsense,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+13AE11jLvxcxsjqaSoWFXCTGUfbjXb1gmZTY8x3TXJzWutmf,polkadot,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex+graphsense,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+13R98s5YQLiYUw8nhhKUD2KuPVko4xyc9rTtXFHRz5L5DF1H,polkadot,Bitlo,Bitlo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+1F5fhgHpekmLPSdbwESJRsWU5KJdhEFZuwBMTj1czBuvyzm,polkadot,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+xdc27f03b6bc690a5739b0603b4c92eaff176e3d567,polkadot,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+xdcc1b519019639c7e684c6626440b448582cbe0a75,polkadot,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+12xu4vLmFGvhgX93JXVxxLJdkkngkKj4WQQcJXt2Es55G9S9,polkadot,CEX.IO,CEX.IO (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+14ct4em2mEorhkQBFg8eJPYyHB1y81L8tPz3qHwL1jJuDh4X,polkadot,CEX.IO,CEX.IO (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+16k7GSZckaQEqatoxpvxy8QgGSquULbKJa9HgEeQjZV8YyCr,polkadot,CEX.IO,CEX.IO (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+16iUCscbCHM5mkszPaogRJioxHRbew8YB34nWqsoMkaX1XDZ,polkadot,Fastex,Fastex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+133kTjVSJA9VDrybSVCWahbQ5BQ5WevtLmHoGKp83dGPT,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+13fKFYVSosvQZKhPP8izubADEn6q9a4np3uqw3YWjA6Hk,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+17R6Ptkz9i1LhiKyMhnitUMkgFygGeeQUFZvRx6GgV8Fc,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+21B6SER8NUWRVZcNM8LjAkYoVvms1EN1sKCfxJgTtN7MWpWm,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+21Te3eubq6Yc7kv2FzVUvBLiyQnTZVe7nXodvexsKSZYBeoYuR,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+24gQ7Fx4XgTk262QCmaZjPbV9UEfJNHZ7zTLuYmkUfmGCMwH,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+25FVW68A3B38AAWpyrRzV8vn4vybqBTBMKdbRc1YrCqD64b7,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+26VDZeYLgh8QBcG5e3TvRkkzuHc7SuuUn2c63sLY6E19vDaU,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+2ZwykiMYYMPx7NUodb4Z9VRzYqLrrxEpPcVuNKwT3kSQaSerQW,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+MTCNynuhCFJsFAwExEsXWe6tnydfnyv7WqA1SxVfsE9DT3YiG,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+SP15R31KXD5C0N9ESSG7B28M3DP6ZQE2GSED759B3,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+SP33XEHK2SXXH625VG6W6665WBBPX1ENQVKNEYCYY,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+SP3RWVFCERVDYEE1F9630H13P0Q0GEAGDC9MW9BJ0,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+agoric155svs6sgxe55rnvs6ghprtqu0mh69keh3wdjs4,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+agoric1jm068whkhkxk48gx80ppm2m0nwy677pryr9uea,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+agoric1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9npn88m,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+agoric1xunyznpjmj9jv5e2zwngp2qrzmulr2gg29rpeq,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+ak_2UHGyGVYKx8L7EgPw88x3Dm2CK9WerYSTVWDf6RLuNEUxKu6q8,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+ak_2tNbVhpU6Bo3xGBJYATnqc62uXjR8yBv9e63TeYCpa6ASgEz94,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+ak_6sssiKcg7AywyJkfSdHz52RbDUq5cZe4V4hcvghXnrPz4H4Qg,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+akash155svs6sgxe55rnvs6ghprtqu0mh69kehwgz2ee,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+akash1jm068whkhkxk48gx80ppm2m0nwy677prm92ys3,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+akash1xunyznpjmj9jv5e2zwngp2qrzmulr2gg4rvesv,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+aleo18lpsmdx0hzwhw6ejaad5j8hjngwddyn0ap8ws8cr0z7gls4k4s9qz5ww07,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+aleo1svz4av4u2fazqse02mkq9x26602hncucnp27ujuucha5c9a7j5qq2nklgu,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+allo155svs6sgxe55rnvs6ghprtqu0mh69kehdq4wh6,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+allo1xunyznpjmj9jv5e2zwngp2qrzmulr2ggktma70,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+sei155svs6sgxe55rnvs6ghprtqu0mh69kehwl7mxz,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+sei1jm068whkhkxk48gx80ppm2m0nwy677prmjk402,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+sei1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9vsqw3v,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+sei1xunyznpjmj9jv5e2zwngp2qrzmulr2gg45sg0h,polkadot,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+16ceMbQrLZgd9mTyxe72s5KZtUcFcLDx4Kr6diijxVU21RoA,polkadot,HashKey Exchange,HashKey Exchange (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+145pfvzsdw4zcZHv8v97rY1C8MfbKN5LKDV7JaNgm6tA65bE,polkadot,Huobi,huobi reserve wallets DOT,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+15kUt2i86LHRWCkE3D9Bg1HZAoc2smhn1fwPzDERTb1BXAkX,polkadot,Huobi,huobi reserve wallets DOT,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+165tzcxR1o2EUkpZVr17DxQsdJwtEkB6HAh69hQubmKGL93f,polkadot,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+14Y6v82Rwp7FB7m1K4a6anpjbwRbdFLJWpeePqe4sFpa4yxw,polkadot,Latoken,Latoken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+14tVS1ETLT8vqwaiCSjiqv55w59xWqUjFy1c5U9z2nauYYsj,polkadot,Latoken,Latoken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+14B3z6xL9vGgKz8WptoZabPrgH6adH1ev2Ven4SiTcdznfqd,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+14n7KYKKjZohVapvNYnWdCVu7oCJMjyWHqehGcC11wE7dKWv,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+15abPBmJrMY7QJeCEQJQbQ9a62A7ndfTo8KC7Wn4dzt9zMMg,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+16UvKYsqojoivDsNXH3d5G48oXMfo1asxA4NtF2GxhoBjZHz,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+16hp43x8DUZtU8L3cJy9Z8JMwTzuu8ZZRWqDZnpMhp464oEd,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+1Dkx7zjy4pRMwLQwWkbhb9Jxy7EXLfkdHVRXufwvdLV73QV,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+1gn68eNGNGqV3QjVcRRDVfw22xFn1eFyUizHCENVn256LXh,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+1xpD24SQ9UgeFPQ2P9eRc7dppjgU9hiHDULqvWNfH3g3U54,polkadot,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+14E9TaC4TGxUf63wrDCxFNvcwdDAo2s9XMcQaChwHS4EXqyF,polkadot,Phemex,Phemex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+15hTaSogYFyGyRJhXdpQWRR1J9oya5nj4nFppi4XgUVMCvmP,polkadot,Phemex,Phemex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+128so5uC4TXG49q6s2zUYSU3nP4CkUYprAxdUMsHyaxPRA6f,polkadot,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+12xHzb3NT4e8MAWwJUGfhTD7R41Abyfa3NdYDGqqL3V64PLG,polkadot,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+157zgQi6M5tn8U2aRQNh5tG7rj9Lif76xPxJnmJcfmbCGsQ3,polkadot,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+15Fg7p6pzLo6uinCFdsx3HTWdAx4vFt8nnw2E3JWHHwh9NCn,polkadot,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+15mENJiKxtbxE2PNcB8qTaatYKjFTN4kitEzZ5eiHFGW3DVU,polkadot,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+1xXbYy1V5Sc3EQZ76wmcWy4gXTSyLbzgdDNJtGT6jEcL2z7,polkadot,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

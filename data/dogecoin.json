@@ -1,5 +1,38 @@
 [
   {
+    "address": "DMbNFKqJpr9B9XPfZL5zbgMTvzpN7h7sfz",
+    "network": "dogecoin",
+    "entity": "21.co",
+    "label": "21.co (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9xFftuJonFHopj9FB6tyW1kyxqusr4jrGh",
+    "network": "dogecoin",
+    "entity": "Arkham Exchange",
+    "label": "Arkham Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DQQckuSMsiFjaAdGiNjvDyswcz9RWQU2xe",
+    "network": "dogecoin",
+    "entity": "Bitfinex",
+    "label": "bitfinex Dogecoin hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "DTHZron9cR6WstH6VcdsVZwSbVDEnFKkGQ",
     "network": "dogecoin",
     "entity": "Bitget",
@@ -8,40 +41,370 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
-    "address": "DCqkF26vcqG1FGJiB7L73jyTDeFkjeEPvJ",
+    "address": "9tAKQbiRPJxosnuUFGivL2kP3UEEeqdnd1",
     "network": "dogecoin",
-    "entity": "Coinbase",
-    "label": "Coinbase (proof-of-reserves)",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
     "category": "exchange",
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
-    "address": "DLuceb7v8vHknepvYRTzz5bSMUAqax8vTN",
+    "address": "A2is3pqH2jz8jcRNV2QEFnLF3FAP5hBEoB",
     "network": "dogecoin",
-    "entity": "Coinbase",
-    "label": "Coinbase (proof-of-reserves)",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
     "category": "exchange",
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
-    "address": "DNhLqkURqaQDW4f4J9wxtVzRw1XxhkjZ6m",
+    "address": "A3UdEKpx5HR1hJvKKw7iVbwp6MRn3yZAiK",
     "network": "dogecoin",
-    "entity": "Coinbase",
-    "label": "Coinbase (proof-of-reserves)",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
     "category": "exchange",
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "A4RZ3WfKxyWDPvMkFGM2Uzo8rDd6wwBqK5",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "A59WR7LTBiBbSx3QZbf7SwQ6q3PHnP33wK",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "A5XHmCEG2TbaUnCiZnganw29EsDDnUQXjj",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AAuxfoiADXxMgbZPZ42xE6TCnFnz2FK33e",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "ACkC8PjakegrmPFaL12FVDPCn8HwdKzSCY",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AD7E3QXB5go9AtE2uueMr3Dw767eWi5ruy",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D5GmmrSZ1xDut5Nj1s4C4ncA1v3EGfbk15",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D788kYSZYsVWSoLVejipE1Q4cN8Spom5eU",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D7pEtDnFU3ZgTykZt54SXvGeF1YSt2PVbe",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DBdkivVhGhmbBRSsbt2s55MtZ38ngs86nS",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DBrNiTbgpHHeveemLNnKwNDEJwXRGGRb1L",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DCWvgKHcs1KUDqYe55rTX8m6uaJ67gaAp5",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DDm2XmWXhq3fxHd9fUaqnbmxanaFuKSG1s",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DHBERwF4LVLVwQzDtfPz9zEtKPnWW9NSDH",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DHt3teN3iNSG7rJ8GaGz5EeHYFieCf8Qin",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DNpbFixXn611Qd9SZDBDjS4NhFPAXG8t1X",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DNvZftCnAsfrzzfe6R3dF6Sugz7W4Qgs6b",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DPYV66VirzChkotHXPryAhcfvyQmeArV2y",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DTWmAfdTkrtqv7GmN2vE74VTkXkgQUFRSn",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DTqm2UCi6AS1nSCo9jZ8AejZ3k1ZcF8qix",
+    "network": "dogecoin",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D9GEFr81xw1mnbq7HnMaTnywF3FwDGjiw8",
+    "network": "dogecoin",
+    "entity": "Bitlo",
+    "label": "Bitlo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D9PyugrmQdpoabcVUceMFUZubDx4JHzebd",
+    "network": "dogecoin",
+    "entity": "Bitlo",
+    "label": "Bitlo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DCH2NkFZ7k5ombczgUNeDrijHeaQUdNJbA",
+    "network": "dogecoin",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D9uH999MANKyNkzfb8XwRmQhHEBNLBh9sA",
+    "network": "dogecoin",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DAMt5CrmkVuiNDEWCWRiyecpvNKi58FSbd",
+    "network": "dogecoin",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DAd1JWwtwx1paUuWG71ePNLU3WJUFaMJoh",
+    "network": "dogecoin",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DGXx3yTPND5E7uJdCzLe945ri6Qa9as3Go",
+    "network": "dogecoin",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DQNrmw9tb9NDxyhjb6BvJnvAvDBC3CMurE",
+    "network": "dogecoin",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DA9pxm6zPWCgjexGNcZkWS8JeoK4KMPE6d",
+    "network": "dogecoin",
+    "entity": "Gate US",
+    "label": "Gate US (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9y8WDTKcBrzKPuun9dsDsbnFrZ6SJCxSxc",
+    "network": "dogecoin",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "A8c3xNz2mqsDLFwv5KL5fpH12QEwDaoTXo",
@@ -52,7 +415,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "D8tsTxMVpGGWpc333my1Gpzt9sP4YQjoDx",
@@ -63,7 +426,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DAAhXpPfziaCcGweJMWE4RSucLcee7NcqL",
@@ -74,7 +437,18 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DBTkQXvbMHQM7fw2YcXrxzayCiaVkx641i",
+    "network": "dogecoin",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DJtqonMkvsVr8rVr4Pdf5zYfZrnaLSdnwi",
@@ -85,7 +459,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DKRg7bL5s1NbWp1VMKhP1gbw6mqydnoX2u",
@@ -96,7 +470,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DKURQTetAa5ieMAUPo9gxmHcLXpwes8kH1",
@@ -107,7 +481,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DLCDJhnh6aGotar6b182jpzbNEyXb3C361",
@@ -118,7 +492,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DMxKkM6Y7jLrmahRGdUCRmPVVdMCZh7QKy",
@@ -129,7 +503,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EKk4HeHnLvMpxFiSbjVizcrCB1nVt39Bwe",
@@ -140,7 +514,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EWwQTNN6ehrVLBh4imEYtQr61txBE2ARUk",
@@ -151,7 +525,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "Eb1wiohh195bcZrsPowoMdNRmaaJk4wbai",
@@ -162,7 +536,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EdGT5d52SZhYASQpMdCydpnv1iiS4j2YoA",
@@ -173,7 +547,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EftXuMPJRVxKjFKQ2Z3oiayi5hL4v56u5R",
@@ -184,7 +558,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "dydx10v2gu0vvdeuv8pexnl98lmyva4cq8jka5vf350",
@@ -195,7 +569,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "dydx155svs6sgxe55rnvs6ghprtqu0mh69keh22pfq5",
@@ -206,7 +580,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "dydx1jm068whkhkxk48gx80ppm2m0nwy677prl8f8fu",
@@ -217,7 +591,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "dydx1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9g9luh6",
@@ -228,7 +602,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "dydx1xunyznpjmj9jv5e2zwngp2qrzmulr2gg3p06fp",
@@ -239,7 +613,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "hp7fFnvDbtF2PPydXhf33kXZULyqgUTJVYH7FkZVoKtfhoD",
@@ -250,7 +624,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "mKRLHKrNoqZYup1VAwVbgoDD1on8pPzZAnx4Vqr66yoMFSJ",
@@ -261,7 +635,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "mtWj7VwtJQwgzJSGFnvMS8W8UYifdZcnVyCaZ5eTe3kF4Jj",
@@ -272,7 +646,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "o8Enfv8XpWDiS3gvSprJ3xixqBEHN1vDCwhCpQdhfDh5EPb",
@@ -283,7 +657,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9ztZpRN3v9xv5JhAT7MTtmy4DfyMEAG8YU",
@@ -294,7 +668,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DLzCvKskasu4Adj3XgbyNitKBukBSa5JPP",
@@ -305,7 +679,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DRRU8L7fF4k9w7SF3Z6ei8onPCsh9hjGX1",
@@ -316,7 +690,84 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D5qVwCrcNwNFyt4Ju4ASVKxbiYHMnjcGyj",
+    "network": "dogecoin",
+    "entity": "HashKey Exchange",
+    "label": "HashKey Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DEovrjDhPB36kwvbyNtiYVrbWv1ahR1jQv",
+    "network": "dogecoin",
+    "entity": "HashKey Exchange",
+    "label": "HashKey Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DNq9QyJTg2DTqpBemA66qVtk3VRPR6QpvH",
+    "network": "dogecoin",
+    "entity": "HashKey Exchange",
+    "label": "HashKey Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D7G2oPDhfUCQv5G3KwavFghRmmDd1eKKL7",
+    "network": "dogecoin",
+    "entity": "Huobi",
+    "label": "huobi reserve wallets DOGE",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DFCT8ZPq6MytZU3HSvbTJevxt4MLq2Xasu",
+    "network": "dogecoin",
+    "entity": "Huobi",
+    "label": "huobi reserve wallets DOGE",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DHcYzg33fr3rmHzQjXjNvYW8gTzxU7FWWK",
+    "network": "dogecoin",
+    "entity": "Huobi",
+    "label": "huobi reserve wallets DOGE",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DTzJt8f1YxgpBwVhEfZgkvvZixMLpxjCHG",
+    "network": "dogecoin",
+    "entity": "Huobi",
+    "label": "huobi reserve wallets DOGE",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "A4pFXcvnZdCm7Z3iZR1u12NozWTHk1avAg",
@@ -327,7 +778,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "AEn5XzY4vpLfqGTouwsB33BHnhxURWzrg4",
@@ -338,7 +789,18 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DFbKm2cjt1Y36sKPQc6RQc3MsLmwcccTJx",
+    "network": "dogecoin",
+    "entity": "NonKYC",
+    "label": "NonKYC (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9vPesMs2Md65mu2JBEccp8RKBqccqaLMRL",
@@ -349,7 +811,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "A1D5sbS86TMJxwGT5q2oTWkXXLfgJ5j8up",
@@ -360,7 +822,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "AC8azEyeWHk1L7XKvyeBjJtVwRwXgmP5hQ",
@@ -371,7 +833,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "ADNbM5fBujCRBW1vqezNeAWmnsLp19ki3n",
@@ -382,6 +844,182 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D63Ge381QBcsaf7qwuxBh5rttgRFdnxMcv",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D6BgG9CDJ3Xa43EsAeT5969bcitv5KtmwT",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D6WMft6zfERAYorB3ftcJjhTintgeVAGhw",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DB1zr87B2A6TUtwWjp3dUjUypejrmHqGH5",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DDXgUo6rPcJ5i3k1VmPAd1wWijmwfSPYEE",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DKSTo3dqY6GiTcx54mAQFEBitAWMmmtimF",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DLBYdQkDyVWAcXxfkrXNPL9yE1gtKdKHbe",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DPeRfkGa3BbUdeivchhjHDx76pyZ5HfrNq",
+    "network": "dogecoin",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D9sBdytmsS1adxvzFTwz94tkpsoqXU8TaM",
+    "network": "dogecoin",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DUDrC5rjQsRz6eEZQrb6wzh9jmauh2JHpX",
+    "network": "dogecoin",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "celestia197v98nkhnxr54x45hrcagnu2rr2ckyn7ugqw3h",
+    "network": "dogecoin",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "celestia1trvqv850ft2p7ntewneevd690qde2uvtt8hufv",
+    "network": "dogecoin",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "inj105zqcfv3z9z79yhsfg8v6rql3huzhyfp0sana9",
+    "network": "dogecoin",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "inj1xdalk5nsudad3vxnnf3t28w4qljfedlnu7pk5e",
+    "network": "dogecoin",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D94TGz1Qj2Zok9TowxDXVo68oEatVC6keD",
+    "network": "dogecoin",
+    "entity": "Websea",
+    "label": "Websea (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DDQDi8u18s4xqsUzLMrhT57rEDrrnoMiJG",
+    "network": "dogecoin",
+    "entity": "Zoomex",
+    "label": "Zoomex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

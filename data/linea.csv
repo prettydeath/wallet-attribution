@@ -1,13 +1,19 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-0x6cc8dcbca746a6e4fdefb98e1d0df903b107fd21,linea,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x0d0707963952f2fba59dd06f2b425ace40b492fe,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x6596da8b65995d5feacff8c2936f0b7a2051b0d0,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x85faa6c1f2450b9caea300838981c2e6e120c35c,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xc882b111a75c0c657fc507c04fbfcd2cc984f071,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xffeb0f61871acdb4838dfc6d5082f063e738e421,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x0ba37936c50bbcdc7130c67d931e5fe14285b8eb,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x6df7dd70d296d69802fe3d337f9b2b67770c6771,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xd3d7dbe73bbdd5a5c7a49ca322763c4d400fc240,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xe4b76e1bf1b3b4eeb31ee2c263415e0214e0a008,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xe69a651561b4241c451d9cb534d766638238e162,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x6cc8dcbca746a6e4fdefb98e1d0df903b107fd21,linea,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xb0A3A2B60E969AFD26561429Aa4c1444C57E4411,linea,Bitvavo,Bitvavo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xfc89c020774524c9d03bd5de48fec149b10bdec3,linea,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0d0707963952f2fba59dd06f2b425ace40b492fe,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x6596da8b65995d5feacff8c2936f0b7a2051b0d0,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x85faa6c1f2450b9caea300838981c2e6e120c35c,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xc882b111a75c0c657fc507c04fbfcd2cc984f071,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xffeb0f61871acdb4838dfc6d5082f063e738e421,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x26B137B3B7A308Ed812F3120E453521c3ce91d82,linea,Indodax,Indodax (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x91Dca37856240E5e1906222ec79278b16420Dc92,linea,Indodax,Indodax (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0ba37936c50bbcdc7130c67d931e5fe14285b8eb,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x6df7dd70d296d69802fe3d337f9b2b67770c6771,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xd3d7dbe73bbdd5a5c7a49ca322763c4d400fc240,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xe4b76e1bf1b3b4eeb31ee2c263415e0214e0a008,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xe69a651561b4241c451d9cb534d766638238e162,linea,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x50be13b54f3eebbe415d20250598d81280e56772,linea,Phemex,Phemex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xdb861e302ef7b7578a448e951aede06302936c28,linea,Phemex,Phemex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

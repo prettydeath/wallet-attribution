@@ -1,2 +1,14 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,sonic,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,sonic,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xb0A3A2B60E969AFD26561429Aa4c1444C57E4411,sonic,Bitvavo,Bitvavo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x7Ff8bbf9C8AB106db589e7863fb100525F61CCe5,sonic,BloFin,BloFin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x88C984990573d385949deB571ed21eaD63301045,sonic,BloFin,BloFin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xeeebcdf3ddd52d4Ab34EFA127a0d6b74385062Ac,sonic,Flipster,Flipster (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0d0707963952f2fba59dd06f2b425ace40b492fe,sonic,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x79b5a2d395db1711a6e6c42a95eb48710276f666,sonic,GroveX,GroveX (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x5D738fBf1D8940BBE72Af847d88c517064DE76e7,sonic,NonKYC,NonKYC (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x9a1Dfd705130ef60245d6FC798411f296f641119,sonic,NonKYC,NonKYC (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0926a7b610B9Fc2D1E3F09FcBa52Ba3BEDCFfd91,sonic,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x28cC933fecf280E720299b1258e8680355D8841F,sonic,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x85AC393adDd65bcf6Ab0999F2a5c064E867F255f,sonic,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x7eb87a95948348d6ec7231b52f61281e01d53941,sonic,Zoomex,Zoomex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

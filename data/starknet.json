@@ -1,0 +1,13 @@
+[
+  {
+    "address": "GCOVMLCAKVDQEUNU56KP6XJGGLNLJVI5QSCHWL6WCRNHCZI3DPSK2JZY",
+    "network": "starknet",
+    "entity": "Gate US",
+    "label": "Gate US (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  }
+]

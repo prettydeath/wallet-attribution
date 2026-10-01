@@ -8,6 +8,138 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xb0A3A2B60E969AFD26561429Aa4c1444C57E4411",
+    "network": "sonic",
+    "entity": "Bitvavo",
+    "label": "Bitvavo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x7Ff8bbf9C8AB106db589e7863fb100525F61CCe5",
+    "network": "sonic",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x88C984990573d385949deB571ed21eaD63301045",
+    "network": "sonic",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xeeebcdf3ddd52d4Ab34EFA127a0d6b74385062Ac",
+    "network": "sonic",
+    "entity": "Flipster",
+    "label": "Flipster (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
+    "network": "sonic",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x79b5a2d395db1711a6e6c42a95eb48710276f666",
+    "network": "sonic",
+    "entity": "GroveX",
+    "label": "GroveX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x5D738fBf1D8940BBE72Af847d88c517064DE76e7",
+    "network": "sonic",
+    "entity": "NonKYC",
+    "label": "NonKYC (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x9a1Dfd705130ef60245d6FC798411f296f641119",
+    "network": "sonic",
+    "entity": "NonKYC",
+    "label": "NonKYC (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x0926a7b610B9Fc2D1E3F09FcBa52Ba3BEDCFfd91",
+    "network": "sonic",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x28cC933fecf280E720299b1258e8680355D8841F",
+    "network": "sonic",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x85AC393adDd65bcf6Ab0999F2a5c064E867F255f",
+    "network": "sonic",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x7eb87a95948348d6ec7231b52f61281e01d53941",
+    "network": "sonic",
+    "entity": "Zoomex",
+    "label": "Zoomex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

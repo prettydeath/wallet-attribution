@@ -1,7 +1,11 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-0x0639556F03714A74a5fEEaF5736a4A64fF70D206,cronos,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x0d0707963952f2fba59dd06f2b425ace40b492fe,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xa4992ccf2a74132936b87cbf28b5d52304ba3be7,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xc882b111a75c0c657fc507c04fbfcd2cc984f071,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-0xffeb0f61871acdb4838dfc6d5082f063e738e421,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x0639556F03714A74a5fEEaF5736a4A64fF70D206,cronos,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xfc89c020774524c9d03bd5de48fec149b10bdec3,cronos,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x0d0707963952f2fba59dd06f2b425ace40b492fe,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xa4992ccf2a74132936b87cbf28b5d52304ba3be7,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xc882b111a75c0c657fc507c04fbfcd2cc984f071,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xffeb0f61871acdb4838dfc6d5082f063e738e421,cronos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x4b81c7Ff6912856AFBb40ACb32084A41F019B433,cronos,Hotbit,Hotbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0x768f2a7ccdfde9ebdfd5cea8b635dd590cb3a3f1,cronos,Hotbit,Hotbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+0xb18fbfe3d34fdc227eb4508cde437412b6233121,cronos,Hotbit,Hotbit (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

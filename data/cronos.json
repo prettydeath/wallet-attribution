@@ -8,7 +8,18 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xfc89c020774524c9d03bd5de48fec149b10bdec3",
+    "network": "cronos",
+    "entity": "Gate US",
+    "label": "Gate US (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
@@ -19,7 +30,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c",
@@ -30,7 +41,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa4992ccf2a74132936b87cbf28b5d52304ba3be7",
@@ -41,7 +52,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
@@ -52,7 +63,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xffeb0f61871acdb4838dfc6d5082f063e738e421",
@@ -63,6 +74,39 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x4b81c7Ff6912856AFBb40ACb32084A41F019B433",
+    "network": "cronos",
+    "entity": "Hotbit",
+    "label": "Hotbit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x768f2a7ccdfde9ebdfd5cea8b635dd590cb3a3f1",
+    "network": "cronos",
+    "entity": "Hotbit",
+    "label": "Hotbit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xb18fbfe3d34fdc227eb4508cde437412b6233121",
+    "network": "cronos",
+    "entity": "Hotbit",
+    "label": "Hotbit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

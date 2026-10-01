@@ -1,13 +1,14 @@
 # wallet-attribution
 
-![Addresses](https://img.shields.io/badge/addresses-115%2C169-2ea44f)
-![Networks](https://img.shields.io/badge/networks-47-1f6feb)
-![Exchange wallets](https://img.shields.io/badge/exchange%20wallets-27%2C695-e3742f)
+![Addresses](https://img.shields.io/badge/addresses-621%2C138-2ea44f)
+![Networks](https://img.shields.io/badge/networks-48-1f6feb)
+![Exchange wallets](https://img.shields.io/badge/exchange%20wallets-383%2C266-e3742f)
 ![Format](https://img.shields.io/badge/format-CSV%20%2B%20JSON-6f42c1)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 An aggregated, normalized dataset of **attributed cryptocurrency addresses** —
-exchanges, sanctioned entities, scams, mixers, bridges and DeFi protocols —
+exchanges, sanctioned entities, hackers, ransomware, scams, mixers, mining
+pools, gambling, bridges and DeFi protocols —
 built entirely from **free, public sources** and stored as plain **CSV + JSON**
 per network.
 
@@ -20,7 +21,8 @@ data/
   ethereum.csv / ethereum.json      # per-network files (same nine columns)
   bsc.csv / bsc.json
   bitcoin.csv / ...
-  _all.csv / _all.json              # everything combined
+  bitcoin.csv.gz / bitcoin.json.gz  # files > 50 MB are stored gzip-compressed
+  _all.csv.gz / _all.json.gz        # everything combined (gzip)
   stats.json                        # counts by network / category / source
 scripts/
   fetch_sources.sh                  # clone/update the upstream sources
@@ -44,13 +46,16 @@ Field definitions and the merge logic are in [`schema.md`](schema.md).
 | **cex-list** | Curated CEX hot-wallet addresses (Ethereum) | exchange | https://github.com/tradezon/cex-list |
 | **MyEtherWallet/ethereum-lists** | Phishing / scam dark-list | scam | https://github.com/MyEtherWallet/ethereum-lists |
 | **OFAC SDN (0xB10C)** | US-sanctioned addresses across BTC, ETH, LTC, BCH, XRP, TRX, BSC, ARB, and more | sanctioned | https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses |
-| **DefiLlama-Adapters** | **Officially-disclosed proof-of-reserves wallets** exchanges publish on their own transparency pages — OKX, Gate.io, Bitget, KuCoin, HTX, Binance, Bybit, Kraken, Bitfinex, Coinbase, Poloniex, Crypto.com and ~40 more, across 40+ chains incl. BTC/LTC/DOGE/TRON/SOL/XRP/ADA cold wallets | exchange (`confidence: high`) | https://github.com/DefiLlama/DefiLlama-Adapters |
+| **DefiLlama-Adapters** | **Officially-disclosed proof-of-reserves wallets** exchanges publish on their own transparency pages — the `cex/` registry (~100 exchanges: Arkham, BingX, BitMart, BitMEX, MEXC, Crypto.com, Deribit, OSL, Phemex, WOO X, …) plus the older OKX, Binance, Bitget, Gate, KuCoin, HTX, Bitfinex, Coinbase adapters, across 40+ chains incl. BTC/LTC/DOGE/TRON/SOL/XRP/ADA cold wallets; also the address-book entries for FBI-attributed DPRK wallets, seized Silk Road funds and Mt. Gox | exchange / hack / darknet (`confidence: high`) | https://github.com/DefiLlama/DefiLlama-Adapters |
+| **GraphSense TagPacks** (MIT) | ~525k curated tags, mostly **Bitcoin**: exchange clusters, mining pools, CoinJoin (Wasabi/Samourai), ransomware, sextortion spam, hacks, terrorism financing, USDT blacklist | exchange / mining / mixer / ransomware / scam / hack / terrorism / frozen | https://github.com/graphsense/graphsense-tagpacks |
+| **Forta labelled-datasets** (MIT) | Phishing addresses, exploiter wallets and malicious contracts + their deployers (Ethereum, Optimism) | scam / hack | https://github.com/forta-network/labelled-datasets |
+| **etherscan-labels** (MIT) | Scraped label pages of Etherscan, BscScan, Polygonscan, Arbiscan, Optimism, Snowtrace, FtmScan | all categories | https://github.com/brianleect/etherscan-labels |
 
 ## Rebuild / update
 
 ```bash
 bash scripts/fetch_sources.sh     # pull latest upstream data into ./sources
-python3 scripts/build.py          # normalize -> ./data
+python3 scripts/build.py          # normalize -> ./data  (needs: pip install pyyaml)
 ```
 
 `fetch_sources.sh` clones on first run and `git pull`s on later runs, so a refresh
@@ -130,9 +135,13 @@ tags), other Etherscan-family scanners, Arkham, OKLink.
 ## Coverage notes (honest limitations)
 
 - **EVM chains are richest** — most labels come from `eth-labels`.
-- **Bitcoin / LTC / BCH / XRP** currently carry mainly **OFAC sanctioned** addresses
-  plus a few exchange wallets. There is no large free labelled dataset for these
-  UTXO/altcoin chains.
+- **Bitcoin** is now well covered (~484k addresses) thanks to GraphSense TagPacks —
+  but most of its exchange tags come from address **clustering** (`confidence: medium`)
+  and the dataset is largely historical (many tags date from 2013–2020).
+- **LTC / BCH / XRP** still carry mainly **OFAC sanctioned** addresses plus
+  proof-of-reserves exchange wallets.
+- `mixer` on Bitcoin includes CoinJoin **output** addresses (Wasabi / Samourai):
+  they show the coins were mixed, not that the owner is a mixer operator.
 - **TRON** entity labels are thin in public repos. For USDT-TRC20 exchange
   attribution, enrich against the **Tronscan** API (it tags `Binance-Hot`, `OKX`,
   `Bybit`, …). A `TRONSCAN_API_KEY` is free.
@@ -147,6 +156,10 @@ Add a `load_<source>()` function in `scripts/build.py` that calls `add(...)` wit
 nine-field schema, then list its fetch in `scripts/fetch_sources.sh`. The merge/dedup
 logic handles overlaps automatically. Good candidates to add: Tronscan tag enrichment,
 Blockchair labels, a private `data/manual.csv` for your own forensic attributions.
+
+To add a **category**: give it a rank in `CATEGORY_PRIORITY`, map label slugs to it
+in `SLUG_CATEGORY` (and/or a keyword tuple in `categorize()`), and describe it in
+[`schema.md`](schema.md).
 
 ## Licensing
 

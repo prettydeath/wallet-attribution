@@ -5,10 +5,21 @@
     "entity": "Bitfinex",
     "label": "Bitfinex (proof-of-reserves)",
     "category": "exchange",
-    "source": "defillama-cex",
+    "source": "defillama-cex+graphsense",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos1jtdkj8hxhj88jxv8lul9xvdpnwsl00evvvpnhj",
+    "network": "cosmos",
+    "entity": "Bitfinex",
+    "label": "bitfinex Cosmos cold wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos1mtauzk3q40zt3weujcqwu009vw5t6m5fnv4xxr",
@@ -19,7 +30,40 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos1ruqrgv8wh4fqm24uyeuvmg8jwv737qv9vxl8q9",
+    "network": "cosmos",
+    "entity": "CEX.IO",
+    "label": "CEX.IO (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos12chvl78ffgvzc29mvrg5auz94vgksne5svsje4",
+    "network": "cosmos",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos1gcsur9g2vxagmyr0u7pc9kcvtyd7zuyen3n5x7",
+    "network": "cosmos",
+    "entity": "Flipster",
+    "label": "Flipster (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c",
@@ -30,7 +74,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos155svs6sgxe55rnvs6ghprtqu0mh69kehrn0dqr",
@@ -41,7 +85,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos19yhugy8qzps8rur4mnp6tnz8w6nh7qrqqttgnp",
@@ -52,7 +96,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos1hpcfdtv84srdq7n9a7mhnnmd3jwuda970ya92j",
@@ -63,7 +107,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos1jm068whkhkxk48gx80ppm2m0nwy677prk78rft",
@@ -74,7 +118,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9pu3chd",
@@ -85,7 +129,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "cosmos1xunyznpjmj9jv5e2zwngp2qrzmulr2ggccp7fk",
@@ -96,6 +140,61 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos1nynns8ex9fq6sjjfj8k79ymkdz4sqth06xexae",
+    "network": "cosmos",
+    "entity": "Huobi",
+    "label": "huobi reserve wallets ATOM",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos10zzdw24k8ytenpx95rklhnqnr95qutvhdwj0ez",
+    "network": "cosmos",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos10dfzd2wpnpeuy2lgan35ah8dg5p4l298v0n8e8",
+    "network": "cosmos",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos197v98nkhnxr54x45hrcagnu2rr2ckyn7dz37t6",
+    "network": "cosmos",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos1trvqv850ft2p7ntewneevd690qde2uvt6dxvnp",
+    "network": "cosmos",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

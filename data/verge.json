@@ -1,13 +1,24 @@
 [
   {
+    "address": "DPRWrAopjKfzEMne2jiLBuwyH9m1LZE5DF",
+    "network": "verge",
+    "entity": "Bitfinex",
+    "label": "bitfinex Verge hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "DFFJhnQNZf8rf67tYnesPu7MuGUpYtzv7Z",
     "network": "verge",
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (XVG)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   }
 ]

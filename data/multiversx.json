@@ -1,5 +1,16 @@
 [
   {
+    "address": "Erd1a56dkgcpwwx6grmcvw9w5vpf9zeq53w3w7n6dmxcpxjry3l7uh2s3h9dtr",
+    "network": "multiversx",
+    "entity": "Bitfinex",
+    "label": "bitfinex Elrond hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "erd1a56dkgcpwwx6grmcvw9w5vpf9zeq53w3w7n6dmxcpxjry3l7uh2s3h9dtr",
     "network": "multiversx",
     "entity": "Bitfinex",
@@ -8,7 +19,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "elys155svs6sgxe55rnvs6ghprtqu0mh69kehrnk2dp",
@@ -19,7 +30,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "elys1jm068whkhkxk48gx80ppm2m0nwy677prk77yyf",
@@ -30,7 +41,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "elys1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9pugl60",
@@ -41,7 +52,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "elys1xunyznpjmj9jv5e2zwngp2qrzmulr2ggcccey5",
@@ -52,7 +63,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "erd1cx3a4wu4kpnk0ke2hp0dp05xzvapt0lr4q86q97thqepvas2sxqsnh0533",
@@ -63,7 +74,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "erd1lptaaz323qjgsg67mfsa8aquffs9j8tl3khvz2v7creqgf4yeslsf2u99c",
@@ -74,7 +85,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "erd1p4vy5n9mlkdys7xczegj398xtyvw2nawz00nnfh4yr7fpjh297cqtsu7lw",
@@ -85,6 +96,17 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "erd1z5xjeu4xw32jkckhj9jpc9dymj6a9h8yxtch96e43ncp6fhuzpnqshqutj",
+    "network": "multiversx",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

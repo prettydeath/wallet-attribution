@@ -1,13 +1,35 @@
 [
   {
+    "address": "14BMRtbwkhFME8pjPkn17hKesesD99EVKs",
+    "network": "bitcoin-sv",
+    "entity": "Bitfinex",
+    "label": "bitfinex Bitcoin SV cold wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bitcoincash:qpnrayau0ax6qcwlxhdzp8kze5gfjwlznygdmdpwjv",
+    "network": "bitcoin-sv",
+    "entity": "Bitfinex",
+    "label": "bitfinex Bitcoin SV hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "12sjrrhoFEsedNRhtgwvvRqjFTh8fZTDX9",
     "network": "bitcoin-sv",
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (BSV)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   }
 ]

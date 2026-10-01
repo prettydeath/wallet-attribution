@@ -88,11 +88,14 @@ on-chain or behind open APIs into `sources/onchain/`:
   router after its OFAC delisting) is not included.
 - **Ransomwhere** export.
 
-No API key is needed. Ethereum logs use the keyless Blockscout API (about ten
-calls per run; it allows ~10 requests per ~40-minute window per IP, and the
-script waits out the limit). With a free Etherscan key in the `ETHERSCAN_API_KEY`
-environment variable the script uses Etherscan V2 instead, which is faster. Use the
-environment variable rather than `config/providers.csv` if you push this repo.
+No API key is strictly needed, but a free Etherscan key is **recommended**: put it
+in the `ETHERSCAN_API_KEY` environment variable (several keys may be given,
+comma-separated; they are rotated). Use the environment variable rather than
+`config/providers.csv` if you push this repo. Without a key the script falls back
+to the keyless Blockscout API, which is throttled (~10 requests per ~40 minutes
+per IP) and whose index was found to miss a few 2020 USDT events. The Etherscan
+result was cross-checked against the live `isBlackListed()` / `isBlacklisted()`
+contract state.
 TRON events come from TronGrid. A failed refresh keeps the previous snapshot.
 
 ## Live API enrichment (CSV-driven)

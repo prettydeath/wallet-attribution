@@ -39,12 +39,12 @@ and `source = cex-list+eth-labels`.
 |----------|---------|--------------|
 | `sanctioned` | On the US OFAC SDN list (or tagged "OFAC Blocked"). | ofac-sdn, graphsense, eth-labels |
 | `terrorism` | Terrorism-financing campaigns (e.g. US forfeiture of al-Qaeda wallets). | graphsense |
-| `ransomware` | Ransom payment addresses (Locky, Ryuk, …). | graphsense |
+| `ransomware` | Ransom payment addresses (Locky, Ryuk, …). | ransomwhere, graphsense |
 | `hack` | Exploiters, heist wallets, drainers, attributed state hackers (Lazarus / DPRK). | eth-labels, forta, graphsense, defillama |
 | `scam` | Phishing, fraud, ponzi, sextortion-spam, dark-list addresses. | mew, forta, graphsense, eth-labels |
 | `darknet` | Darknet markets (e.g. seized Silk Road wallets). | defillama |
 | `extremism` | Donation addresses of extremist groups. | graphsense |
-| `frozen` | Blacklisted by a stablecoin issuer (USDT/USDC) / "Blocked" on Etherscan. | graphsense, eth-labels |
+| `frozen` | Blacklisted by a stablecoin issuer (USDT/USDC) / "Blocked" on Etherscan. Records with source `tether-blacklist` / `circle-blacklist` are the **current** on-chain state (`high`); others are older label snapshots and may since have been unfrozen. | tether-/circle-blacklist, graphsense, eth-labels |
 | `exchange` | Centralised-exchange hot/cold/deposit wallets (Binance, Coinbase, OKX…). | defillama, cex-list, eth-labels, graphsense |
 | `mixer` | Mixers and CoinJoin coordinators/outputs (Tornado.Cash, Wasabi, Samourai…). | graphsense, eth-labels |
 | `gambling` | Online casinos, dice and betting contracts. | graphsense, eth-labels |

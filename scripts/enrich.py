@@ -18,6 +18,8 @@ Built-in providers:
   - trongrid  : TRON account metadata (flags smart contracts; no public labels)
   - etherscan : EVM verified-contract names via the Etherscan v2 unified API
                 (ethereum, bsc, polygon, arbitrum, optimism, base, ...)
+  - goplus    : GoPlus Security address risk flags (SlowMist/BlockSec data) on
+                EVM chains; keyless; only flagged addresses yield a label
 
 Results are normalized to the repository schema and appended (de-duplicated)
 to  enriched/api_labels.jsonl , which build.py reads on the next rebuild.
@@ -248,12 +250,72 @@ class EtherscanProvider(Provider):
                            cat if cat != "entity" else "defi", url, "medium")
 
 
+class GoPlusProvider(Provider):
+    """GoPlus Security address_security API (free, keyless, rate-limited). It
+    returns 0/1 risk flags per address, fed by SlowMist / BlockSec. Only the
+    strong flags are mapped (by severity); weak ones such as blacklist_doubt are
+    ignored, and a clean address yields nothing. TRON is left out: the endpoint
+    accepts it but does not actually recognise TRON addresses (flags nothing)."""
+    name = "goplus"
+    networks = ("ethereum", "bsc", "polygon", "arbitrum", "optimism",
+                "avalanche", "base", "fantom", "gnosis", "linea", "zksync",
+                "celo", "cronos")
+    key_header = "Authorization"
+    DEFAULT_BASE = "https://api.gopluslabs.io/api/v1/address_security"
+    CHAIN_ID = {"ethereum": 1, "bsc": 56, "polygon": 137, "arbitrum": 42161,
+                "optimism": 10, "avalanche": 43114, "base": 8453,
+                "fantom": 250, "gnosis": 100, "linea": 59144, "zksync": 324,
+                "celo": 42220, "cronos": 25}
+    # (category, flags) in severity order; the first group with a flag set wins.
+    FLAG_GROUPS = (
+        ("sanctioned", ("sanctioned",)),
+        ("hack", ("stealing_attack", "cybercrime")),
+        ("scam", ("phishing_activities", "fake_kyc", "blackmail_activities",
+                  "honeypot_related_address", "financial_crime",
+                  "money_laundering", "number_of_malicious_contracts_created",
+                  "malicious_mining_activities")),
+        ("darknet", ("darkweb_transactions",)),
+        ("mixer", ("mixer",)),
+    )
+
+    def endpoint(self, address, network):
+        return f"{self.base}/{address}?chain_id={self.CHAIN_ID[network]}"
+
+    @staticmethod
+    def _is_set(v):
+        # flags are "0"/"1" strings; number_of_malicious_contracts_created is a count
+        try:
+            return int(v) > 0
+        except (TypeError, ValueError):
+            return False
+
+    def _parse(self, data, address, network):
+        res = data.get("result") if isinstance(data, dict) else None
+        if not isinstance(res, dict):
+            return None
+        category, hit = None, []
+        for cat, flags in self.FLAG_GROUPS:
+            for f in flags:
+                if self._is_set(res.get(f)):
+                    category = category or cat
+                    hit.append(f)
+        if not hit:
+            return None
+        label = "GoPlus: " + ", ".join(hit)
+        src = (res.get("data_source") or "").strip()
+        if src:
+            label += f" ({src})"
+        return self.record(address, network, "", label, category,
+                           "https://gopluslabs.io", "medium")
+
+
 # Registry: provider name -> class. Add a new provider by subclassing Provider
 # and adding one entry here (then a row in config/providers.csv).
 PROVIDER_CLASSES = {
     "tronscan": TronscanProvider,
     "trongrid": TronGridProvider,
     "etherscan": EtherscanProvider,
+    "goplus": GoPlusProvider,
 }
 
 
@@ -407,6 +469,25 @@ def selftest():
     check("etherscan verified contract", r and r["entity"] == "UniswapV2Router02")
     check("etherscan EOA -> None",
           es._parse({"status": "1", "result": [{"ContractName": ""}]},
+                    "0xabc", "ethereum") is None)
+
+    gp = GoPlusProvider()
+    r = gp._parse({"code": 1, "result": {
+        "stealing_attack": "1", "phishing_activities": "1",
+        "blacklist_doubt": "1", "cybercrime": "0", "sanctioned": "0",
+        "data_source": "SlowMist,BlockSec"}}, "0xabc", "ethereum")
+    check("goplus flagged -> hack + label", r and r["category"] == "hack"
+          and r["label"] == "GoPlus: stealing_attack, phishing_activities "
+                            "(SlowMist,BlockSec)")
+    r = gp._parse({"result": {"sanctioned": "1", "phishing_activities": "1"}},
+                  "0xabc", "ethereum")
+    check("goplus sanctioned outranks scam", r and r["category"] == "sanctioned")
+    r = gp._parse({"result": {"number_of_malicious_contracts_created": "3"}},
+                  "0xabc", "ethereum")
+    check("goplus malicious-contract count -> scam", r and r["category"] == "scam")
+    check("goplus clean / weak flags only -> None",
+          gp._parse({"result": {"blacklist_doubt": "1", "gas_abuse": "1",
+                                "stealing_attack": "0", "data_source": ""}},
                     "0xabc", "ethereum") is None)
 
     # config parsing

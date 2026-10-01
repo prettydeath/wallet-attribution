@@ -1,6 +1,6 @@
 # wallet-attribution
 
-![Addresses](https://img.shields.io/badge/addresses-621%2C138-2ea44f)
+![Addresses](https://img.shields.io/badge/addresses-634%2C626-2ea44f)
 ![Networks](https://img.shields.io/badge/networks-48-1f6feb)
 ![Exchange wallets](https://img.shields.io/badge/exchange%20wallets-383%2C266-e3742f)
 ![Format](https://img.shields.io/badge/format-CSV%20%2B%20JSON-6f42c1)
@@ -26,6 +26,7 @@ data/
   stats.json                        # counts by network / category / source
 scripts/
   fetch_sources.sh                  # clone/update the upstream sources
+  fetch_onchain.py                  # Ransomwhere + live USDT/USDC blacklists
   build.py                          # normalize sources -> data/
   enrich.py                         # fetch labels live from provider APIs
 config/
@@ -49,12 +50,15 @@ Field definitions and the merge logic are in [`schema.md`](schema.md).
 | **DefiLlama-Adapters** | **Officially-disclosed proof-of-reserves wallets** exchanges publish on their own transparency pages — the `cex/` registry (~100 exchanges: Arkham, BingX, BitMart, BitMEX, MEXC, Crypto.com, Deribit, OSL, Phemex, WOO X, …) plus the older OKX, Binance, Bitget, Gate, KuCoin, HTX, Bitfinex, Coinbase adapters, across 40+ chains incl. BTC/LTC/DOGE/TRON/SOL/XRP/ADA cold wallets; also the address-book entries for FBI-attributed DPRK wallets, seized Silk Road funds and Mt. Gox | exchange / hack / darknet (`confidence: high`) | https://github.com/DefiLlama/DefiLlama-Adapters |
 | **GraphSense TagPacks** (MIT) | ~525k curated tags, mostly **Bitcoin**: exchange clusters, mining pools, CoinJoin (Wasabi/Samourai), ransomware, sextortion spam, hacks, terrorism financing, USDT blacklist | exchange / mining / mixer / ransomware / scam / hack / terrorism / frozen | https://github.com/graphsense/graphsense-tagpacks |
 | **Forta labelled-datasets** (MIT) | Phishing addresses, exploiter wallets and malicious contracts + their deployers (Ethereum, Optimism) | scam / hack | https://github.com/forta-network/labelled-datasets |
+| **Ransomwhere** | Crowdsourced ransomware payment addresses with family names (Locky, Conti, Ryuk, NetWalker…), via its open export API | ransomware | https://ransomwhe.re |
+| **USDT / USDC blacklists (on-chain)** | Addresses **currently** frozen by Tether (Ethereum + TRON) and Circle (Ethereum), rebuilt from the contracts' own `AddedBlackList`/`RemovedBlackList` and `Blacklisted`/`UnBlacklisted` events — unfreezes are applied | frozen (`confidence: high`) | Tether / Circle contracts |
 | **etherscan-labels** (MIT) | Scraped label pages of Etherscan, BscScan, Polygonscan, Arbiscan, Optimism, Snowtrace, FtmScan | all categories | https://github.com/brianleect/etherscan-labels |
 
 ## Rebuild / update
 
 ```bash
 bash scripts/fetch_sources.sh     # pull latest upstream data into ./sources
+                                  # (also runs scripts/fetch_onchain.py)
 python3 scripts/build.py          # normalize -> ./data  (needs: pip install pyyaml)
 ```
 
@@ -72,6 +76,24 @@ source and tagged `category = exchange`, `confidence = high`,
 This is the cleanest free way to attribute an exchange's *own* declared wallets.
 Refreshing is automatic: `fetch_sources.sh` re-pulls the adapters, `build.py`
 re-parses them.
+
+## On-chain sources (`fetch_onchain.py`)
+
+`scripts/fetch_onchain.py` (run by `fetch_sources.sh`) snapshots data that lives
+on-chain or behind open APIs into `sources/onchain/`:
+
+- **Stablecoin blacklists.** Every blacklist / un-blacklist event of USDT
+  (Ethereum, TRON) and USDC (Ethereum) is replayed in order, so the result is the
+  *current* frozen set: an address Circle unfroze in 2025 (e.g. the Tornado.Cash
+  router after its OFAC delisting) is not included.
+- **Ransomwhere** export.
+
+No API key is needed. Ethereum logs use the keyless Blockscout API (about ten
+calls per run; it allows ~10 requests per ~40-minute window per IP, and the
+script waits out the limit). With a free Etherscan key in the `ETHERSCAN_API_KEY`
+environment variable the script uses Etherscan V2 instead, which is faster. Use the
+environment variable rather than `config/providers.csv` if you push this repo.
+TRON events come from TronGrid. A failed refresh keeps the previous snapshot.
 
 ## Live API enrichment (CSV-driven)
 
@@ -111,6 +133,7 @@ Built-in providers:
 | `tronscan` | TRON | Public address tags incl. exchange names (`Binance-Hot`, …) — the strongest free TRON attribution | recommended (free at tronscan.org) |
 | `trongrid` | TRON | Account metadata — flags smart-contract addresses (no public labels) | optional |
 | `etherscan` | ETH, BSC, Polygon, Arbitrum, Optimism, Base, … | Verified-contract names via the Etherscan **v2** unified API (one key, all chains) | required |
+| `goplus` | 30+ EVM chains (ETH, BSC, Polygon, Arbitrum, Optimism, Base, …) | Risk flags from GoPlus Security (SlowMist / BlockSec data): sanctioned, hack, scam, darknet, mixer. Clean addresses yield no label | none (keyless, rate-limited) |
 
 Handy overrides (optional):
 

@@ -1,2 +1,4 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-12sjrrhoFEsedNRhtgwvvRqjFTh8fZTDX9,bitcoin-sv,OFAC SDN,OFAC sanctioned (BSV),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+14BMRtbwkhFME8pjPkn17hKesesD99EVKs,bitcoin-sv,Bitfinex,bitfinex Bitcoin SV cold wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitcoincash:qpnrayau0ax6qcwlxhdzp8kze5gfjwlznygdmdpwjv,bitcoin-sv,Bitfinex,bitfinex Bitcoin SV hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+12sjrrhoFEsedNRhtgwvvRqjFTh8fZTDX9,bitcoin-sv,OFAC SDN,OFAC sanctioned (BSV),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01

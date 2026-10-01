@@ -1,10 +1,19 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-cosmos1h9ymfm2fxrqgd257dlw5nku3jgqjgpl59sm5ns,cosmos,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos1mtauzk3q40zt3weujcqwu009vw5t6m5fnv4xxr,cosmos,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos155svs6sgxe55rnvs6ghprtqu0mh69kehrn0dqr,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos19yhugy8qzps8rur4mnp6tnz8w6nh7qrqqttgnp,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos1hpcfdtv84srdq7n9a7mhnnmd3jwuda970ya92j,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos1jm068whkhkxk48gx80ppm2m0nwy677prk78rft,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9pu3chd,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cosmos1xunyznpjmj9jv5e2zwngp2qrzmulr2ggccp7fk,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+cosmos1h9ymfm2fxrqgd257dlw5nku3jgqjgpl59sm5ns,cosmos,Bitfinex,Bitfinex (proof-of-reserves),exchange,defillama-cex+graphsense,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1jtdkj8hxhj88jxv8lul9xvdpnwsl00evvvpnhj,cosmos,Bitfinex,bitfinex Cosmos cold wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+cosmos1mtauzk3q40zt3weujcqwu009vw5t6m5fnv4xxr,cosmos,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1ruqrgv8wh4fqm24uyeuvmg8jwv737qv9vxl8q9,cosmos,CEX.IO,CEX.IO (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos12chvl78ffgvzc29mvrg5auz94vgksne5svsje4,cosmos,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1gcsur9g2vxagmyr0u7pc9kcvtyd7zuyen3n5x7,cosmos,Flipster,Flipster (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos155svs6sgxe55rnvs6ghprtqu0mh69kehrn0dqr,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos19yhugy8qzps8rur4mnp6tnz8w6nh7qrqqttgnp,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1hpcfdtv84srdq7n9a7mhnnmd3jwuda970ya92j,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1jm068whkhkxk48gx80ppm2m0nwy677prk78rft,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9pu3chd,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1xunyznpjmj9jv5e2zwngp2qrzmulr2ggccp7fk,cosmos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1nynns8ex9fq6sjjfj8k79ymkdz4sqth06xexae,cosmos,Huobi,huobi reserve wallets ATOM,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+cosmos10zzdw24k8ytenpx95rklhnqnr95qutvhdwj0ez,cosmos,Latoken,Latoken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos10dfzd2wpnpeuy2lgan35ah8dg5p4l298v0n8e8,cosmos,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos197v98nkhnxr54x45hrcagnu2rr2ckyn7dz37t6,cosmos,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos1trvqv850ft2p7ntewneevd690qde2uvt6dxvnp,cosmos,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

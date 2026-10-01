@@ -1,6 +1,33 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-zil12acrew80f00m4v3cs4hw9yawx7m74fwdwtmdj5,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-zil12zn46cppzsg0thgn7e66ugjd3c25hcl0acjaud,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-zil1e9k0rdjgh0khx06veut6ghwkggue6snmrlyg4w,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-zil1jcmadzrm6w49gegqw94esdkyhfq75y4fxl9wrv,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-zil1melkmjzv6v784dlk30rhx2ck4zccqpprsdd3jt,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+0x326031E680419FB020A5361fF56384e166b5aa85,zilliqa,Bitfinex,bitfinex Ziliqa (ZIL) hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+zil184u2al6n0nrks06xjgq080hc95f77ttd7rkqvn,zilliqa,Bitfinex,bitfinex Zilliqa cold wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+zil1xfsrre5qgx0mqg99xc0l2cuyu9ntt259ngsu7s,zilliqa,Bitfinex,bitfinex Zilliqa hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+4EHCQSBDXQDSR4MFASDP2TGNKVDCJEKA5FUCHLAJ7FVTANR42JISNPV6UU,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DevD35PrcsJfg9CwpypmrD7GsYMRQpZQx6rfeSbkVtFp,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+NKvKqGs9yPGct37ybza71DsgLSPAKn34ko,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+XQBOKHK7JQBWCHXSRWH5XW5ADMRX6WUHB6WXM4GQUF5BUFETJOLX7AMJRI,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+addr1q9lqxlvk2dk8sffhr56gc4c4lckpv56l4r7wwh474caywurve9ssnt966vmezsfsppfm5sxgu5sqxacp8t7kpjzp9yxqn24ckj,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+addr1qyxuqrcjfyyz99yx4s307x33tu45944j607cywzvh3ykxw8c0cqknc77ed7uu7v465ufhkuu73ve6x7r9emq8vfkhxts23pyk4,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+aleo18lpsmdx0hzwhw6ejaad5j8hjngwddyn0ap8ws8cr0z7gls4k4s9qz5ww07,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+bc02e51d5f4c03611ef28d8fdbdba01b237f5a870fad7670d0a17a1a14934b97,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+celestia10v2gu0vvdeuv8pexnl98lmyva4cq8jkavlk9w4,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cfx:aam0nuzv9bu14e68xb390bjcc3t6du0bn2tcy8rde0,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+dydx10v2gu0vvdeuv8pexnl98lmyva4cq8jka5vf350,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+e10e284823bc0728f1850486fd4ccd5546249140e96823ac09f96b30363cd251,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+gateMurAxe4YFoUR6J63gXGKtkbTfdkMdLjZrCmThFP,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+inj10v2gu0vvdeuv8pexnl98lmyva4cq8jkahus3xq,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+inj18njk2lz5q7juryvzgyly2qxetuwqadxzpvmuhj,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+kava155svs6sgxe55rnvs6ghprtqu0mh69kehlxmsky,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+kava19yhugy8qzps8rur4mnp6tnz8w6nh7qrqu7l49x,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+kava1hpcfdtv84srdq7n9a7mhnnmd3jwuda97n3fcu4,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+kava1jm068whkhkxk48gx80ppm2m0nwy677pr2tn7lv,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+kava1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9af99p2,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+kava1xunyznpjmj9jv5e2zwngp2qrzmulr2ggyd4rl3,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+zig155svs6sgxe55rnvs6ghprtqu0mh69kehze2lzt,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+zil12acrew80f00m4v3cs4hw9yawx7m74fwdwtmdj5,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+zil12zn46cppzsg0thgn7e66ugjd3c25hcl0acjaud,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+zil1e9k0rdjgh0khx06veut6ghwkggue6snmrlyg4w,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+zil1jcmadzrm6w49gegqw94esdkyhfq75y4fxl9wrv,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+zil1melkmjzv6v784dlk30rhx2ck4zccqpprsdd3jt,zilliqa,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+zil1rklazrfy5spul4tqzc2jqfvuneszcjrdya6a8y,zilliqa,Latoken,Latoken (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

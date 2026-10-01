@@ -1,5 +1,291 @@
 [
   {
+    "address": "0x326031E680419FB020A5361fF56384e166b5aa85",
+    "network": "zilliqa",
+    "entity": "Bitfinex",
+    "label": "bitfinex Ziliqa (ZIL) hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "zil184u2al6n0nrks06xjgq080hc95f77ttd7rkqvn",
+    "network": "zilliqa",
+    "entity": "Bitfinex",
+    "label": "bitfinex Zilliqa cold wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "zil1xfsrre5qgx0mqg99xc0l2cuyu9ntt259ngsu7s",
+    "network": "zilliqa",
+    "entity": "Bitfinex",
+    "label": "bitfinex Zilliqa hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4EHCQSBDXQDSR4MFASDP2TGNKVDCJEKA5FUCHLAJ7FVTANR42JISNPV6UU",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DevD35PrcsJfg9CwpypmrD7GsYMRQpZQx6rfeSbkVtFp",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "NKvKqGs9yPGct37ybza71DsgLSPAKn34ko",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "XQBOKHK7JQBWCHXSRWH5XW5ADMRX6WUHB6WXM4GQUF5BUFETJOLX7AMJRI",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1q9lqxlvk2dk8sffhr56gc4c4lckpv56l4r7wwh474caywurve9ssnt966vmezsfsppfm5sxgu5sqxacp8t7kpjzp9yxqn24ckj",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "addr1qyxuqrcjfyyz99yx4s307x33tu45944j607cywzvh3ykxw8c0cqknc77ed7uu7v465ufhkuu73ve6x7r9emq8vfkhxts23pyk4",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "aleo18lpsmdx0hzwhw6ejaad5j8hjngwddyn0ap8ws8cr0z7gls4k4s9qz5ww07",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "bc02e51d5f4c03611ef28d8fdbdba01b237f5a870fad7670d0a17a1a14934b97",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "celestia10v2gu0vvdeuv8pexnl98lmyva4cq8jkavlk9w4",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cfx:aam0nuzv9bu14e68xb390bjcc3t6du0bn2tcy8rde0",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "dydx10v2gu0vvdeuv8pexnl98lmyva4cq8jka5vf350",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "e10e284823bc0728f1850486fd4ccd5546249140e96823ac09f96b30363cd251",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "gateMurAxe4YFoUR6J63gXGKtkbTfdkMdLjZrCmThFP",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "inj10v2gu0vvdeuv8pexnl98lmyva4cq8jkahus3xq",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "inj18njk2lz5q7juryvzgyly2qxetuwqadxzpvmuhj",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "kava155svs6sgxe55rnvs6ghprtqu0mh69kehlxmsky",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "kava19yhugy8qzps8rur4mnp6tnz8w6nh7qrqu7l49x",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "kava1hpcfdtv84srdq7n9a7mhnnmd3jwuda97n3fcu4",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "kava1jm068whkhkxk48gx80ppm2m0nwy677pr2tn7lv",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "kava1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9af99p2",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "kava1xunyznpjmj9jv5e2zwngp2qrzmulr2ggyd4rl3",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "zig155svs6sgxe55rnvs6ghprtqu0mh69kehze2lzt",
+    "network": "zilliqa",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "zil12acrew80f00m4v3cs4hw9yawx7m74fwdwtmdj5",
     "network": "zilliqa",
     "entity": "Gate.io",
@@ -8,7 +294,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "zil12zn46cppzsg0thgn7e66ugjd3c25hcl0acjaud",
@@ -19,7 +305,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "zil1e9k0rdjgh0khx06veut6ghwkggue6snmrlyg4w",
@@ -30,7 +316,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "zil1jcmadzrm6w49gegqw94esdkyhfq75y4fxl9wrv",
@@ -41,7 +327,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "zil1melkmjzv6v784dlk30rhx2ck4zccqpprsdd3jt",
@@ -52,6 +338,17 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "zil1rklazrfy5spul4tqzc2jqfvuneszcjrdya6a8y",
+    "network": "zilliqa",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   }
 ]

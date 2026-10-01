@@ -1,36 +1,94 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-DTHZron9cR6WstH6VcdsVZwSbVDEnFKkGQ,dogecoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DCqkF26vcqG1FGJiB7L73jyTDeFkjeEPvJ,dogecoin,Coinbase,Coinbase (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DLuceb7v8vHknepvYRTzz5bSMUAqax8vTN,dogecoin,Coinbase,Coinbase (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DNhLqkURqaQDW4f4J9wxtVzRw1XxhkjZ6m,dogecoin,Coinbase,Coinbase (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-A8c3xNz2mqsDLFwv5KL5fpH12QEwDaoTXo,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-D8tsTxMVpGGWpc333my1Gpzt9sP4YQjoDx,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DAAhXpPfziaCcGweJMWE4RSucLcee7NcqL,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DJtqonMkvsVr8rVr4Pdf5zYfZrnaLSdnwi,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DKRg7bL5s1NbWp1VMKhP1gbw6mqydnoX2u,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DKURQTetAa5ieMAUPo9gxmHcLXpwes8kH1,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DLCDJhnh6aGotar6b182jpzbNEyXb3C361,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DMxKkM6Y7jLrmahRGdUCRmPVVdMCZh7QKy,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-EKk4HeHnLvMpxFiSbjVizcrCB1nVt39Bwe,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-EWwQTNN6ehrVLBh4imEYtQr61txBE2ARUk,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-Eb1wiohh195bcZrsPowoMdNRmaaJk4wbai,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-EdGT5d52SZhYASQpMdCydpnv1iiS4j2YoA,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-EftXuMPJRVxKjFKQ2Z3oiayi5hL4v56u5R,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-dydx10v2gu0vvdeuv8pexnl98lmyva4cq8jka5vf350,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-dydx155svs6sgxe55rnvs6ghprtqu0mh69keh22pfq5,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-dydx1jm068whkhkxk48gx80ppm2m0nwy677prl8f8fu,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-dydx1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9g9luh6,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-dydx1xunyznpjmj9jv5e2zwngp2qrzmulr2gg3p06fp,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-hp7fFnvDbtF2PPydXhf33kXZULyqgUTJVYH7FkZVoKtfhoD,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-mKRLHKrNoqZYup1VAwVbgoDD1on8pPzZAnx4Vqr66yoMFSJ,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-mtWj7VwtJQwgzJSGFnvMS8W8UYifdZcnVyCaZ5eTe3kF4Jj,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-o8Enfv8XpWDiS3gvSprJ3xixqBEHN1vDCwhCpQdhfDh5EPb,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-9ztZpRN3v9xv5JhAT7MTtmy4DfyMEAG8YU,dogecoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DLzCvKskasu4Adj3XgbyNitKBukBSa5JPP,dogecoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-DRRU8L7fF4k9w7SF3Z6ei8onPCsh9hjGX1,dogecoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-A4pFXcvnZdCm7Z3iZR1u12NozWTHk1avAg,dogecoin,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-AEn5XzY4vpLfqGTouwsB33BHnhxURWzrg4,dogecoin,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-9vPesMs2Md65mu2JBEccp8RKBqccqaLMRL,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-A1D5sbS86TMJxwGT5q2oTWkXXLfgJ5j8up,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-AC8azEyeWHk1L7XKvyeBjJtVwRwXgmP5hQ,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-ADNbM5fBujCRBW1vqezNeAWmnsLp19ki3n,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+DMbNFKqJpr9B9XPfZL5zbgMTvzpN7h7sfz,dogecoin,21.co,21.co (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+9xFftuJonFHopj9FB6tyW1kyxqusr4jrGh,dogecoin,Arkham Exchange,Arkham Exchange (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DQQckuSMsiFjaAdGiNjvDyswcz9RWQU2xe,dogecoin,Bitfinex,bitfinex Dogecoin hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+DTHZron9cR6WstH6VcdsVZwSbVDEnFKkGQ,dogecoin,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+9tAKQbiRPJxosnuUFGivL2kP3UEEeqdnd1,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+A2is3pqH2jz8jcRNV2QEFnLF3FAP5hBEoB,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+A3UdEKpx5HR1hJvKKw7iVbwp6MRn3yZAiK,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+A4RZ3WfKxyWDPvMkFGM2Uzo8rDd6wwBqK5,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+A59WR7LTBiBbSx3QZbf7SwQ6q3PHnP33wK,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+A5XHmCEG2TbaUnCiZnganw29EsDDnUQXjj,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+AAuxfoiADXxMgbZPZ42xE6TCnFnz2FK33e,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+ACkC8PjakegrmPFaL12FVDPCn8HwdKzSCY,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+AD7E3QXB5go9AtE2uueMr3Dw767eWi5ruy,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D5GmmrSZ1xDut5Nj1s4C4ncA1v3EGfbk15,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D788kYSZYsVWSoLVejipE1Q4cN8Spom5eU,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D7pEtDnFU3ZgTykZt54SXvGeF1YSt2PVbe,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DBdkivVhGhmbBRSsbt2s55MtZ38ngs86nS,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DBrNiTbgpHHeveemLNnKwNDEJwXRGGRb1L,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DCWvgKHcs1KUDqYe55rTX8m6uaJ67gaAp5,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DDm2XmWXhq3fxHd9fUaqnbmxanaFuKSG1s,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DHBERwF4LVLVwQzDtfPz9zEtKPnWW9NSDH,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DHt3teN3iNSG7rJ8GaGz5EeHYFieCf8Qin,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DNpbFixXn611Qd9SZDBDjS4NhFPAXG8t1X,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DNvZftCnAsfrzzfe6R3dF6Sugz7W4Qgs6b,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DPYV66VirzChkotHXPryAhcfvyQmeArV2y,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DTWmAfdTkrtqv7GmN2vE74VTkXkgQUFRSn,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DTqm2UCi6AS1nSCo9jZ8AejZ3k1ZcF8qix,dogecoin,Bitkub,Bitkub (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D9GEFr81xw1mnbq7HnMaTnywF3FwDGjiw8,dogecoin,Bitlo,Bitlo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D9PyugrmQdpoabcVUceMFUZubDx4JHzebd,dogecoin,Bitlo,Bitlo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DCH2NkFZ7k5ombczgUNeDrijHeaQUdNJbA,dogecoin,BloFin,BloFin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D9uH999MANKyNkzfb8XwRmQhHEBNLBh9sA,dogecoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DAMt5CrmkVuiNDEWCWRiyecpvNKi58FSbd,dogecoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DAd1JWwtwx1paUuWG71ePNLU3WJUFaMJoh,dogecoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DGXx3yTPND5E7uJdCzLe945ri6Qa9as3Go,dogecoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DQNrmw9tb9NDxyhjb6BvJnvAvDBC3CMurE,dogecoin,Coinsquare,Coinsquare (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DA9pxm6zPWCgjexGNcZkWS8JeoK4KMPE6d,dogecoin,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+9y8WDTKcBrzKPuun9dsDsbnFrZ6SJCxSxc,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+A8c3xNz2mqsDLFwv5KL5fpH12QEwDaoTXo,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D8tsTxMVpGGWpc333my1Gpzt9sP4YQjoDx,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DAAhXpPfziaCcGweJMWE4RSucLcee7NcqL,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DBTkQXvbMHQM7fw2YcXrxzayCiaVkx641i,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DJtqonMkvsVr8rVr4Pdf5zYfZrnaLSdnwi,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DKRg7bL5s1NbWp1VMKhP1gbw6mqydnoX2u,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DKURQTetAa5ieMAUPo9gxmHcLXpwes8kH1,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DLCDJhnh6aGotar6b182jpzbNEyXb3C361,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DMxKkM6Y7jLrmahRGdUCRmPVVdMCZh7QKy,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+EKk4HeHnLvMpxFiSbjVizcrCB1nVt39Bwe,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+EWwQTNN6ehrVLBh4imEYtQr61txBE2ARUk,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+Eb1wiohh195bcZrsPowoMdNRmaaJk4wbai,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+EdGT5d52SZhYASQpMdCydpnv1iiS4j2YoA,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+EftXuMPJRVxKjFKQ2Z3oiayi5hL4v56u5R,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+dydx10v2gu0vvdeuv8pexnl98lmyva4cq8jka5vf350,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+dydx155svs6sgxe55rnvs6ghprtqu0mh69keh22pfq5,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+dydx1jm068whkhkxk48gx80ppm2m0nwy677prl8f8fu,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+dydx1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9g9luh6,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+dydx1xunyznpjmj9jv5e2zwngp2qrzmulr2gg3p06fp,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+hp7fFnvDbtF2PPydXhf33kXZULyqgUTJVYH7FkZVoKtfhoD,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+mKRLHKrNoqZYup1VAwVbgoDD1on8pPzZAnx4Vqr66yoMFSJ,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+mtWj7VwtJQwgzJSGFnvMS8W8UYifdZcnVyCaZ5eTe3kF4Jj,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+o8Enfv8XpWDiS3gvSprJ3xixqBEHN1vDCwhCpQdhfDh5EPb,dogecoin,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+9ztZpRN3v9xv5JhAT7MTtmy4DfyMEAG8YU,dogecoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DLzCvKskasu4Adj3XgbyNitKBukBSa5JPP,dogecoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DRRU8L7fF4k9w7SF3Z6ei8onPCsh9hjGX1,dogecoin,HTX (Huobi),HTX (Huobi) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D5qVwCrcNwNFyt4Ju4ASVKxbiYHMnjcGyj,dogecoin,HashKey Exchange,HashKey Exchange (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DEovrjDhPB36kwvbyNtiYVrbWv1ahR1jQv,dogecoin,HashKey Exchange,HashKey Exchange (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DNq9QyJTg2DTqpBemA66qVtk3VRPR6QpvH,dogecoin,HashKey Exchange,HashKey Exchange (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D7G2oPDhfUCQv5G3KwavFghRmmDd1eKKL7,dogecoin,Huobi,huobi reserve wallets DOGE,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+DFCT8ZPq6MytZU3HSvbTJevxt4MLq2Xasu,dogecoin,Huobi,huobi reserve wallets DOGE,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+DHcYzg33fr3rmHzQjXjNvYW8gTzxU7FWWK,dogecoin,Huobi,huobi reserve wallets DOGE,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+DTzJt8f1YxgpBwVhEfZgkvvZixMLpxjCHG,dogecoin,Huobi,huobi reserve wallets DOGE,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+A4pFXcvnZdCm7Z3iZR1u12NozWTHk1avAg,dogecoin,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+AEn5XzY4vpLfqGTouwsB33BHnhxURWzrg4,dogecoin,KuCoin,KuCoin (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DFbKm2cjt1Y36sKPQc6RQc3MsLmwcccTJx,dogecoin,NonKYC,NonKYC (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+9vPesMs2Md65mu2JBEccp8RKBqccqaLMRL,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+A1D5sbS86TMJxwGT5q2oTWkXXLfgJ5j8up,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+AC8azEyeWHk1L7XKvyeBjJtVwRwXgmP5hQ,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+ADNbM5fBujCRBW1vqezNeAWmnsLp19ki3n,dogecoin,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D63Ge381QBcsaf7qwuxBh5rttgRFdnxMcv,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D6BgG9CDJ3Xa43EsAeT5969bcitv5KtmwT,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D6WMft6zfERAYorB3ftcJjhTintgeVAGhw,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DB1zr87B2A6TUtwWjp3dUjUypejrmHqGH5,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DDXgUo6rPcJ5i3k1VmPAd1wWijmwfSPYEE,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DKSTo3dqY6GiTcx54mAQFEBitAWMmmtimF,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DLBYdQkDyVWAcXxfkrXNPL9yE1gtKdKHbe,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DPeRfkGa3BbUdeivchhjHDx76pyZ5HfrNq,dogecoin,OSL,OSL (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D9sBdytmsS1adxvzFTwz94tkpsoqXU8TaM,dogecoin,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DUDrC5rjQsRz6eEZQrb6wzh9jmauh2JHpX,dogecoin,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+celestia197v98nkhnxr54x45hrcagnu2rr2ckyn7ugqw3h,dogecoin,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+celestia1trvqv850ft2p7ntewneevd690qde2uvtt8hufv,dogecoin,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+inj105zqcfv3z9z79yhsfg8v6rql3huzhyfp0sana9,dogecoin,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+inj1xdalk5nsudad3vxnnf3t28w4qljfedlnu7pk5e,dogecoin,SwissBorg,SwissBorg (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+D94TGz1Qj2Zok9TowxDXVo68oEatVC6keD,dogecoin,Websea,Websea (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+DDQDi8u18s4xqsUzLMrhT57rEDrrnoMiJG,dogecoin,Zoomex,Zoomex (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01

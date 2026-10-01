@@ -1,8 +1,18 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-9f5WpnpDCAWHXk4HYARp7NKBJV58QSkCKAC2vucsaVBjPgKsght,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-9gQYrh6yubA4z55u4TtsacKnaEteBEdnY4W2r5BLcFZXcQoQDcq,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-9iKFBBrryPhBYVGDKHuZQW7SuLfuTdUJtTPzecbQ5pQQzD4VykC,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cg3QZnNBPvXUiaAJzXqR1Ria2egcLXgmmRu9wGa2nQk5aV7FP,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cg6usTPiL5jS36gj2PUeqzMciJE58pphJgaQcDp8513jVAtc8,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cg7UxrDtRbE1REmDTAZWGk6x1Dgp5MdrvuuarjsMsNaoS4eUp,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
-cg8igunJcEk6hGCxhpkYCginE43SayNKELcZMN8grcbyNtcg9,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-07-17
+bitfinexcw21,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexcw22,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexcw23,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexcw24,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexcw25,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexcw31,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexcw33,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexcw55,eos,Bitfinex,bitfinex EOS/EOS Tokens cold/wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitfinexdep1,eos,Bitfinex,bitfinex EOS/EOS Tokens hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+9f5WpnpDCAWHXk4HYARp7NKBJV58QSkCKAC2vucsaVBjPgKsght,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+9gQYrh6yubA4z55u4TtsacKnaEteBEdnY4W2r5BLcFZXcQoQDcq,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+9iKFBBrryPhBYVGDKHuZQW7SuLfuTdUJtTPzecbQ5pQQzD4VykC,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cg3QZnNBPvXUiaAJzXqR1Ria2egcLXgmmRu9wGa2nQk5aV7FP,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cg6usTPiL5jS36gj2PUeqzMciJE58pphJgaQcDp8513jVAtc8,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cg7UxrDtRbE1REmDTAZWGk6x1Dgp5MdrvuuarjsMsNaoS4eUp,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+cg8igunJcEk6hGCxhpkYCginE43SayNKELcZMN8grcbyNtcg9,eos,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+vuniyuoxoeub,eos,Huobi,huobi reserve wallets EOS,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01

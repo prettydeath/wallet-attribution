@@ -1,5 +1,49 @@
 [
   {
+    "address": "FvLsZiM3g2ZnehkK42c4EoLASBdchKnqzxyAEmGhViZq",
+    "network": "solana",
+    "entity": "21.co",
+    "label": "21.co (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3huamNpghPSPbgQSLX56B18Sj1hq5SE4KGxwTvhwJGnC",
+    "network": "solana",
+    "entity": "Arkham Exchange",
+    "label": "Arkham Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "H2qEpXtSEzQTH5xNFpA8VA1W2NKNZWxUoVpascxyWAK1",
+    "network": "solana",
+    "entity": "Arkham Exchange",
+    "label": "Arkham Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7BCp5XUXtKzZWYCvGR2fzFqoyKiJ7ozN8eCEHscpSMnB",
+    "network": "solana",
+    "entity": "BigONE",
+    "label": "BigONE (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "rTCAfDDrTAiP2hxBdfRtqnVZ9SF9E9JaQn617oStvPF",
     "network": "solana",
     "entity": "Binance",
@@ -8,7 +52,73 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3Ln6KEgLoMR2xFHfqtYazP7CxFQPDtUVVtwCVsLKVfmV",
+    "network": "solana",
+    "entity": "BingX",
+    "label": "BingX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "J1BGeK3ojLF5dqaNFLg7WkQToyYisY79pWvHHscTJcpD",
+    "network": "solana",
+    "entity": "BingX",
+    "label": "BingX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6UsYfLKTdVGJdaWFBLjBYqqxFSUjh6nwpBqdh6R8n3sv",
+    "network": "solana",
+    "entity": "BitKan",
+    "label": "BitKan (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "47qgBcQGEBuWqNsE7QZ8NsXoe6fm5xLV94TDoYJzhgUV",
+    "network": "solana",
+    "entity": "BitMEX",
+    "label": "BitMEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "JnmCTvT4kewDDET2Yu3T1mJD6GAaTpmxBEPGKC7CMao",
+    "network": "solana",
+    "entity": "BitMEX",
+    "label": "BitMEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CgANddXc7FKSsdLSdFv67X8faZqQaRTeLMXkAVANkZD4",
+    "network": "solana",
+    "entity": "BitMart",
+    "label": "BitMart (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FxteHmLwG9nk1eL4pjNve3Eub2goGkkz6g6TbvdmW46a",
@@ -16,10 +126,10 @@
     "entity": "Bitfinex",
     "label": "Bitfinex (proof-of-reserves)",
     "category": "exchange",
-    "source": "defillama-cex",
+    "source": "defillama-cex+graphsense",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FyJBKcfcEBzGN74uNxZ95GxnCxeuJJujQCELpPv14ZfN",
@@ -27,10 +137,10 @@
     "entity": "Bitfinex",
     "label": "Bitfinex (proof-of-reserves)",
     "category": "exchange",
-    "source": "defillama-cex",
+    "source": "defillama-cex+graphsense",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "GnCRxKqUEPouYMvTb5nJMGrDB3VkTXZnDTaDuVZdnWA3",
@@ -41,7 +151,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "J4rzLDLhLWFpjSgCMCcxTU84bQ8AH5vhgjwq7SjYVk8Q",
@@ -52,7 +162,18 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3RtJvxpkok13LGQsQ3Ye4QvCkbP3ioMpra7ccuf9XqsF",
+    "network": "solana",
+    "entity": "Bitget",
+    "label": "Bitget (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "3bLkLrRvkwHMrqyoCaDSCn6bZnpfJCVsHxcmznUwB1p5",
@@ -63,7 +184,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "42zAGwv37eZFwwcExfCAV9oSw2kNQX3aBxsbM6zvQECM",
@@ -74,7 +195,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "48Zo7g9SReCWmNtCvr2es4H9CLCRQHrSND2Wzi61sCsQ",
@@ -85,7 +206,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "4S8C1yrRZmJYPzCqzEVjZYf6qCYWFoF7hWLRzssTCotX",
@@ -96,7 +217,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "57WSBnNTC2MaqpY6NWLdNjhrELced4jSGV2hLSpjzct9",
@@ -107,7 +228,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "7TWnq4WeYcwQWBCwKeEX2Q9xqVtthPGkB7adNvueuVuh",
@@ -118,7 +239,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "8ZPaybdHeNwpoxmU1ALcbLoE3eK443Jq4emk82VCscag",
@@ -129,7 +250,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "A77HErqtfN1hLLpvZ9pCtu66FEtM8BveoaKbbMoZ4RiR",
@@ -140,7 +261,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "AvLGED7RBzYv4AuvkgFSCFMqyB2WjUff7TVKVEv5MjMs",
@@ -151,7 +272,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "AyhsmFptkM251V1AoH2gf8d4QUnxUkkmaDqFfFwBwGni",
@@ -162,7 +283,18 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Bk57qr4wSvzCqGKHD2vAc6n88oHyDoD8b3HnvGEF5iQN",
+    "network": "solana",
+    "entity": "Bitget",
+    "label": "Bitget (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DP1FqoBnE23QNNz4LpT9FCQvETdJN4nph5c11NiinrGg",
@@ -173,7 +305,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EPxGiguU5j5tKFnMQpzMrzczEQ5NRtLWrpG9fADvtadX",
@@ -184,7 +316,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "YiZeibU6zzEHyKiSTjygXUPkMktKj9a3DCAcWmZ4XjF",
@@ -195,7 +327,546 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2DHGApRJfSbFdKUy62d1bJvamdXURevFiAa7o2C6ZDNx",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2ZetBmH949e7yV74Ac3StDSBhjgwdHihYsJct9MEzTRs",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "35BLqzFeEnfi3ek4DQxgKS4B8zv4bHjSAjsVimznZkqt",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3NZ1gNp87gQSMsyC1rz1kDUrcSGE3VZMNrjSJSno9Hs9",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3deN3uG53ojRie3E7s6ZpmMEHRG6PwFJEnDy1zxqmNpp",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3qSqg9QHVafdBVBtZcURf2ZfUGHxxrkJvybor8DAKPdE",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4kWjLKqR4aamruPbTAXyARHvAUAta6H9ViCfEr6TYi4q",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5DtEbqCRp62HjuvAAUNR1M6znvkLgqzjUCoDme6Ne71g",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5TxJdSrM56qcmA1b3BHfGpVGx1nP9BbYQ39ZrkUeYuea",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5WEHtsZkg966aRNY8o97xZxpfHEjDEa7PGZs2gFUBKBr",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6JdEgXJhsUDqR7m9u7fZQxJkSFaDqK7SToQp8mMcJWxD",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7Z4YASPhNRbebWGx4GuzEWFAETZyRdN1GQTFTnM8t5c2",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7xwFDKfT92N8f1NHNuuMJgYVmsD2yFhkStJsawkXDVTD",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8LCXyVvmry8HBesJFKYPwHM4UX7pPuFEa7PsnCja5uxH",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8YuX4AjWKxZnniZZvB1KzSMXKN8vZ3y1am8AJmJ7DzBc",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "99GQKbo1m2dU2ETGtEB1of9F6QHne5o9HHjAc7MyiVSn",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9A5eQZo6qaboCaSreGFQWyWffCGUHMLs3xQGzmG5m5dw",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9ETmFWqUnc7nVoKA7jFgRqnU9KngDrqNzPwZN7XKgS3H",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9R4k6GCUhXXcw3QeED9siRbcNdVJUvBRgNBH2HocH9H8",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9SumwfFTn4o6iXd6xYAYZ2RnLxji9kdtv5dS2swCYyN1",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9ZxAqUEP5aYBCHakuVt9ojL15jfy9oMiaeQv5ewk2c7J",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9frHwgmkWE3CvLdpwVaQ5eACsBjBu3fAowo1YghjraQt",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9nwRoFXAMQynz88xKQtn2Vb2ugyjbJA3NeUcYYzs2kd4",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AKvLSpcGwtHjaX6pqFzNWZ8LhyXKTuMKDuG98W8i57oz",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AdpmsVaAjuGSrfsFpNycwb6SYHnj8FdSf1jTd7Qy1EB2",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Arp8fkaJ61vLZaGXLb5CMPNCAMpM1CSTUB4RuixAimNX",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "B8TpC7AaarMtrxsMMy3tE1vrvBYfHcb5e3MdaV5YHMd1",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Ba48psimqrGrD96czwctcVdcEu5UcAxYsrdtA4KEV5vr",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CFRG5N9jssniiUDJxVaxjW2BEYMoNJhYnHGfcGvxkWJc",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CNcko9ycyeioaGk78TDYdVwZC4D8f89XFgbYmKzo6Xi",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CpN5PzbzqKV1EDoLhdn83ifB2FHRR7FHAD9RM8cp3AEo",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CqLu65KkFvGi3DUrR9o9aUC4LP2yUywFHZn8WoNLNVgy",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EG2zYEBDxcw1NpB6dLrZGfEjFTqtGNBB8YweoBRpEeXp",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EYwQiu77puFP8ipPziSgzhfaszSskiAvSU6tbtpZwBnE",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EwA9sKvmKwTpKr9BqYmsYi2UjKEMm3aPsihmFfT7Q9DM",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FEpW539FYXJLpuKxPEuFZhtBHqv3o3V5qKtQa8wxN6qQ",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FaRHGid5YJMEriGX4Y8tgrzwgdErr5wvV2ttMm7MquS4",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Fv3SrFanK6rnvV1diZSTKCjyUff6EYTWW9xwcZr1MrZ2",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "GVWeq5RBprqBDt9Enfjjv6tZWemeyyzch4GmXAuQqLwa",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "GgvvTgjBjt8j3cvKnGd8dHfChdeehLhtDeRnrS4iQDdr",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "H13wk1NsagnoFDs3G6PiaCZCnd5k2UwsFosWXE5HUuVv",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "HiqgZRizYMASRPgbEZVscJBvZBg7uxaRi15PXpisHjbC",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Hzhz8mkdrFEH8ugXGZ14ATYe7jNTyFzgD4rrMyPdzk2j",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "J19hBZ3ki2119wotHxZiDxUyhBpD6MPhzXcPppA6eDZy",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "fhu47pAfppH4tvUjUZecwPC6Vn785EN19urReTsLfgA",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "wwTYvkQMnmtjvVjcC8Hhzw4iTwbz5XvKdUta8LBwuqm",
+    "network": "solana",
+    "entity": "Bitkub",
+    "label": "Bitkub (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "ADfsfX95pX8VkHcF7i1JCLrwKZ5mQptQF5QcVQf5cv3A",
+    "network": "solana",
+    "entity": "Bitlo",
+    "label": "Bitlo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D9tnx1BsZtjnJQKSPfY88tWrLkPeukCnUnzoG1GNmp4i",
+    "network": "solana",
+    "entity": "Bitlo",
+    "label": "Bitlo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FDPWPcm3FrtQcQcAjd9k3biyco6RCwun9dgt8GpjReXk",
+    "network": "solana",
+    "entity": "Bitlo",
+    "label": "Bitlo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "2rXk5bgHTVHYGkLWCi16AVoXnMFArJH1MAfaqbXiMLAo",
@@ -206,7 +877,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "7RmkMNQerKaVioRnmqZsHM5Gm8F3gngQG8umLNoK97q4",
@@ -217,7 +888,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "7ziHMYFe6st7b6AWnLSSqLoVqbZcXJPUxSDsTG4xzmoV",
@@ -228,7 +899,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "AxQyoXiqZAW2ca64CE2828pYXX7U3jXKJTNVa1hvhQzn",
@@ -239,7 +910,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DFsnJoF2jjkFngB1WSPXTaiJJEjJTBAmPLCxcWwknuxq",
@@ -250,7 +921,568 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9jA4MUtsPAXy3ZhsiQUhkSXMop2ogrCWYv7rE9xovsWp",
+    "network": "solana",
+    "entity": "Bitunix",
+    "label": "Bitunix (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2h8JJq1kAsJvKYVrsEqwhQTcy99p465esHUFcJA94QY2",
+    "network": "solana",
+    "entity": "Bitvavo",
+    "label": "Bitvavo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5BCgqYg51CANe8qUMPYWJsqRA4Y8HnyfmvkoJxcEmQfY",
+    "network": "solana",
+    "entity": "Bitvavo",
+    "label": "Bitvavo (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2ZC474Fx1NheoK37WbQoRCKZFLCeGk2an145j2qntuup",
+    "network": "solana",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3V11R3pEGSt5XeRaoLDcCdkAB8zVSaKRCm8y3uKBgnsr",
+    "network": "solana",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3oWiTmU5QpTbSuTCVULybWsXc3DVxixdABxJPerLgTai",
+    "network": "solana",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "94xmX5J92nZLanLvRstmxhgiS8kN8SVfFQ2zPKYB3Ynb",
+    "network": "solana",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DTLR1QKfH3QWLDm3wkRZqxiH1NQSH4szWxTjGqHCQQSa",
+    "network": "solana",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "E3Gd8Hd1yKdkHTQnbenNVBgV2p1MrrenQnVU4SkJD4zx",
+    "network": "solana",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "G2dBDN1k6EJdSQNTSeSZ9smwYkFhEgsNNG3mtRE1PVXb",
+    "network": "solana",
+    "entity": "BloFin",
+    "label": "BloFin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2QwUbEACJ3ppwfyH19QCSVvNrRzfuK5mNVNDsDMsZKMh",
+    "network": "solana",
+    "entity": "CEX.IO",
+    "label": "CEX.IO (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CGRNicgpirZd3unSzn1Y34k7w31rQftTbaJwEuQu31XP",
+    "network": "solana",
+    "entity": "CEX.IO",
+    "label": "CEX.IO (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DUru5ZfCdCnjPFuY7NPniV3hhZqNJLgn2sBZJGaMc2Sj",
+    "network": "solana",
+    "entity": "CEX.IO",
+    "label": "CEX.IO (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8HTUpmDQAXeMtKMyojVFY32iAzhG6tEg6zqvASAzHnNd",
+    "network": "solana",
+    "entity": "Coin8",
+    "label": "Coin8 (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9JSjQQMTmkTSGHT5s6aKnJop6q6hsqMvkTGLzrC9x1NP",
+    "network": "solana",
+    "entity": "Coin8",
+    "label": "Coin8 (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3Nvb6UeEMVLf9DsehhqT8B5SNHrNLEpHdf42nXi9aLK8",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4E73T5Zubx3kPtheJ5DB6QMEaadMQowhUcdRV6f9rvVt",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5bjZPeHbdGUCduyY8i2dZkkgLWkG3u1P2sbt1Jb5kFxW",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6XuYJv4PyauP2WKdgd4fZYvjK7uBdVkEySoy89fXV9XT",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6fuHoq5Tr2j6dFTGWHmLUhVBUj8XvDBgdGGzgfSwe5DN",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6p8LxMvHUZtdiik28TQy483WaCaDGsAUFm3PKjpUpLB",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8W4u11KJYhmCY9rs2MCVHmMrgpeHLgsbkwAarbNvzr2Y",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8nFGjbJNdarBouEC856Qmhrm8fptuEUnZrpNKgougsLi",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8zSWFy8wvHEuFJ7CZ81wy2wn4fPaju6jc6tbtbv5x9f8",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "92qQCjprXoJ5GYji5it8PJTneBFxzSJ6mYosQWxYKxx4",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9buzBcTujdQLyf1XkyLaSrGNbkyNxg8qML3bpKWCz9P6",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AjCHG7CYJST379Eh7xLqhRaUyBzurFKjsX7z8DTrfGZp",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Bq6NnW55ToJrAM7NxUYDmSMbKKCQ6f742ZemLiypqjzY",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EUXVDPCwXe9sJt3VucYfveB1kk5piSWJqhWQEsFtE2CR",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EhZLSqyWrazhqR5bmyyEfFRa3ycWu9KPgQgQ7G1R9zC9",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "HwgxMWxaq5cDbdVmoH24Gy8F9m9DkU7Mwgdbgh4mh2m7",
+    "network": "solana",
+    "entity": "CoinDCX",
+    "label": "CoinDCX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4DgunMfBb19GaMZ1Z48oqcymZ4eBA4v5SUdRnapzj66G",
+    "network": "solana",
+    "entity": "Coinsquare",
+    "label": "Coinsquare (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "27XKFUkuY8VyXLbinENSVp4aTxHSCtZcJ9poKWP4GEuj",
+    "network": "solana",
+    "entity": "Coinstore",
+    "label": "Coinstore (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2YH3L1nAknnDC5Bu6S6Z5Dzurw2fUG63Msws96NLRpAi",
+    "network": "solana",
+    "entity": "Coinstore",
+    "label": "Coinstore (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DVoATqaFVS98WwbGAYvBxUAX88bWTrW9Ej2mgFJ8Gm64",
+    "network": "solana",
+    "entity": "Coinstore",
+    "label": "Coinstore (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6xASgNpWJzP92LSwWkPZryHt8VMK1XhiU284gkLcVaX1",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7wx23rZmR4tikqW9avcby5Pf8QEuBTo7HKUtpCt9r9nz",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "A5ANHizfayJUDBSwV5Cm7CNXCj6E6AAda49wzzdYPons",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex+graphsense",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BNqPhvyoyRz4zj4Mmrc3cdqZaqXjro3RZ82dkvGec38n",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BZo9RRbgsWaLMxyaYiJK9D27j2FAVgHrhMJBvAj7GiyG",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BeTzsKSyvUhYiSrRDrDkZDN69LU4T7Ho3qKmrK8DvxYN",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DL165xn6SrdupXGA2MW6woz35B3ssVqpYfwS1xAKdyx",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FbchixvxTEW24Mnzh8AxW31YEZ3J8bq5G5YthxttRgST",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "H8z2yZcrKo7ngiMz3Vsuw823nYo11qdCqs3sJDDjeTdD",
+    "network": "solana",
+    "entity": "Deribit",
+    "label": "Deribit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex+graphsense",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BRvrp5WQkVuda1BAxfaBTpbBW4b73GhNp7AW7NcBs596",
+    "network": "solana",
+    "entity": "Fastex",
+    "label": "Fastex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EXm3bWhUFXpNtvAgnbQyCMtg89NjSwZzme8RCcs7JPCb",
+    "network": "solana",
+    "entity": "Fire",
+    "label": "Fire (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FgQygQyFJ5SB8idVQcee6v1uGoQbJMyVhW8BFPTAEpat",
+    "network": "solana",
+    "entity": "Flipster",
+    "label": "Flipster (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7yNsV3MhcvmqTfDsZ914JDPdepJCJYNm3JdEY92xEzQm",
+    "network": "solana",
+    "entity": "Gate US",
+    "label": "Gate US (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "SP3YDD4T7YJ07EREM250VHR9JGG5TW4HQGHC101N3",
+    "network": "solana",
+    "entity": "Gate US",
+    "label": "Gate US (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AGrghB4tNEJhWsPoQ73We5KAvgp6q512BkBx6fqY4i4b",
+    "network": "solana",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DevD35PrcsJfg9CwpypmrD7GsYMRQpZQx6rfeSbkVtFp",
+    "network": "solana",
+    "entity": "Gate.io",
+    "label": "Gate.io (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "Egf5D8NKBivJavLKmCssE93J7X6fKvEPQwFTWLZUnaSN",
@@ -261,7 +1493,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "G9XFfWz6adb9wFDKN2v7HfmJDgAc2hirrTwBmca4w26C",
@@ -272,7 +1504,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "HiRpdAZifEsZGdzQ5Xo5wcnaH3D2Jj9SoNsUzcYNK78J",
@@ -283,7 +1515,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
@@ -294,7 +1526,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "5bJcc9eb2XE7mqcET2xDuAdMGuXWybb4YPmAHLjKLhQG",
@@ -305,7 +1537,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "88xTWZMeKfiTgbfEmPLdsUCQcZinwUfk25EBQZ21XMAZ",
@@ -313,10 +1545,10 @@
     "entity": "HTX (Huobi)",
     "label": "HTX (Huobi) (proof-of-reserves)",
     "category": "exchange",
-    "source": "defillama-cex",
+    "source": "defillama-cex+graphsense",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "8NBEbxLknGv5aRYefFrW2qFXoDZyi9fSHJNiJRvEcMBE",
@@ -327,7 +1559,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "BY4StcU9Y2BpgH8quZzorg31EGE4L1rjomN8FNsCBEcx",
@@ -338,7 +1570,128 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "C9nsmzfv4cjkDJ8CgxSdFZnnRR1MwTyuYr6ip4nL5q3u",
+    "network": "solana",
+    "entity": "HashKey Exchange",
+    "label": "HashKey Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "HwEiRVn4ryKsTq6jECQHepLtUv2GVBfdibC4JjTDj8Su",
+    "network": "solana",
+    "entity": "HashKey Exchange",
+    "label": "HashKey Exchange (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CrK188sdwoXzMCukUhwDdZmE3fEjsMfESwz8P8o5XbgT",
+    "network": "solana",
+    "entity": "HashKey Global",
+    "label": "HashKey Global (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "GDui3zpJC1xdnddCM2Vjp5Hnj97pQH1gDAHctyavx5iQ",
+    "network": "solana",
+    "entity": "HashKey Global",
+    "label": "HashKey Global (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "78TDoKGTeS7RRoqUrSijS1QVFVmxJvwE2NxYicHFHh3N",
+    "network": "solana",
+    "entity": "Hotcoin",
+    "label": "Hotcoin (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "28RWPC6XPxSxUVjd27KiNRtcHVxKtd6cjms7eBcxiqdV",
+    "network": "solana",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4QXXp184iMKjL1ZTLrGtjMFvR2n2YhpUS1WypmzGaYB3",
+    "network": "solana",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4QuB7hY3H512CLG1orbVrA7HTeXbBYCPxBpNfQ6gs5ru",
+    "network": "solana",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4gKjjye5GDXR15s1VgB3ZMKVBf97H4DUfAZcst4KSRdW",
+    "network": "solana",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "62D255w5Bg6Puq2fcJVdb9KLXAhqDQqQdMAbBRdxobLF",
+    "network": "solana",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EjtCjDWj3HyL1a4dRritZLTtZrwvD3E1AAzp6evMUmVB",
+    "network": "solana",
+    "entity": "Indodax",
+    "label": "Indodax (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "3VRJ7acLUS9RYLLgRMenM6BqBVVQpY7xFXa7jKDdYw6M",
@@ -349,7 +1702,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "57vSaRTqN9iXaemgh4AoDsZ63mcaoshfMK8NP3Z5QNbs",
@@ -360,7 +1713,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "6BhBoBB47wSGjK5uzcGWNcTf2oNRPQNuv6GVdkNyj9PB",
@@ -371,7 +1724,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "7gQ1CfjdysJkSEVSDXNjJHnzrqvP2zQYQDJHJP67o1bb",
@@ -382,7 +1735,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "AGVhmrhDi3RKLu9nxnRqp3CUpaG3SVeYXWkWcygHAk8N",
@@ -393,7 +1746,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6",
@@ -404,7 +1757,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "CAxKWUpSbsNsWu2gEFjed64jrNxiNYfRMVEMahshHotb",
@@ -415,7 +1768,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "DBmae92YTQKLsNzXcPscxiwPqMcz9stQr2prB5ZCAHPd",
@@ -426,7 +1779,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EEnu7YoRDnZ1EHHggnnQoFk7fUjNQrXQw33vgFWwMJn",
@@ -437,7 +1790,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EfwJn8cXCYhcGrsavxWSDbUFHPrCK9gvdCr6AVywFBPg",
@@ -448,7 +1801,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EkUy8BB574iEVAQE9dywEiMhp9f2mFBuFu6TBKAkQxFY",
@@ -459,7 +1812,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FPRFLszBJFHCThF2yWvkGkfvtwyFPRGX9MFHnDGP6UYp",
@@ -470,7 +1823,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FZ1t8TZtx7VSCQdBsxvFJiezj9paUBF6Ub7RKA2eTGyE",
@@ -481,7 +1834,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "GL8T72PKygWaYrLKtSteN9UUvYYnuC8azNDunk4eaqqQ",
@@ -492,7 +1845,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "HVh6wHNBAsG3pq1Bj5oCzRjoWKVogEDHwUHkRz3ekFgt",
@@ -503,7 +1856,84 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4eNCYHUsZwtMBjXpDjhzaXp9MmwMd1dSdr9L1kUEuAxC",
+    "network": "solana",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DdAzYR2MyafpvxnpggygmjsYCqxVdW2FkhdEwjCiSi3w",
+    "network": "solana",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EiZxRDuRWF12DuiZ5pgeACrEgaGBjCnnMarhszdqVfGY",
+    "network": "solana",
+    "entity": "Latoken",
+    "label": "Latoken (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BLGFthn7CqHsJHkucwiBWyv1BruRYszfmdW5Xg8dFT3m",
+    "network": "solana",
+    "entity": "LeveX",
+    "label": "LeveX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5PAhQiYdLBd6SVdjzBQDxUAEFyDdF5ExNPQfcscnPRj5",
+    "network": "solana",
+    "entity": "MEXC",
+    "label": "MEXC (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ",
+    "network": "solana",
+    "entity": "MEXC",
+    "label": "MEXC (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FTAfm7jKGmX9cKtyBVJXLJB5pnovHmuo6W2RLJ2b9mig",
+    "network": "solana",
+    "entity": "MEXC",
+    "label": "MEXC (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "3LzmBquLMap6ak2ofyeDbH99VhJ84k336RJzkLBwq3b1",
@@ -514,7 +1944,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "3WjxkXbu9JBosUWUnJpjzec7Wa4rSkWo9khUbbLDCssk",
@@ -525,7 +1955,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "3bwCjRXv4LASkv7DbLRJi7fDXgRRfEZhEstDVoZsjEHR",
@@ -536,7 +1966,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "3n7E2gZmCaDGpmvmHVHhHg13x7y1zG37tnEXvizxnKY1",
@@ -547,7 +1977,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "44DwSkZbY2PVo9wfFP21D7HG7xf5rw8QaF6xSLGSfm7P",
@@ -558,7 +1988,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "5URmUviWsAtcciFXqgM7f1jmhvBULdQDT47dqDkrJUi",
@@ -569,7 +1999,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "5VCwKtCXgCJ6kit5FybXjvriW3xELsFDhYrPSqtJNmcD",
@@ -580,7 +2010,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "5kiqH41rz2wPoNH5FuDJ3x8dB3EEe3XGoSWy2485tAp9",
@@ -591,7 +2021,18 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5njZuDSS2WTFkvWWsgv8Q4TfQBuCASKJAztc5yF2qLWZ",
+    "network": "solana",
+    "entity": "OKX (OKEx)",
+    "label": "OKX (OKEx) (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "6Attw9NcFspCAreufvQ3mW8aqXEk6MDceeoC8obw45cJ",
@@ -602,7 +2043,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "6NnzUC7mrM7ZgKdcMq1jPAdqh9TMgdsaVR1DNq6kce3A",
@@ -613,7 +2054,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "7CtzEcGeYpMfR1aEi1Gbt8GRHDPH9uDB6GNTsBABqSmo",
@@ -624,7 +2065,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "7fGw3UURsxk1szQ4buxQyEkiF4P6z7vx7sN1MHEguTJg",
@@ -635,7 +2076,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "7o9ukGhWvc71yYcjinKnrxMn2kFMyQD1iCG3romrzg7r",
@@ -646,7 +2087,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "8PFD2CYF275p8YdRmhk4C1wcNoKeRVrouYdMbZV6HwHH",
@@ -657,7 +2098,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "8dUc88Nss8uhqzzFvUQhepkwZaVrfzpoCfKjCXGkdzAG",
@@ -668,7 +2109,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "8wM44Ryv9DFCSfkgUnPEPgnsc53arT4cnmXL6LnnC4UW",
@@ -679,7 +2120,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "945SJTwsBSqwEEgtKMnhcLDnJowP6YpJUTEykMVK5k6q",
@@ -690,7 +2131,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9aiqyEUmwb63yUjwPHwY4jR68Pj5QsCQBGhYWRJEwXZA",
@@ -701,7 +2142,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9bAV2yg9oTWMc3sTdXhSeyDhuxs3iYfqvBzq1boYTLJT",
@@ -712,7 +2153,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9cFGNecbnLNiyYNZYKjN8egmMVrvn7HBQUCN9y6uXeYk",
@@ -723,7 +2164,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "9un5wqE3q4oCjyrDkwsdD48KteCJitQX5978Vh7KKxHo",
@@ -734,7 +2175,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "AEZoku1fLfUz5JYJ3kJ5YVdf3QT1T4RwdggGbuR8Eakd",
@@ -745,7 +2186,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "APJmXrtC9TUAg5gcjbcsVUiVzeDv85xLZRLad1GiQTNE",
@@ -756,7 +2197,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "BEaiMhcc4Kao7B4hoq6r9m8neUpfimUMwhzugKxtkZw6",
@@ -767,7 +2208,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "BWZqi67kXsvf5crjd19Fb3gmf3DCipGE8eWWJT2YHDXQ",
@@ -778,7 +2219,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "BhJrLQEyFyrcf1746pHATzAZQpC1uk3SJf2AHHK7LW3K",
@@ -789,7 +2230,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "C1Fr2dLHvNMWKFuiM5nK5StfgWjbM6QcZcC5nkcYghkJ",
@@ -800,7 +2241,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "C68a6RCGLiPskbPYtAcsCjhG8tfTWYcoB4JjCrXFdqyo",
@@ -811,7 +2252,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "CBEADkb8TZAXHjVE3zwad4L995GZE7rJcacJ7asebkVG",
@@ -822,7 +2263,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "CE8joA143dBjsCFTeBxBs3kNGNU87WH6Q7GMMfxPzSr2",
@@ -833,7 +2274,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "CGZAHxBannZzYK3rzVdG1e3uNjMxrmaXDhLEZxQBbueq",
@@ -844,7 +2285,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "CeGyfZdtbjzC5FeVXCBdYE1v397yxxqYgmMcUwtouJUu",
@@ -855,7 +2296,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "Da8RuzF4whvWoQP8DD1rZMTi2i1u2VHFcU8zFrwfdBzA",
@@ -866,7 +2307,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "EBVigEhxvkWUwreG98kTh5FbZEjnXTXC5ANZtLz4YpHQ",
@@ -877,7 +2318,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FJS2rTjAQmFFRmVqtnkceGvLJrMwUPgCUfLjciuMYkSC",
@@ -888,7 +2329,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FefAbVt2EgXMGxeJb6sB1k5pQJhiGPxw4mB1zeUohZLk",
@@ -899,7 +2340,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FmpbkPgxjoYBJ6ac6YMhZ1FycCwuG8Zs2epxgsGFYvf6",
@@ -910,7 +2351,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "GcFZHQVJ2icPGLrA9qPLq88b7eqBXSUcdL1utUtUfcSD",
@@ -921,7 +2362,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "HnLezgQkNVWMp2AV6mcHM1Ljst32kfsoVnYUkvXuQpjg",
@@ -932,7 +2373,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "is6MTRHEgyFLNTfYcuV4QBWLjrZBfmhVNYR6ccgr8KV",
@@ -943,7 +2384,1184 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2Mnthkn8sakezX3C9Bu7M9bfgPDvXA57F2TZ7TJminec",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2NDryinNawGtsFRGV2H856v92qMZAExpYngxHuRxmp8F",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2b9nM3utPDiENJDjv98P9bvYBrEsZNnP4KSWQgnLdHKF",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3HeTbCPUEsihUNicDJJbU9uiVMaHasuUvgJ2FFxLTwxR",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "43WpML1F2U52TCZ8BPW16TcnTq4ZfFNCFDkhrB9voNMT",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "45R4S2Hc62tRRbgZhkgPC4fdn5f3h5Zj7oCA93yA5En6",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4qZF67thYxeW48HLNrj6xJL1thyg4QZbY35H3R3YpJdh",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4yaYAnqJQ8cQ5Xx4oieNgxD954EGFiAHcJfRiWUaZUmt",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5QoeUAukKKZsTL8QzSyTGigmr2ZigqKV3x6fnTCe2cur",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5WAXhyLYeB2A3JuqVqEGoUoXdScnD2JYsXB2tNxxxTaz",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5rDJPjJdMoSdNMJzgDBbFqDhnjwEShzh6VGdyysMpDKn",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6HKbxTBVYKsGZCEfwEjoUMCmQr7KDT7HF5SpvSXeHk1T",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6NFPnCYxpNbR2w4WS4GcSPV8yVRiuA1M5CyPuikMpZMs",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6aQFcgooAr4zD5PLc8BVaigr5QXjGqSZZoz8Wb2wREBG",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "72puLt71H93Z9CzHuBRTwFpL4TG3WZUhnoCC7p8gxigu",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7AMAPsyGHyJfi8AXwZcCzxzuGwWz5BkKg2K9NTPrCVKM",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7FsaShq44W4jbPr46f9rwygHpJNY4Ex4BECQ2p4yikzu",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7q6M4EgwMQcLkqoTPC5zqbgSc43LS4KayCUFippmwsmy",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "82XWamgsKc7Km1mafSHYeB9owBhgeSwM9A2K6rPBzosc",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "87tk8mkvoju3DJSL9qbN1fjq9MT6Fv8iYsp5sAzV6XP6",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "89qRDdrUhjz2YVYsoMM4odsyPVkJBdJZjuA4gfJ1dh8v",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8GevsG6gHbs1y121tmTMfRSq79bCVDtemwFivtSF3WSs",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8rqJq7CnyHumGgKhyHjeMdQKfZwS2ANSWRR9tMfZQ4EQ",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8tZWx15Hyvcg5iimA68myfs4bxx5jiiLvSemXfuLhULT",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8xiyV2VAyY3DA7ENVkssLDomMdvn2H8HHZxLx7byxwBe",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "94i35mzdbAHW9v6ikG8aD9dAVDQMtrorpB54yerZotpj",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "95vTeDZN4grNAhhNEj227K18Tc1EkK3AUMibs3GPQdRB",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9SYBgJFyJpHVBM2uDJoSS6egztKiwCoRazdAxHX1gEcJ",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9WHCYisNaCT6pyZQhCPEbNqTjZVa85KJPgYCFwFStUFd",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "A62Fez8UskWqa4jcCjPQYZqW3R5agoy83HsyDzEm2Lkj",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AHJGEENuv3iLd4nM21MKp7aMW9SXLFZ7RKTe4i8qGtiX",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AfGPnG2TGUea4bW7gAmdMcMr6Lw4W8cyDAxmC5Aq8dhj",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Ao4NwFTTixv9o8YwbQouPW35GtpJuttd2V6akizMPAXr",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "AuC5YDZsXt1DXUx4HLzvaFh4KAUL9zhvuXGPVdHvDSmk",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "B9H29n73B57cG3UVW8PJgmEZyZmBEMmvzV8g3BXTNwZn",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BTH922eXrTKQTzAp7vpUJaBEesuCQWKvuCc8fgCghNGL",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BXDpbSsz9G4q7byqdnXX1pR28v9hq1ATeDicbpcViuE4",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Bok48fKSkBVt77H7TetKzFUvC2AyrpZpd3Mir96N9F3f",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BuBLPYxGYzf5hfMKRKnpnBRvsw1HiVAkcHYkjAjmy1ef",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BwLnmeQErGN8TsvMFr2ywWhX6qAL74w1FMo5Z18qRzWD",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CgcKu1FsXHfMxD4xTRastV3Rw5hpcwKmvVRpREgvehgz",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CmqTqGTAVgn8K3yaDz3WaKJRgABWoLPZGNwUsW4doUye",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CmtxExQVhPKJ6z2FDpHWNVXFBhwywcXNjYB8WzpZGLKx",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "D5qCjfWfEd47HysXw3EqwfmixUAMxXCLizRs3EcCpEdY",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DKJvTnvz28mnsDm1Mp5AVW2RwHcC2hpDweNrNGUysNdm",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DhEoMEppzLPdxNuZsqSpDQWcHX4K7cqeAnFJPNQjeoq",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DxXPPT3KangbWHjj6pUvoStyEbvp6yxiFA1cwcPZy9wK",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "E7mFLKaeKddVoRDEGzHXjiFdq2kdJZqoRXMVUo4Y6Hfh",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EGV8No6tg421dAyncWQqQGMHWjMFn6ZbR29g8uJcrNmL",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EVdnJyYZVzFFuxXr5vSFTQqxjh6D1Vdz2exFhgHL7y2Z",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EnvF6ZvLsZXqvssRW4mSdDXdVN92Dgt8hhQ3nHGjaA37",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "GDY5fUsVB6M2mN9SugaXXaZkGqMBzE5HA1sFEqfjJ2Gx",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "GJuB5tcbytHm3GirpC7kR27JzcFhpyLEtEProipm7ZQs",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "GZGTiGshYWH7nhDfB5BYzCkB25xPf45MnkuaMPzpHTpo",
+    "network": "solana",
+    "entity": "OSL",
+    "label": "OSL (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3pjwKq9yuzpVYfD4h5jMZLLfV8oSd8YiwpoAaB5oZS3H",
+    "network": "solana",
+    "entity": "Ourbit",
+    "label": "Ourbit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7UhjbynicBP8rqcobwsAJDfRMjwgHSgdxcYNJmLwxfms",
+    "network": "solana",
+    "entity": "Ourbit",
+    "label": "Ourbit (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5xYNhZRW1rEofFon3X2JgaZtrnu5vo5xXD61jHof3p37",
+    "network": "solana",
+    "entity": "Phemex",
+    "label": "Phemex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Bamf8nuqeEqtP8dL68ShsXroGx2yjQKf1C9jeFSV8qKX",
+    "network": "solana",
+    "entity": "Phemex",
+    "label": "Phemex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EWSHJzKpzjpwz9GuNKkXWMHXAiwtB7obSGhdFKu5QZku",
+    "network": "solana",
+    "entity": "Phemex",
+    "label": "Phemex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DGFW1Effv88XzXkgfgyoFfmefzEU5Pp9zWJACBmCSh8K",
+    "network": "solana",
+    "entity": "Pionex",
+    "label": "Pionex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FXv8hUveo3Di254W5vycvouxrmTJG4oQ5QMm1tLhY3NF",
+    "network": "solana",
+    "entity": "Pionex",
+    "label": "Pionex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "31KVUP9uPsdUniHkSKDtsDqB1VksmKskreynTQ3xitKz",
+    "network": "solana",
+    "entity": "Poloniex",
+    "label": "Poloniex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "7Ci23i82UMa8RpfVbdMjTytiDi2VoZS8uLyHhZBV2Qy7",
+    "network": "solana",
+    "entity": "Poloniex",
+    "label": "Poloniex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Eueeb9FKXpk7duw7jKeYm1NNWmTeFN7fGKYMmasY7C9x",
+    "network": "solana",
+    "entity": "Poloniex",
+    "label": "Poloniex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BX145kKanqBmeud72ir44iMFVAfaak4y933rgbMc2H52",
+    "network": "solana",
+    "entity": "ProBit Global",
+    "label": "ProBit Global (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FavWP1KXVVNZLTYjfSBWPanxbVeCW4A3pJ96hn2GRWGR",
+    "network": "solana",
+    "entity": "ProBit Global",
+    "label": "ProBit Global (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "281BKbWX8f9XqexpmFGTGcrAzPbFtoSiBjTHUkVHQmtv",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2E1UKoiiZPwsp4vn6tUh5k61kG2UqYpT7oBrFaJUJXXd",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "2XxP4kS2vfkiMvpLpGNxry3fPUYimsuAmSbqL1KnuwZ8",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "3jvARuePRR6KpNAeYYGRQzs8W4VYsWWxe4BfoTSTZhUr",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "4GiXcDsHVtqBZyUZBW55UcfAAgDcCm2Peojhhc6T3BZb",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5GkNxL9QTRDdRFgJrhczbKUwDFecRa9obewHmPwfXGZW",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "8V51vSJGYssywpKHrZacT3bpFYoeA1oD7hdvi1imnrVa",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9qoUcyhKSWMbk6tqGUYQUpeosPcdUnJszG4eQKwfe4gL",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "C57RBagtGDYpTGxwG92gSKQ5ptQr4Wa9qz3yDBB6uu1B",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Cet3t77x2BBVSmiEFm8ZPoDSngbpso2RuWPL79Ky7SpA",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CxbHK9geAiCc6yBVT7PhXEMXzwP7BGh8VB1TgbDV3uLq",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DMe3ddj7awSR3LFC64rjmCPexsrSv33QAxFoJux4vGH3",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EKtwdf5gFPb58WJPENcS8qqPRoAkEwDLHfHk2S2nbTnB",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EbUkjPNjzcbjK3iELhZS6PpNCr62pUsE7VkUvNdQpEYB",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EcGfuxwkM3ujBWaty5VW7H9mjJLd7LkY3m7nJZ6Sv7Sy",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "F98pLYBStoB31WNTWGoQMNz3A6uwoneivaYVCAD7Gim1",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "FQxGUUAX3BdFArA2XdvPcRHt4CmRMCw5wLt8F5uDXmwa",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Fe7SEekiKygziaEGKxsDsgLVzrCfNvVBvAYsaJBwFA8s",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "H9RCk9jQYX1bZ6HmjDAiD4r8GMgF8zpW9P1pacze7L9E",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "HGqHR9Wm6ETAgQHj7q1qcmywXHfDx48VuVovQpGTgsHU",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "J6wLEPrT8Jd2NiNSJAQwxdK7FDtDssawsMtLqkZ5E1ZP",
+    "network": "solana",
+    "entity": "SwissBorg",
+    "label": "SwissBorg (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9JXTEMVMHPghKX1LNrXjUJwGEmdh2TgQg1W7uskvRmiy",
+    "network": "solana",
+    "entity": "Tothemoon",
+    "label": "Tothemoon (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "5iFZsZsBxw8AyMAHeukgy9RktwyiyBYLDM1GEvQqY37N",
+    "network": "solana",
+    "entity": "VALR",
+    "label": "VALR (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6d6sZPUcK1DgVg6uBBYJuPsHTYV3gLvXeYkD5tSXCs2u",
+    "network": "solana",
+    "entity": "VALR",
+    "label": "VALR (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "DyUJQ3JyhN7UB6PEbVoE3769Djf68aS9JWqQpxfXy3AY",
+    "network": "solana",
+    "entity": "VALR",
+    "label": "VALR (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "E4JTRq3L8JeURjvursNEgc8EupPWZRYitpi6EW5YGzK5",
+    "network": "solana",
+    "entity": "VALR",
+    "label": "VALR (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "EHKPPJrN737Ea7wqHviwGUbzDyUq2oUUX3B2hUpgftbE",
+    "network": "solana",
+    "entity": "VALR",
+    "label": "VALR (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "HA9oNhHddEoPFSAEEYtGYZoXDkjky53TQ72jtpAnu81i",
+    "network": "solana",
+    "entity": "VALR",
+    "label": "VALR (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "x8upN44MffTHxbdWLuR9q1U1B7eDPpHLUncessPWkCx",
+    "network": "solana",
+    "entity": "VALR",
+    "label": "VALR (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "73BCsWDxqNbXgnjHKqZPtN5buGpzF4SNGf4ueP44D4v2",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "BCGzwLX1MmAosKrfMH1NauCSB6pej7uojeuNZrZCR9BL",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Dw4JrqHdzh489rkQqf5RaATpyLBSJABwBb2C3PAYDQgX",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "GzeZm4Lwf2x9JPvtcDiguCJS8Vk59cxii9qs7zk7ETC5",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "HptqceDZkTdBuErSag8pjmGb9ScozyT9nZiRWPniSDCi",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "J45pev29PWconn1NQoZ33W6W2UwKp2UvgGUZR7RcAHru",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "J6MWKx6vp8zWAmxRd2bPJts5u1rdgDiCqkA29hTpe5jm",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "eKfAkykrMPx2CqhcbywnbTkpGAyfkppNvXQ2VPNiQWL",
+    "network": "solana",
+    "entity": "WEEX",
+    "label": "WEEX (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9f1McBacd6pJUCM2TQ982qQ9noY3rWEU5mhcGiDydbyo",
+    "network": "solana",
+    "entity": "Webot",
+    "label": "Webot (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "123xxkE918ZTkNhLgntAs5CuoUJVb9nrN5TrhkQ4qFGV",
+    "network": "solana",
+    "entity": "Websea",
+    "label": "Websea (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "9ap4BuNKdNf2it7iFRx5QChDgAWk1jigj6SGzi2mndGv",
+    "network": "solana",
+    "entity": "Websea",
+    "label": "Websea (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "CtUBgvNmNfr42VNv4LvTyU3S3uXFQ1EZZ9PDA7H91T2P",
+    "network": "solana",
+    "entity": "Zoomex",
+    "label": "Zoomex (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "42RLPACwZPx3vYYmxSueqsogfynBDqXK298EDsNoyoHi",
@@ -954,7 +3572,18 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "6wjqWWra8ombzaw6VHrG5xpQ972jCYF6bbHiFCbWmr4U",
+    "network": "solana",
+    "entity": "OFAC SDN",
+    "label": "OFAC sanctioned (SOL)",
+    "category": "sanctioned",
+    "source": "ofac-sdn",
+    "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "Fc1EwQUZyTEagaDvA1utHXCcZNyG1x2PLt2DfNu1cJdH",
@@ -965,7 +3594,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "FuCC7GoYwt5TsNTjWL23Xx9UKCvC18chjMEFPL3vJDCC",
@@ -976,6 +3605,6 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   }
 ]

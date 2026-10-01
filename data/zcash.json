@@ -1,5 +1,38 @@
 [
   {
+    "address": "t1ZmpK4QFcvyQZ3ghTgSboBW8b4HgiZHQF9",
+    "network": "zcash",
+    "entity": "Internet Archive",
+    "label": "Internet Archive",
+    "category": "entity",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "t1N26vuBpBG9oTZ3ixtHxrhbhDWA24NPaji",
+    "network": "zcash",
+    "entity": "Bitfinex",
+    "label": "bitfinex Zcash cold wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "t1RRKgYb1bTmtUZvwqc3S5vLN5h8vke3xUY",
+    "network": "zcash",
+    "entity": "Bitfinex",
+    "label": "bitfinex Zcash hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "t1LHesgnkapziGQCJtrfZWYXhyjfTVo1dvh",
     "network": "zcash",
     "entity": "OFAC SDN",
@@ -8,7 +41,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "t1MMXtBrSp1XG38Lx9cePcNUCJj5vdWfUWL",
@@ -16,10 +49,10 @@
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (ZEC)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "t1WSKwCDL1QYRRUrCCknEs5tDLhtGVYu9KM",
@@ -27,10 +60,10 @@
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (ZEC)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "t1g7wowvQ8gn2v8jrU1biyJ26sieNqNsBJy",
@@ -38,9 +71,31 @@
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (ZEC)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "t1R2tWtBWr7Us5PSXoLJZgEPoxPbNL8uk5C",
+    "network": "zcash",
+    "entity": "bithextrade.com",
+    "label": "bithextrade.com",
+    "category": "scam",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "t1KAedN3mupcum5ffF7DF5KNz27vRB9pYnr",
+    "network": "zcash",
+    "entity": "dexcompetition.site",
+    "label": "dexcompetition.site",
+    "category": "scam",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
   }
 ]

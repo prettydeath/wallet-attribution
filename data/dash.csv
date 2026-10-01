@@ -1,6 +1,8 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-XcuGqRfrR85zyDrzVr1gSL5RNjwwpbu2KS,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-XnPFsRWTaSgiVauosEwQ6dEitGYXgwznz2,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-Xs3vzQmNvAxRa3Xo8XzQqUb3BMgb9EogF4,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-XyARKoupuArYtToA2S6yMdnoquDCDaBsaT,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+XkW5GRvMfUmVCTxZF5L8P75zNhUnzmBkjA,dash,Bitfinex,bitfinex Dash hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+Xty4Q4B1CCm1qA4sMFkmczZqCtftFJuEse,dash,Bitfinex,bitfinex Dash cold wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+XcuGqRfrR85zyDrzVr1gSL5RNjwwpbu2KS,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+XnPFsRWTaSgiVauosEwQ6dEitGYXgwznz2,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+Xs3vzQmNvAxRa3Xo8XzQqUb3BMgb9EogF4,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+XyARKoupuArYtToA2S6yMdnoquDCDaBsaT,dash,OFAC SDN,OFAC sanctioned (DASH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01

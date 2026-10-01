@@ -1,8 +1,19 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-qpf2cphc5dkuclkqur7lhj2yuqq9pk3hmukle77vhq,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-qq3vlashthktqpeppuv7trmw070e3mydgq63zq348v,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-qqyuc9s700plhzr6awzru7g5z2d2p906uyrm6ht0r0,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-qz9f2vz3033sg5vc5mf7m7xshmj0jugy4ummf05jk8,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
-qzjv8hrdvz6edu4gkzpnd4w6jc7zf296g5e9kkq4lx,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+1K1rgZ1dz9w7dsR1HGS1drmzfUHMtqx1Tc,bitcoin-cash,Internet Archive,Internet Archive,entity,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+1Dice5ycHmxDHUFVkdKGgrwsDDK1mPES3U,bitcoin-cash,satoshidice 0.10,satoshidice 0.10,entity,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+1DiceoejxZdTrYwu3FMP2Ldew91jq9L2u,bitcoin-cash,satoshidice 0.10,satoshidice 0.10,entity,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+19PYCUcpLsUSFUeLt4u9a1z8QyJYQMyGqB,bitcoin-cash,Bitfinex,bitfinex Bitcoin Cash hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+1NNAdw8phoJcQYJVvNKuD3QebGhdpWqNiW,bitcoin-cash,Bitfinex,bitfinex BCH cold wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitcoincash:prseh0a4aejjcewhc665wjqhppgwrz2lw5txgn666a,bitcoin-cash,Bitfinex,bitfinex Bitcoin Cash cold wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+17om4dHcDNy9LAagMj8mGW59vyXjvA3GBn,bitcoin-cash,Huobi,huobi reserve wallets BCH,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+bitcoincash:qptsxhxxuyww0a3s3gy2ee9cwdgjhz7pqyw9d2dwsl,bitcoin-cash,Huobi,huobi reserve wallets BCH,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+qlwzviixzm1h,bitcoin-cash,KuCoin & KuCoin Futures,kucoin reserve wallets,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+18M8bJWMzWHDBMxoLqjHHAffdRy4SrzkfB,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+qpf2cphc5dkuclkqur7lhj2yuqq9pk3hmukle77vhq,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+qpusmp64rajses77x95g9ah825mtyyv74smwwkxhx3,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+qq3vlashthktqpeppuv7trmw070e3mydgq63zq348v,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+qqyuc9s700plhzr6awzru7g5z2d2p906uyrm6ht0r0,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+qz9f2vz3033sg5vc5mf7m7xshmj0jugy4ummf05jk8,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+qzjv8hrdvz6edu4gkzpnd4w6jc7zf296g5e9kkq4lx,bitcoin-cash,OFAC SDN,OFAC sanctioned (BCH),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01
+qp9rk7fg4avwlu6cf88qq3533g0qyvwh7y78vf4wrk,bitcoin-cash,bitcashsv.org,bitcashsv.org,scam,graphsense,https://github.com/graphsense/graphsense-tagpacks,medium,2026-10-01
+qpdjfyy89utdz5ky34exk3s98c9h4ahtwyjgdr9dze,bitcoin-cash,hillstrade.net,hillstrade.net,scam,graphsense,https://github.com/graphsense/graphsense-tagpacks,medium,2026-10-01

@@ -1,5 +1,27 @@
 [
   {
+    "address": "XkW5GRvMfUmVCTxZF5L8P75zNhUnzmBkjA",
+    "network": "dash",
+    "entity": "Bitfinex",
+    "label": "bitfinex Dash hot wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "Xty4Q4B1CCm1qA4sMFkmczZqCtftFJuEse",
+    "network": "dash",
+    "entity": "Bitfinex",
+    "label": "bitfinex Dash cold wallet",
+    "category": "exchange",
+    "source": "graphsense",
+    "source_url": "https://github.com/graphsense/graphsense-tagpacks",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
     "address": "XcuGqRfrR85zyDrzVr1gSL5RNjwwpbu2KS",
     "network": "dash",
     "entity": "OFAC SDN",
@@ -8,7 +30,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "XnPFsRWTaSgiVauosEwQ6dEitGYXgwznz2",
@@ -16,10 +38,10 @@
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (DASH)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "XowUeMFa1FkEUnAHL78E5oqpezMfSB6xP1",
@@ -30,7 +52,7 @@
     "source": "ofac-sdn",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "Xs3vzQmNvAxRa3Xo8XzQqUb3BMgb9EogF4",
@@ -38,10 +60,10 @@
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (DASH)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "XyARKoupuArYtToA2S6yMdnoquDCDaBsaT",
@@ -49,9 +71,9 @@
     "entity": "OFAC SDN",
     "label": "OFAC sanctioned (DASH)",
     "category": "sanctioned",
-    "source": "ofac-sdn",
+    "source": "ofac-sdn+graphsense",
     "source_url": "https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   }
 ]

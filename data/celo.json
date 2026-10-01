@@ -1,58 +1,58 @@
 [
   {
-    "address": "0x1548cf5cf7dbd93f4da11f45fcce315573d21b60",
-    "network": "celo",
-    "entity": "bridge",
-    "label": "Optics: ERC-20 Bridge",
-    "category": "bridge",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x796dff6d74f3e27060b71255fe517bfb23c93eed",
-    "network": "celo",
-    "entity": "bridge",
-    "label": "Wormhole: Token Bridge",
-    "category": "bridge",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xa321448d90d4e5b0a732867c18ea198e75cac48e",
-    "network": "celo",
-    "entity": "bridge",
-    "label": "Wormhole: Celo Core Bridge",
-    "category": "bridge",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xa6a377d75ca5c9052c9a77ed1e865cc25bd97bf3",
-    "network": "celo",
-    "entity": "bridge",
-    "label": "Wormhole: NFT Bridge",
-    "category": "bridge",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
     "address": "0xbbbd1bbb4f9b936c3604906d7592a644071de884",
     "network": "celo",
-    "entity": "bridge",
+    "entity": "Allbridge",
     "label": "Allbridge: Bridge",
     "category": "bridge",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x1548cf5cf7dbd93f4da11f45fcce315573d21b60",
+    "network": "celo",
+    "entity": "Optics",
+    "label": "Optics: ERC-20 Bridge",
+    "category": "bridge",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x796dff6d74f3e27060b71255fe517bfb23c93eed",
+    "network": "celo",
+    "entity": "Wormhole",
+    "label": "Wormhole: Token Bridge",
+    "category": "bridge",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xa321448d90d4e5b0a732867c18ea198e75cac48e",
+    "network": "celo",
+    "entity": "Wormhole",
+    "label": "Wormhole: Celo Core Bridge",
+    "category": "bridge",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xa6a377d75ca5c9052c9a77ed1e865cc25bd97bf3",
+    "network": "celo",
+    "entity": "Wormhole",
+    "label": "Wormhole: NFT Bridge",
+    "category": "bridge",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0ca8f5be54546996ec1e96a41870fc4477c4e664",
@@ -63,7 +63,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x135907936537a44763817ac7fc30abaec9a81fab",
@@ -74,7 +74,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe2e2d9e31d7e1cc1178fe0d1c5950f6c809816a3",
@@ -85,7 +85,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x37f750b7cc259a2f741af45294f6a16572cf5cad",
@@ -96,7 +96,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x617f3112bf5397d0467d315cc709ef968d9ba546",
@@ -107,7 +107,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x6e512bfc33be36f2666754e996ff103ad1680cc9",
@@ -118,7 +118,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1fe80d5ad9464dba2d60b88e449305f184823f8a",
@@ -129,7 +129,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x92115010fd9b170d4918b102efc86b1b7bebdc7f",
@@ -140,7 +140,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdb6f1920a889355780af7570773609bd8cb1f498",
@@ -151,7 +151,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
@@ -162,7 +162,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x29dfce9c22003a4999930382fd00f9fd6133acd1",
@@ -173,7 +173,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2def4285787d58a2f811af24755a8150622f4361",
@@ -184,7 +184,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd15ec721c2a896512ad29c671997dd68f9593226",
@@ -195,7 +195,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x26e6b535a62d2ce81bc84dbfd836548a2fcb3104",
@@ -206,7 +206,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7b41d719f51ca1e057aecb8718c649aff0c16895",
@@ -217,7 +217,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x394b846e0ecf83ef350a2a7ccb7be0c6552e7cbc",
@@ -228,7 +228,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4da92da1afbf103f2b52dd29326e34c98ca1e78c",
@@ -239,7 +239,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb2728edcc9c255c2d053ea6cae31cfd584b758d3",
@@ -250,7 +250,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xfce0779607246eb5121a5a4192d6ac4a758c217d",
@@ -261,7 +261,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa512cbe686eddb170219aa23ce6cb243fa2873cb",
@@ -272,7 +272,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0f66619058bb9675f3d394fcc2ce236a29901571",
@@ -283,7 +283,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x28b5f40c3f5883021408ce79f20fcf282e873236",
@@ -294,7 +294,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x869b7f65801e75f087a493d9d3c8022dcf964b1f",
@@ -305,7 +305,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xfa592ae90e407da044602342625aaabbf5d50c22",
@@ -316,7 +316,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x35ae10f412503abcf9275133613e8df7f56e72be",
@@ -327,7 +327,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x69cd274c6acbc08f664ed7b2d54aab6615bc1d70",
@@ -338,7 +338,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8c1bf342693772a04bb223ea949f915ebf72521a",
@@ -349,7 +349,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb434feb47d6154b4b4058df5c9fced123db9abf6",
@@ -360,7 +360,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe17b899d1ba93249be07afa6ca670fe165bc5d17",
@@ -371,7 +371,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7ff6c32b2cfc9bc6abddae17056e6d81c516806b",
@@ -382,7 +382,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc764293de02189e248a8040a3d1b04eec599aa31",
@@ -393,7 +393,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2102c32a09cbced4146c3db2d27ae21a185bda43",
@@ -404,7 +404,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x26ff577818a40d1333944b7492e23619303f5d84",
@@ -415,7 +415,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x345662abfe0e257e23552a434d02ef274ccb6a90",
@@ -426,7 +426,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x51a3c407f130163b28b762513864e596a1de1bd9",
@@ -437,7 +437,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8dbee8f3917049bc30fef01924a7ac79d16cf2b9",
@@ -448,7 +448,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb28837949e7a3f1ac862036e8a0ae392c9ff9bb4",
@@ -459,7 +459,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc77820eef59629fc8d88154977bc8de8a1b2f4ae",
@@ -470,7 +470,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xcd5a6286f376306c2bbf7a231166beee4f6d1a25",
@@ -481,7 +481,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd36aac0c9676e984d72823fb662ce94d3ab5e551",
@@ -492,7 +492,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdb8d6edb8a2fb0f322243a9bdeafbf06983f4d77",
@@ -503,7 +503,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdc4bf78224cbd20428dff4787b1e32bbfd04a90d",
@@ -514,7 +514,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe743a49f04f2f77eb2d3b753ae3ad599de8cea84",
@@ -525,7 +525,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xee99e0d56677e63d65b05d04e2d0310e1c03b025",
@@ -536,7 +536,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2d250016e3621cfc50a0ff7e5f6e34bbc6bfe50e",
@@ -547,7 +547,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
@@ -558,7 +558,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x089b1654325cce14fb3e2dabca2803bc489e83e7",
@@ -569,7 +569,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdadbd6cfb29b054adc9c4c2ef0f21f0bbdb44871",
@@ -580,7 +580,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x02dc997790352e12fa90eb1a937dfef4bf8dbbc0",
@@ -591,7 +591,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x34649ada2cb44d851a2103feaa8922deddabfc1c",
@@ -602,7 +602,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe34cd052e59ff830b286a125c52dde568ac8bd48",
@@ -613,7 +613,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa1e923892df867fb5cb7575cca2538c394ad1bd9",
@@ -624,7 +624,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x45d8170f30b0d408196ab0e14af47d77b18f0a38",
@@ -635,7 +635,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc8d1dc1ac8e0ac039a8b1284ef687d557f812e5c",
@@ -646,7 +646,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xcc4b2bcbbc9639ef1e91f47acfd12bd131525e79",
@@ -657,7 +657,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0000000000000000000000000000000000000000",
@@ -668,7 +668,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x000000000000000000000000000000000000dead",
@@ -679,7 +679,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x000000000000000000000000000000000000ce10",
@@ -690,7 +690,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x03f6842b82dd2c9276931a17dd23d73c16454a49",
@@ -701,7 +701,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x07f007d389883622ef8d4d347b3f78007f28d8b7",
@@ -712,7 +712,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x09933e89986fea776c3be3556dbf9ba23c240bb3",
@@ -723,7 +723,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x18e6bfdc909063f7445e410a5495264619495bcb",
@@ -734,7 +734,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1ec3366d384ee7996f2f70b67a65c5d54ce96040",
@@ -745,7 +745,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x203fdf86a00999107df531fa00b4ba81d674cb66",
@@ -756,7 +756,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x22a4aaf42a50bfa7238182460e32f15859c93dfe",
@@ -767,7 +767,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x471ece3750da237f93b8e339c536989b8978a438",
@@ -778,7 +778,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x47a472f45057a9d79d62c6427367016409f4ff5a",
@@ -789,7 +789,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4bb82b5862beb483fdb762ec4a6cb60953568a12",
@@ -800,7 +800,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4ddeb8f7041ab3260c6ec5afb6feab0650f4abb4",
@@ -811,7 +811,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x50c100bacde7e2b546371eb0be1eaccf0a6772ec",
@@ -822,7 +822,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x563ba8ed56bd32a964831ab6aff1e53238177eda",
@@ -833,7 +833,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5b2c9e7932b08d8f2ce70ef9e5c98528256f9ab4",
@@ -844,7 +844,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x622833ab6e9501c9072d2c706c60aab5ff0234d9",
@@ -855,7 +855,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x67316300f17f063085ca8bca4bd3f7a5a3c66275",
@@ -866,7 +866,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x6b51e3bd4e1e8df315766f93499b42978b110cea",
@@ -877,7 +877,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x6cc083aed9e3ebe302a6336dbc7c921c9f03349e",
@@ -888,7 +888,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x6e10a8864c65434a721d82e424d727326f9d5bfa",
@@ -899,7 +899,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x71cac3b31c138f3327c6ca14f9a1c8d752463fdd",
@@ -910,7 +910,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
@@ -921,7 +921,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7c4194df1dbdb5ca737b7d457bb00176f8a52361",
@@ -932,7 +932,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7c98cc3ad12058e8e37160fb72f8ff557d742a54",
@@ -943,7 +943,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7d21685c17607338b313a7174bab6620bad0aab7",
@@ -954,7 +954,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8d6677192144292870907e3fa8a5527fe55a7ff6",
@@ -965,7 +965,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8df7ad6a1870766bbc9f0b8c38f8db73126d2ddc",
@@ -976,7 +976,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9380fa34fd9e4fd14c06305fd7b6199089ed4eb9",
@@ -987,7 +987,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9ebb6a46149a43c9d1b12efdc068b969eca7246f",
@@ -998,7 +998,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa79cdb272799175a118a4ce49cecbf3ec86649e6",
@@ -1009,7 +1009,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xaaa9cb9f0afcc60d8fb21f82d5d47c4557924115",
@@ -1020,7 +1020,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xaeb865bca93ddc8f47b8e29f40c5399ce34d0c58",
@@ -1031,7 +1031,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xaf5d514bb94023c9af979821f59a5eecde0986ef",
@@ -1042,7 +1042,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb49e4d6f0b7f8d0440f75697e6c8b37e09178bcf",
@@ -1053,7 +1053,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xbb024e9cdcb2f9e34d893630d19611b8a5381b3c",
@@ -1064,7 +1064,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc301efebae9c517ea81f87d2cf2ff0a87caabc83",
@@ -1075,7 +1075,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc683e6f77b58d814b31f8661331ebdf63785d607",
@@ -1086,7 +1086,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd0c0183682102c2a84f37e8c90063a25cce044ff",
@@ -1097,7 +1097,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd533ca259b330c7a88f74e000a3faea2d63b7972",
@@ -1108,7 +1108,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
@@ -1119,7 +1119,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdc553892cdeeed9f575aa0fba099e5847fd88d20",
@@ -1130,7 +1130,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdefbc89482cd36b98d1b506cc56dd2af74217955",
@@ -1141,7 +1141,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdfca3a8d7699d8bafe656823ad60c17cb8270ecc",
@@ -1152,7 +1152,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe23a4c6615669526ab58e9c37088bee4ed2b2dee",
@@ -1163,7 +1163,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe383394b913d7302c49f794c7d3243c429d53d1d",
@@ -1174,7 +1174,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe43ea9c641a2af9959caeee54adb089f65457028",
@@ -1185,7 +1185,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe6f77e6c1df6aea40923659c0415d82119f34882",
@@ -1196,7 +1196,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe8537a3d056da446677b9e9d6c5db704eaab4787",
@@ -1207,7 +1207,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xedf3f7e01037e4583de2659c5e243621ea2501a4",
@@ -1218,7 +1218,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xefb84935239dacdecf7c5ba76d8de40b077b7b33",
@@ -1229,7 +1229,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf3eb910da09b8af348e0e5b6636da442cfa79239",
@@ -1240,7 +1240,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf4fa51472ca8d72af678975d9f8795a504e7ada5",
@@ -1251,7 +1251,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1fd168b11eb42f19fbf12326a214ecd6d200d798",
@@ -1262,7 +1262,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x23c70a08cee9a783be4485156773e8d0448e5b4c",
@@ -1273,7 +1273,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xbd630a811ed48a57efdf5f7869563b47a0194a5d",
@@ -1284,117 +1284,117 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000f4",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000f5",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000f6",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000f7",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000f8",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000f9",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000fa",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000fb",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000fc",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00000000000000000000000000000000000000fd",
     "network": "celo",
     "entity": "celo-precompiles",
-    "label": "null",
+    "label": "celo-precompiles",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3c86b6a27a074c1c4cc904d8808a1c33078db4e6",
@@ -1405,7 +1405,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0d4f8cea48cdadeae345431577a64983c0535b12",
@@ -1416,7 +1416,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0ebdccd9091efb1243417bdf3addd63132962586",
@@ -1427,7 +1427,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2bdc5ccda08a7f821ae0df72b5fda60cd58d6353",
@@ -1438,7 +1438,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4fc4ea624db2e4a1d6195a03744d505cbcd9431b",
@@ -1449,7 +1449,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7194dfe766a92308880a943fd70f31c8e7c50e66",
@@ -1460,7 +1460,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x249a6b2b260000b08f50a2480e2d703baf02e8be",
@@ -1471,7 +1471,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5098a28bfa2da3183e36c009c7d63093b66441a5",
@@ -1482,7 +1482,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x81cef0668e15639d0b101bdc3067699309d73bed",
@@ -1493,7 +1493,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x020e468c252ff18261b1996d25f0fff4f830cf7a",
@@ -1504,7 +1504,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x21fb4411fa5828344c2788ab07d4cc12a12571b9",
@@ -1515,7 +1515,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5b9f5239b10f1d74ea89f88fe3d50db7ecd6e450",
@@ -1526,7 +1526,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8d1a5ef84252586f0f841a9fcf4e31f23c4c21e0",
@@ -1537,7 +1537,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdf9121affb220e9095c875a79c3d1fa3ebee4105",
@@ -1548,7 +1548,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x6f8e6ff69935f000b09d182a4739342faeaf0c77",
@@ -1559,7 +1559,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xaf2b000baed202fa7de0d9dceb6f6612de348011",
@@ -1570,7 +1570,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x074a2bb7686da8dacad178aece2ad280b8d4c25d",
@@ -1581,7 +1581,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0b48321965eb8a982dec25b43542e07a202d931a",
@@ -1592,7 +1592,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0bfd6d1ecb90bef6cb9daf2b446b9b852120deae",
@@ -1603,7 +1603,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x13b0d85ccb8bf860b6b79af3029fca081ae9bef2",
@@ -1614,7 +1614,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1e7b390149abb3b891e0a7027e111188032d4540",
@@ -1625,7 +1625,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1f9b97ecac47c16b14d4551c92572a3ee4e9380c",
@@ -1636,7 +1636,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x215d0d3eb57be57dad6884c334ce2bc6d0431d87",
@@ -1647,7 +1647,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x22cac6a8e7ff5ce7b35c862cdd5a11c288aef142",
@@ -1658,7 +1658,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x239b28029ab6924b1a8d357a1d3585f19a2b3fb6",
@@ -1669,7 +1669,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x26adb982d061b5e667d75f9dec1360cc671007f3",
@@ -1680,18 +1680,18 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2c2bc76b97bce84a5a9c6e2835ab13306b964cf1",
     "network": "celo",
     "entity": "contract-deployer",
-    "label": "null",
+    "label": "contract-deployer",
     "category": "entity",
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x32f652b8c255f9029d271a65f9ae2243e9e513b7",
@@ -1702,7 +1702,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x39a4e547dba568a451b0096d907cb8a61f12f4e7",
@@ -1713,7 +1713,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3ab0d06a3b36306301d993256702753de8f00118",
@@ -1724,7 +1724,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4283b3469a9edce1fda34ec6e8a453cf82b9cab7",
@@ -1735,7 +1735,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4fd26e32396dcc94487fd6f64469c33ee39b59c0",
@@ -1746,7 +1746,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x51d5835f712d98a50a77d51b2a6d73203fc83eb9",
@@ -1757,7 +1757,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x54527846ade7e915f4261e1818a997250ce83418",
@@ -1768,7 +1768,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5a33b47507e5225fcd7df11de06c84680ea5db87",
@@ -1779,7 +1779,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5afae3d2b0dcee1833bb947fac15d4f2d2d5d523",
@@ -1790,7 +1790,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5bc1c4c1d67c5e4384189302bc653a611568a788",
@@ -1801,7 +1801,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x673c737422b5f87b3e04bb430699cac04afad760",
@@ -1812,7 +1812,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9378a4932ab933fb893192dc1b163a37e807b185",
@@ -1823,7 +1823,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x99de25dd595ea941632eb4ba5faad8fc2700fc38",
@@ -1834,7 +1834,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xac4b966e4e01662dcca10f96a05415d31efcb761",
@@ -1845,7 +1845,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc4ad9f58c4c7cba47191be635ecf40b4515cf6cf",
@@ -1856,7 +1856,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xca1fb28a5e6a3cd987c290cb155653f27ab9b636",
@@ -1867,7 +1867,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe725c326b19828dbedf5b8188ba32e7d0ce68179",
@@ -1878,7 +1878,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xfa9da51631268a30ec3ddd1ccbf46c65fad99251",
@@ -1889,7 +1889,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb36b0747312e444b6258120a7d3ba7b170e83476",
@@ -1900,7 +1900,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00751d4e4861adffdddfca5ec27703797a3b9349",
@@ -1911,7 +1911,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1d083becfaac301b4b845d0e5b80a9da5f6de946",
@@ -1922,7 +1922,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5e9e52e9789f670f80a7de6e438cc491878981b8",
@@ -1933,7 +1933,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x71c7656ec7ab88b098defb751b7401b5f6d8976f",
@@ -1944,7 +1944,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1ab89fa8bdbd48f4426379abeb59803dd5283e3f",
@@ -1955,7 +1955,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x588ed7deeff8df7c00ff187c398936b101583ec7",
@@ -1966,7 +1966,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf83c93ea360b66ddcd532960304948b1c10786a1",
@@ -1977,7 +1977,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2b66f23c2987597225d36872a52a3d3337386054",
@@ -1988,7 +1988,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9f49e9ec7199455dda0b116785470fbafb4c0b50",
@@ -1999,7 +1999,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe075ba4b1dcaf75513118d7aa08a057c658842c9",
@@ -2010,18 +2010,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x95b5579b323ddc6cd290bd4da6e56ba019588efc",
-    "network": "celo",
-    "entity": "exploit",
-    "label": "Moola Market Exploiter",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x01b2b83fdf26afc3ca7062c35bc68c8dde56db04",
@@ -2032,7 +2021,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0e47ea88480788289bda37d8ae0c2cd680623cfa",
@@ -2043,7 +2032,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x12125d1b7f01f32b3a741a6b97cb46f714f273aa",
@@ -2054,7 +2043,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x90b056b00952d71bc7866c067b49f5b062098ac9",
@@ -2065,7 +2054,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xddc60b465c204aa7358ce4f009d2dbc65af5c4b4",
@@ -2076,7 +2065,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8580db53c3ebc56230662b771cef2707e92ef83a",
@@ -2087,7 +2076,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf2aadf8ff2ad7e5c1efb0d45cb622618ba6636a7",
@@ -2098,7 +2087,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8954661e743c60c966e2ff6002b514126bb1cfe2",
@@ -2109,7 +2098,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5402172e972b31fc9f0383f53f45823ab5037379",
@@ -2120,7 +2109,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe5f947368c986dfe7a025b9b35dee3e5ac3a330e",
@@ -2131,7 +2120,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x481eade762d6d0b49580189b78709c9347b395bf",
@@ -2142,7 +2131,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf0b25502595911b64de75f453b34557c1b2c4760",
@@ -2153,7 +2142,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd19fb36b7f433fe13820767ef6d0e26fdbab68cc",
@@ -2164,7 +2153,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5e69cca114a77ab0a5804108faf0cd1e1c802a5e",
@@ -2175,7 +2164,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x614b7654ba0cc6000abe526779911b70c1f7125a",
@@ -2186,7 +2175,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0861a61bf679a30680510ecc238ee43b82c5e843",
@@ -2197,7 +2186,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1c13efcbaeccc17d41f4a23da5cac15167675b96",
@@ -2208,7 +2197,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x572bd94eef29d104f266e82b0781bc4b07086648",
@@ -2219,7 +2208,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd818f03476ef422beddf720addf5b3d3fd8353fe",
@@ -2230,7 +2219,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xbf55df76204f00acf296f76cf4aaf86a866a5eb0",
@@ -2241,7 +2230,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x95ae59515915d6c493a846ae022f93726652b50a",
@@ -2252,7 +2241,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9c542c0b5af5e04e2d1e67cf1fc176e91bc18da0",
@@ -2263,7 +2252,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x39b01620ecdeb8347270ee78dc962b0ea583b57a",
@@ -2274,7 +2263,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9e8a03768c2711c22bcc7999359d6655b7cdb710",
@@ -2285,7 +2274,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa432da0ed5a2c15cbc681227ccec3b375908fdcb",
@@ -2296,7 +2285,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc1a42a4550301b16eb557b46c15d27c222761ef7",
@@ -2307,7 +2296,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc538583c030227de48e3279c1009646f29dc097e",
@@ -2318,7 +2307,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdb2e80840f40033761a5cdfa3b09fe24f95a4aaa",
@@ -2329,7 +2318,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x399b3d48fdcd668d274afc6f4be05475a325c6c6",
@@ -2340,7 +2329,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8851f4852ce427191dc8d9065d720619889e3260",
@@ -2351,7 +2340,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd491e5ec7bbb4c6ea9ee522f21f6621706e65a3e",
@@ -2362,7 +2351,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2c2b0f71d59b546b2cafd222696589c13c3c325c",
@@ -2373,7 +2362,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xab6eee9da588d38b43b1d2ea404e824fa2bf382c",
@@ -2384,7 +2373,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1819b44553fa39a983d1c92238e1f18aee30ef51",
@@ -2395,7 +2384,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc7d5409fee80b3ac37dbc111664dc511a5982469",
@@ -2406,7 +2395,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x01539f82a5820a927942154cbe12ae172a935423",
@@ -2417,7 +2406,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2130068652dabb5ae873fffaf731f076011a33ca",
@@ -2428,7 +2417,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x833fa7eea85406a9c9016c80f04f9f541c2fea53",
@@ -2439,7 +2428,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd72bc584a6470923bc184917c9731849a309660c",
@@ -2450,7 +2439,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf4361a8fbcf6b6a2402f1a1d6c4b945e59a29934",
@@ -2461,7 +2450,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x122013fd7df1c6f636a5bb8f03108e876548b455",
@@ -2472,7 +2461,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xbaab46e28388d2779e6e31fd00cf0e5ad95e327b",
@@ -2483,7 +2472,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xef4229c8c3250c675f21bcefa42f58efbff6002a",
@@ -2494,557 +2483,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x0000028989b636b15f5e164e039814ff61000000",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing32",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x00000952c5165e391ed0f8adffcfaf45f3b80000",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing35",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x00000cad74214b2771b692b1065f9d0ad7b00000",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing31",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x000037bb05b2cef17c6469f4bcdb198826ce0000",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing8",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x0000b96d1aca0c7d555deae4da6d9d5813e60000",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing33",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x02900c6c5af5dbeb72f68953e43c5a680526a7cf",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326907",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x0e4dc395f0eca7343ef09d38e4094186f414c4c6",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326905",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x17d0db639e8327c1b2c0c2a56296d3c27cec04b6",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326901",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x21ada1b8c78618462f37cd85d9efbdcfc2d30ca7",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326888",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x2412f5c6ae262883532b11dd14a6f70699680000",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing13",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x49bff7b0afd697b50c9c7ba052dbfdaf73dcee25",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326895",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x4d3143a1259d673ab1aabcfd5d3825f362e5591f",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326904",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x50cb1a8fd27159686430c4e41ecc77d2179d32c0",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing9",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x51337a2976ce010f9c0e26824d693070fd41965e",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326894",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x52ee621b5e655acc44ed627d86ed8e4e845d4836",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing11",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x53bd0f81d7c55f956c296463869a8c194f251eb6",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326899",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x550f1d55d916f436af392bcfad6ff5f4c552da61",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing43",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x551defe7960ea6765ecc9607881d912ff24b411e",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326890",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x55add48de24a4196b2fa1d123615c3845d29f430",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326903",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x5d665cb46034a0062b6243129b936472c2eb4bdd",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326906",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x618179a86b30adeffdda7020aa7018ac79f97132",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing7",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x658729879fca881d9526480b82ae00efc54b5c2d",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing10",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x6623504cf198731bcf392945e541ef458652a655",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing44",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x6734a9f000af1901f50010429e83b91285c26c9b",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326880",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x6ff09449d47f9aef3aa60ef7268902e5ba3a6d99",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing41",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x72bee46e2bcd6858ff79bd36b9b162e2a0c49cef",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326889",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x7cd585c5085cd3f20d824bb1b405c64e6f92d26e",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing40",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x7dc366cfa3938b784dc9a04eaae220e82ce4bad5",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing36",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x82242f63946c6198ec5bdf765bb013995195a586",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing6",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x8498b65a60e3b60ba0ea46d64f4ed9d5712f2a36",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326898",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x8a70da171375b6bca2ecdbd30eb2e18a1d110d2b",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326886",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0x8ca78d965010fb97a93acdd6c68cbc79dc2b49ee",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326881",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xa98d7fd3989664c74287478d568c2f3de847b8b0",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326902",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xb0ceba22c067da08204f037e5803acf029a93f73",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326884",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xb6423a5db1c026398b6b10f56ba7cce825cbb6ca",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing38",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xb6657c3696e58fea337e03cf0ad12a8f85ebe42e",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326897",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xb8f65533ed37be60ba66ee448507747a90562b43",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326892",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xbef60a0acd473764521c4c43b70215aa42d2ae58",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing34",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xc08f39748a0c25fc32dd2265ccb49c35a4e133f1",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing39",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xc2813b6d55854d5f2de71566ca5fdf137a353be1",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing37",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xc30a9e71148a8ebabb8f098e07f09f756e87a573",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326882",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xc36503d4726c5a249ba70ae96cbb9a50a9eb373b",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326887",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xc7eba76fdd2ad2e1b514ff9b5b9bdb0dcf35fd31",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326885",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xcfdb6d56ea8978f9a2f68e0875f1b6d58334b675",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326893",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xd8e0f2c074086fdc0a84f13ae6b2190889c08f43",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing42",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xe10d606a668a53277b73c4e0e98dc5030dac50ee",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326900",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xe2e59e9a07d6350816dffb3d19c15122fc4d70a8",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326891",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xf129b5ab40e8cc8f86b2ca73292e6d26da23902e",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326896",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xf6d7a91774ac81af5b18c11b73806e4d559216ae",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing30",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
-  },
-  {
-    "address": "0xfaded7b762841b44f244ce93f7613757d261f8f5",
-    "network": "celo",
-    "entity": "phish-hack",
-    "label": "Fake_Phishing326883",
-    "category": "entity",
-    "source": "eth-labels",
-    "source_url": "https://github.com/dawsbot/eth-labels",
-    "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1d511366feb1ed330925b2d51645bb5c607ea6d4",
@@ -3055,7 +2494,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1e554ac038114c0a69834be928fb95e5aaf18950",
@@ -3066,7 +2505,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x47b2db6af05a55d42ed0f3731735f9479abf0673",
@@ -3077,7 +2516,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5282f82f82e9a74e186b8ee18cc76808b78dc383",
@@ -3088,7 +2527,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xab0c16bbd78d6b9f4503d81d859a3ffb64486f9a",
@@ -3099,7 +2538,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xacf0e11ff39ead797475a1694fcca94a0e94784f",
@@ -3110,7 +2549,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xddaa60b6d803674bbc434f1c2b261ceb67c2fd7c",
@@ -3121,7 +2560,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3d451dd723797b3de938c5b22412032b6452591a",
@@ -3132,7 +2571,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xcdd88f80ed52afec9d670f5a6da8940eee716f45",
@@ -3143,7 +2582,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1aef9bf15de73adba318fc8aea3d2f45d120cc8a",
@@ -3154,7 +2593,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8493bd3de67ac341d4cc11531f96a1a2cdbf29ad",
@@ -3165,7 +2604,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa09a2832aaea7bd486c03a8e8ef38bdcf6a69060",
@@ -3176,7 +2615,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4a34787893c8e26411be77259fe7fa184d471d9a",
@@ -3187,7 +2626,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4e3c453b4897451e6f84c6869f533ca04250259a",
@@ -3198,7 +2637,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xacdf897493a6000dbe256791e8a2becbb405fd4f",
@@ -3209,7 +2648,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc2023e0d13f53d181f29b99d829cd75628337d15",
@@ -3220,7 +2659,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x602b65795bcc64b2fb329ac004236e194f077158",
@@ -3231,7 +2670,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb29438f402da218180bba79fbc0fadd3e9e151aa",
@@ -3242,7 +2681,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3753096ad5e8e390c05324b9ca2b1856a3182b48",
@@ -3253,7 +2692,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xbe505db3e26655cd0a5488f396e391bfa523bea4",
@@ -3264,7 +2703,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4d5a51039ea45063d4b665b21755db20a738dadc",
@@ -3275,7 +2714,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0b04c6ca6f2ea2c57d51c28bb3e82b0c9b4072eb",
@@ -3286,7 +2725,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x48ac52662cbf32f8fc0cd8c1122c7560b482c2ad",
@@ -3297,7 +2736,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb35be22bccb0db9dc62967dcf15feb97c20f854e",
@@ -3308,7 +2747,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3fef91a3422f4da394c08f115632d3e075d0effd",
@@ -3319,7 +2758,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x54d0d2e0f1cc1d7fb21e2350f14d79a1237605d1",
@@ -3330,7 +2769,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe92b7ba8497486e94bb59c51f595b590c4a5f894",
@@ -3341,7 +2780,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3dcf2ed8dc84a63ffd2bfdc3cdb2fa0b1aeafe5c",
@@ -3352,7 +2791,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5f2e4e239bcd86e1cf97538ea7d5e2ec639a3bc4",
@@ -3363,7 +2802,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x36fa3e9c6b3b7d0c8b92e8224ea3c6466b9cedba",
@@ -3374,7 +2813,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe7f49fc3ebcb92b3c9bdaa859fc7f8fc84eadd70",
@@ -3385,7 +2824,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x23f4877174ff3849a14a591a928dacf98375288e",
@@ -3396,7 +2835,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x82f8bcf96f24ba60ef041d192c7ce04c907e2fb8",
@@ -3407,7 +2846,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd5fb8a8e6e81bc77d7d807c05b5b8aeae7c2a458",
@@ -3418,7 +2857,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x35a5a989151683215ec36898bb4497f524556b69",
@@ -3429,7 +2868,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4a8fa59c7e41204445b756e521a591a75e57528c",
@@ -3440,7 +2879,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x81383e7c8801b102f742f4f5a5fad06867212b05",
@@ -3451,7 +2890,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa61486fc99f22e5640c2d28db78a721705bd4158",
@@ -3462,7 +2901,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb6a0db24dd1a20183584cde5dd883f4bb3ae068c",
@@ -3473,7 +2912,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdfbf9cc8dbc04b9c07f292bb9147c14ddf4152b7",
@@ -3484,7 +2923,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x98c62d86634bb0e3f818efc550e2f33369eae7f3",
@@ -3495,7 +2934,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf87a83a0fb9118102b7fe2f19b7940de3d421932",
@@ -3506,7 +2945,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8a12cab622b8093208931fa008d12d6ba5af47e4",
@@ -3517,7 +2956,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x92aae14a531086a665daff6eedb5b71e00acc6d1",
@@ -3528,7 +2967,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdd8067c6bb86c0f755188362c7089c1acd42b60d",
@@ -3539,7 +2978,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0c7610f8f4da332c77c9800012009ccfa48f23e4",
@@ -3550,7 +2989,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0e912990472bfe5948b5b7333ecf528d5da887cf",
@@ -3561,7 +3000,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0339df3fe4f5ccc864eae8491e5c8aec4611a631",
@@ -3572,7 +3011,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x44a7af700aca1b24ecdb818df4d202772d606cb4",
@@ -3583,7 +3022,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x81ae1c73a326325216e25ff1af9ea3871195036e",
@@ -3594,7 +3033,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00400fcbf0816bebb94654259de7273f4a05c762",
@@ -3605,7 +3044,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
@@ -3616,7 +3055,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x035ee610693a29cb77fd6efbeb9d9d278703e145",
@@ -3627,7 +3066,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x03943c3ef00d92e130185cebc0bcc435def2cc94",
@@ -3638,7 +3077,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x17700282592d6917f6a73d0bf8accf4d578c131e",
@@ -3649,7 +3088,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
@@ -3660,7 +3099,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x20677d4f3d0f08e735ab512393524a3cfceb250c",
@@ -3671,7 +3110,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x27cd006548df7c8c8e9fdc4a67fa05c2e3ca5cf9",
@@ -3682,7 +3121,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2aa5d15eb36e5960d056e8fea6e7bb3e2a06a351",
@@ -3693,7 +3132,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x32a9fe697a32135bfd313a6ac28792dae4d9979d",
@@ -3704,7 +3143,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3a5024e3aab31a1d3184127b52b0e4b4e9adcc34",
@@ -3715,7 +3154,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x452ef5a4bd00796e62e5e5758548e0da6e8ccdf3",
@@ -3726,7 +3165,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",
@@ -3737,7 +3176,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
@@ -3748,7 +3187,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e",
@@ -3759,7 +3198,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5927fd244e11db1c7b1215619144d2aabac80a4f",
@@ -3770,7 +3209,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7037f7296b2fc7908de7b57a89efaa8319f0c500",
@@ -3781,7 +3220,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
@@ -3792,7 +3231,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe",
@@ -3803,7 +3242,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x774b29bf6017bb36e7b7595e8dfde19de6d4c583",
@@ -3814,7 +3253,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7d00cd74ff385c955ea3d79e47bf06bd7386387d",
@@ -3825,7 +3264,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8427bd503dd3169ccc9aff7326c15258bc305478",
@@ -3836,7 +3275,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x89718f712da063bac92cac3468f109db852b05ff",
@@ -3847,7 +3286,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x918146359264c492bd6934071c6bd31c854edbc3",
@@ -3858,7 +3297,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x94140c2ea9d208d8476ca4e3045254169791c59e",
@@ -3869,7 +3308,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9802d866fde4563d088a6619f7cef82c0b991a55",
@@ -3880,7 +3319,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9995cc8f20db5896943afc8ee0ba463259c931ed",
@@ -3891,7 +3330,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x9dbed7f3985ec07a45d13d369907f3716f7f3dea",
@@ -3902,7 +3341,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xa86d2b5574824b767d9af2a074fb4a312b0fbf18",
@@ -3913,7 +3352,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xae978582de8ca83a53eb1d8f879ba854895f96b1",
@@ -3924,7 +3363,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
@@ -3935,7 +3374,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xbabeaa76ba5d05037cfc7004e18e3eb65db1bb28",
@@ -3946,7 +3385,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc668583dcbdc9ae6fa3ce46462758188adfdfc24",
@@ -3957,7 +3396,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc931f61b1534eb21d8c11b24f3f5ab2471d4ab50",
@@ -3968,7 +3407,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xcb7bbe3825f41e9d16277245515804caed9ad476",
@@ -3979,7 +3418,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9",
@@ -3990,7 +3429,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd629eb00deced2a080b7ec630ef6ac117e614f1b",
@@ -4001,7 +3440,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xde093684c796204224bc081f937aa059d903c52a",
@@ -4012,7 +3451,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe273ad7ee11dcfaa87383ad5977ee1504ac07568",
@@ -4023,7 +3462,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee",
@@ -4034,7 +3473,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
@@ -4045,7 +3484,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xee9801669c6138e84bd50deb500827b776777d28",
@@ -4056,7 +3495,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
@@ -4067,7 +3506,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xf9d922c055a3f1759299467dafafdf43be844f7a",
@@ -4078,7 +3517,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x067e453918f2c44d937b05a7ee9dbfb804c54add",
@@ -4089,7 +3528,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x00a9e8869e40e038d0fae63d825a732e6fff48d1",
@@ -4100,7 +3539,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x07adf41f00dd7ec9c63c445f3fad5ccbdc2a7c85",
@@ -4111,7 +3550,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0f412760759a2fad4f07cee36bfdaa218814de89",
@@ -4122,7 +3561,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1b4a54049a8652c4c3e62c8c6959f06280acfc6c",
@@ -4133,7 +3572,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1dd301feaa72f4c07b3ca56ce0c27e98e66b77bd",
@@ -4144,7 +3583,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x206296befffb68fce658535d443c732892162005",
@@ -4155,7 +3594,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x233c06edc757003ca4ec078012f517f21a24c55c",
@@ -4166,7 +3605,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x29c9ca0186650063ba6fcac3a952613b11d6bc36",
@@ -4177,7 +3616,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x474df04481f778b46fc71204c72b6a8be396f0ff",
@@ -4188,7 +3627,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4d540ec31f9cc5b1d10a329eb4eddf52cb3dc000",
@@ -4199,7 +3638,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4e957bbc61afdab63263ffdbaf201f6f596e3e2d",
@@ -4210,7 +3649,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x580f29ab04b7ed4e5aa86584d38c9317d9cf0358",
@@ -4221,7 +3660,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5c886da5e3b0e63f979633bdeb2a17be49f2e829",
@@ -4232,7 +3671,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x6ac7e3d0bdeb78ddcf3d9b15208b50c08271c213",
@@ -4243,7 +3682,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x77ecf3c7ac7082344edfee10e41edb72fa3d1951",
@@ -4254,7 +3693,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7b3859147b1c173fff7182e58a4ec81c1d287224",
@@ -4265,7 +3704,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x943e9a5c750adcc467575f4fe81bf6b1c3a2aed7",
@@ -4276,7 +3715,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x989f3f2684f96b8cdec308b4e7538a5a062890f0",
@@ -4287,7 +3726,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb5fd5db8db85c4197251e37528dd2fc77e7ab372",
@@ -4298,7 +3737,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xbbc724bdf633287e8bc18ac45800e2ed13877a73",
@@ -4309,7 +3748,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xcc5dbdf5c397d69dfc28da44f690492942c2910a",
@@ -4320,7 +3759,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd018838832f6112de72ee6cc9967c56b333a0d1c",
@@ -4331,7 +3770,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xddbca691842fd452d8f53575fdfdc2314eb3ad57",
@@ -4342,7 +3781,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe51662a4448cc9994df7b28e4f0b38d678958b0d",
@@ -4353,7 +3792,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe8302a78c4eb56ac1cd1d6aee25719dc54c63e59",
@@ -4364,7 +3803,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xfaa0b40645ee5e8d9ae38393e8cdf8e5baa71d13",
@@ -4375,7 +3814,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xfe38631e7e164d20754387f7165b9c5b427da17b",
@@ -4386,7 +3825,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb33e9e01e561a1da60f7cb42508500e571afb6eb",
@@ -4397,7 +3836,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x061e9958028dcaa66fd8b255ad95194203b6c4da",
@@ -4408,7 +3847,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x07fa1874ad4655ad0c763a7876503509be11e29e",
@@ -4419,7 +3858,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x15ed3f6b79f5fb9ef1d99d37314dd626b3005f0b",
@@ -4430,7 +3869,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2af540161cbeb58fdc99b159c76e390598860510",
@@ -4441,7 +3880,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2fd49e97262d505fd76bb6e0e06ec10e1fd54589",
@@ -4452,7 +3891,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x44127722c6846f1da65c3806a86a8d85bf2a6db8",
@@ -4463,7 +3902,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5fb99f456b18a5f8853e143e4fc32529a438c7f2",
@@ -4474,7 +3913,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x70fc0b021dfdbb9a106d1ed8f35f59d3f23ecb7b",
@@ -4485,7 +3924,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x71dcc67baeecd9308e341359f70b782d9c3565b8",
@@ -4496,7 +3935,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7c75b0b81a54359e9dccda9cb663ca2e3de6b710",
@@ -4507,7 +3946,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8eb004dad9397b8f23e1279905c584920000756d",
@@ -4518,7 +3957,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb1dae25904f8ee7183ebef89459922215218b3bf",
@@ -4529,7 +3968,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xb87f2354e34b26ba6406ac60ea99dcd8cd5e63bf",
@@ -4540,7 +3979,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc24baeac0fd189637112b7e33d22fff2730af993",
@@ -4551,7 +3990,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc64df5be250264bf2888591d87cdeb13bfadc501",
@@ -4562,7 +4001,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc8a81d473992c7c6d3f469a8263f24914625709d",
@@ -4573,7 +4012,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd25c6a9fef4744e8d4f90bf6bdfaf7686909d799",
@@ -4584,7 +4023,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xd72ed2e3db984bac3bb351fe652200de527effcf",
@@ -4595,7 +4034,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe141831c2c1198d79b9ff61cd97c3baca7f071e0",
@@ -4606,7 +4045,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xee6c0fa803099837690d440b3108d03763ab7550",
@@ -4617,7 +4056,29 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xECfa1357a76499FF04C8306a869d518f2dD6297f",
+    "network": "celo",
+    "entity": "Flipster",
+    "label": "Flipster (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xfc89c020774524c9d03bd5de48fec149b10bdec3",
+    "network": "celo",
+    "entity": "Gate US",
+    "label": "Gate US (proof-of-reserves)",
+    "category": "exchange",
+    "source": "defillama-cex",
+    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
+    "confidence": "high",
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe",
@@ -4628,7 +4089,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c",
@@ -4639,7 +4100,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x6596da8b65995d5feacff8c2936f0b7a2051b0d0",
@@ -4650,7 +4111,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x85faa6c1f2450b9caea300838981c2e6e120c35c",
@@ -4661,7 +4122,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071",
@@ -4672,7 +4133,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xffeb0f61871acdb4838dfc6d5082f063e738e421",
@@ -4683,7 +4144,7 @@
     "source": "defillama-cex",
     "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
     "confidence": "high",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0b73f67a49273fc4b9a65dbd25d7d0918e734e63",
@@ -4694,7 +4155,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0cd76cd43992c665fdc2d8ac91b935ca3165e782",
@@ -4705,7 +4166,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x0e55c54249f25f70d519b7fb1c20e3331e7ba76d",
@@ -4716,7 +4177,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1151314c646ce4e0efd76d1af4760ae66a9fe30f",
@@ -4727,7 +4188,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x14d06788090769f669427b6aea1c0240d2321f34",
@@ -4738,7 +4199,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1b29dd8ff0eb3240238bf97cafd6edea05d5ba82",
@@ -4749,7 +4210,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x1b8766d041567eed306940c587e21c06ab968663",
@@ -4760,7 +4221,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x28140cb1ac771d4add91ee23788e50249c10263d",
@@ -4771,7 +4232,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2903cadbe271e057edef157340b52a5898d7424f",
@@ -4782,7 +4243,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x2ee3b2df6534abc759ffe994f7b8dcdfaa02cd31",
@@ -4793,7 +4254,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x30a2ebf10f34c6c4874b0bdd5740690fd2f3b70c",
@@ -4804,7 +4265,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x36928500bc1dcd7af6a2b4008875cc336b927d57",
@@ -4815,7 +4276,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x36a85757645e8e8aec062a1dee289c7d615901ca",
@@ -4826,7 +4287,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x3f7e77b627676763997344a1ad71acb765fc8ac5",
@@ -4837,7 +4298,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x482f02e8bc15b5eabc52c6497b425b3ca3c821e8",
@@ -4848,7 +4309,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x4fdd5eb2fb260149a3903859043e962ab89d8ed4",
@@ -4859,7 +4320,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x53b36141490c419fa27ecabfeb8be1ecadc82431",
@@ -4870,7 +4331,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x59448fe20378357f206880c58068f095ae63d5a5",
@@ -4881,7 +4342,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5a710a3cdf2af218740384c52a10852d8870626a",
@@ -4892,7 +4353,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x5dbdebcae07cc958ba5290ff9deaae554e29e7b4",
@@ -4903,7 +4364,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x69c6dcc8f83b196605fa1076897af0e7e2b6b044",
@@ -4914,7 +4375,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7180eb39a6264938fdb3effd7341c4727c382153",
@@ -4925,7 +4386,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x742d35cc6634c0532925a3b844bc454e4438f44e",
@@ -4936,7 +4397,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec",
@@ -4947,7 +4408,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x7727e5113d1d161373623e5f49fd568b4f543a9e",
@@ -4958,7 +4419,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8103683202aa8da10536036edef04cdd865c225e",
@@ -4969,7 +4430,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x876eabf441b2ee5b5b0554fd502a8e0600950cfa",
@@ -4980,7 +4441,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0x8d5a41e85f4ce2433beef476305d307b9205d98d",
@@ -4991,7 +4452,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xab7c74abc0c4d48d1bdad5dcb26153fc8780f83e",
@@ -5002,7 +4463,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc236c3ec83351b07f148afbadc252cce2c07972e",
@@ -5013,7 +4474,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc56fefd1028b0534bfadcdb580d3519b5586246e",
@@ -5024,7 +4485,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc61b9bb3a7a0767e3179713f3a5c7a9aedce193c",
@@ -5035,7 +4496,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828",
@@ -5046,7 +4507,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xcafb10ee663f465f9d10588ac44ed20ed608c11e",
@@ -5057,7 +4518,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xdcd0272462140d0a3ced6c4bf970c7641f08cd2c",
@@ -5068,7 +4529,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe1f3c653248de6894d683cb2f10de7ca2253046f",
@@ -5079,7 +4540,7 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
   },
   {
     "address": "0xe92d1a43df510f82c66382592a047d288f85226f",
@@ -5090,6 +4551,567 @@
     "source": "eth-labels",
     "source_url": "https://github.com/dawsbot/eth-labels",
     "confidence": "medium",
-    "last_updated": "2026-07-17"
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x95b5579b323ddc6cd290bd4da6e56ba019588efc",
+    "network": "celo",
+    "entity": "Moola Market Exploiter",
+    "label": "Moola Market Exploiter",
+    "category": "hack",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x658729879fca881d9526480b82ae00efc54b5c2d",
+    "network": "celo",
+    "entity": "Fake_Phishing10",
+    "label": "Fake_Phishing10",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x52ee621b5e655acc44ed627d86ed8e4e845d4836",
+    "network": "celo",
+    "entity": "Fake_Phishing11",
+    "label": "Fake_Phishing11",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x2412f5c6ae262883532b11dd14a6f70699680000",
+    "network": "celo",
+    "entity": "Fake_Phishing13",
+    "label": "Fake_Phishing13",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xf6d7a91774ac81af5b18c11b73806e4d559216ae",
+    "network": "celo",
+    "entity": "Fake_Phishing30",
+    "label": "Fake_Phishing30",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x00000cad74214b2771b692b1065f9d0ad7b00000",
+    "network": "celo",
+    "entity": "Fake_Phishing31",
+    "label": "Fake_Phishing31",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x0000028989b636b15f5e164e039814ff61000000",
+    "network": "celo",
+    "entity": "Fake_Phishing32",
+    "label": "Fake_Phishing32",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x6734a9f000af1901f50010429e83b91285c26c9b",
+    "network": "celo",
+    "entity": "Fake_Phishing326880",
+    "label": "Fake_Phishing326880",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x8ca78d965010fb97a93acdd6c68cbc79dc2b49ee",
+    "network": "celo",
+    "entity": "Fake_Phishing326881",
+    "label": "Fake_Phishing326881",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xc30a9e71148a8ebabb8f098e07f09f756e87a573",
+    "network": "celo",
+    "entity": "Fake_Phishing326882",
+    "label": "Fake_Phishing326882",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xfaded7b762841b44f244ce93f7613757d261f8f5",
+    "network": "celo",
+    "entity": "Fake_Phishing326883",
+    "label": "Fake_Phishing326883",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xb0ceba22c067da08204f037e5803acf029a93f73",
+    "network": "celo",
+    "entity": "Fake_Phishing326884",
+    "label": "Fake_Phishing326884",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xc7eba76fdd2ad2e1b514ff9b5b9bdb0dcf35fd31",
+    "network": "celo",
+    "entity": "Fake_Phishing326885",
+    "label": "Fake_Phishing326885",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x8a70da171375b6bca2ecdbd30eb2e18a1d110d2b",
+    "network": "celo",
+    "entity": "Fake_Phishing326886",
+    "label": "Fake_Phishing326886",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xc36503d4726c5a249ba70ae96cbb9a50a9eb373b",
+    "network": "celo",
+    "entity": "Fake_Phishing326887",
+    "label": "Fake_Phishing326887",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x21ada1b8c78618462f37cd85d9efbdcfc2d30ca7",
+    "network": "celo",
+    "entity": "Fake_Phishing326888",
+    "label": "Fake_Phishing326888",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x72bee46e2bcd6858ff79bd36b9b162e2a0c49cef",
+    "network": "celo",
+    "entity": "Fake_Phishing326889",
+    "label": "Fake_Phishing326889",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x551defe7960ea6765ecc9607881d912ff24b411e",
+    "network": "celo",
+    "entity": "Fake_Phishing326890",
+    "label": "Fake_Phishing326890",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xe2e59e9a07d6350816dffb3d19c15122fc4d70a8",
+    "network": "celo",
+    "entity": "Fake_Phishing326891",
+    "label": "Fake_Phishing326891",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xb8f65533ed37be60ba66ee448507747a90562b43",
+    "network": "celo",
+    "entity": "Fake_Phishing326892",
+    "label": "Fake_Phishing326892",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xcfdb6d56ea8978f9a2f68e0875f1b6d58334b675",
+    "network": "celo",
+    "entity": "Fake_Phishing326893",
+    "label": "Fake_Phishing326893",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x51337a2976ce010f9c0e26824d693070fd41965e",
+    "network": "celo",
+    "entity": "Fake_Phishing326894",
+    "label": "Fake_Phishing326894",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x49bff7b0afd697b50c9c7ba052dbfdaf73dcee25",
+    "network": "celo",
+    "entity": "Fake_Phishing326895",
+    "label": "Fake_Phishing326895",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xf129b5ab40e8cc8f86b2ca73292e6d26da23902e",
+    "network": "celo",
+    "entity": "Fake_Phishing326896",
+    "label": "Fake_Phishing326896",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xb6657c3696e58fea337e03cf0ad12a8f85ebe42e",
+    "network": "celo",
+    "entity": "Fake_Phishing326897",
+    "label": "Fake_Phishing326897",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x8498b65a60e3b60ba0ea46d64f4ed9d5712f2a36",
+    "network": "celo",
+    "entity": "Fake_Phishing326898",
+    "label": "Fake_Phishing326898",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x53bd0f81d7c55f956c296463869a8c194f251eb6",
+    "network": "celo",
+    "entity": "Fake_Phishing326899",
+    "label": "Fake_Phishing326899",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xe10d606a668a53277b73c4e0e98dc5030dac50ee",
+    "network": "celo",
+    "entity": "Fake_Phishing326900",
+    "label": "Fake_Phishing326900",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x17d0db639e8327c1b2c0c2a56296d3c27cec04b6",
+    "network": "celo",
+    "entity": "Fake_Phishing326901",
+    "label": "Fake_Phishing326901",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xa98d7fd3989664c74287478d568c2f3de847b8b0",
+    "network": "celo",
+    "entity": "Fake_Phishing326902",
+    "label": "Fake_Phishing326902",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x55add48de24a4196b2fa1d123615c3845d29f430",
+    "network": "celo",
+    "entity": "Fake_Phishing326903",
+    "label": "Fake_Phishing326903",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x4d3143a1259d673ab1aabcfd5d3825f362e5591f",
+    "network": "celo",
+    "entity": "Fake_Phishing326904",
+    "label": "Fake_Phishing326904",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x0e4dc395f0eca7343ef09d38e4094186f414c4c6",
+    "network": "celo",
+    "entity": "Fake_Phishing326905",
+    "label": "Fake_Phishing326905",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x5d665cb46034a0062b6243129b936472c2eb4bdd",
+    "network": "celo",
+    "entity": "Fake_Phishing326906",
+    "label": "Fake_Phishing326906",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x02900c6c5af5dbeb72f68953e43c5a680526a7cf",
+    "network": "celo",
+    "entity": "Fake_Phishing326907",
+    "label": "Fake_Phishing326907",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x0000b96d1aca0c7d555deae4da6d9d5813e60000",
+    "network": "celo",
+    "entity": "Fake_Phishing33",
+    "label": "Fake_Phishing33",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xbef60a0acd473764521c4c43b70215aa42d2ae58",
+    "network": "celo",
+    "entity": "Fake_Phishing34",
+    "label": "Fake_Phishing34",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x00000952c5165e391ed0f8adffcfaf45f3b80000",
+    "network": "celo",
+    "entity": "Fake_Phishing35",
+    "label": "Fake_Phishing35",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x7dc366cfa3938b784dc9a04eaae220e82ce4bad5",
+    "network": "celo",
+    "entity": "Fake_Phishing36",
+    "label": "Fake_Phishing36",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xc2813b6d55854d5f2de71566ca5fdf137a353be1",
+    "network": "celo",
+    "entity": "Fake_Phishing37",
+    "label": "Fake_Phishing37",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xb6423a5db1c026398b6b10f56ba7cce825cbb6ca",
+    "network": "celo",
+    "entity": "Fake_Phishing38",
+    "label": "Fake_Phishing38",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xc08f39748a0c25fc32dd2265ccb49c35a4e133f1",
+    "network": "celo",
+    "entity": "Fake_Phishing39",
+    "label": "Fake_Phishing39",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x7cd585c5085cd3f20d824bb1b405c64e6f92d26e",
+    "network": "celo",
+    "entity": "Fake_Phishing40",
+    "label": "Fake_Phishing40",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x6ff09449d47f9aef3aa60ef7268902e5ba3a6d99",
+    "network": "celo",
+    "entity": "Fake_Phishing41",
+    "label": "Fake_Phishing41",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0xd8e0f2c074086fdc0a84f13ae6b2190889c08f43",
+    "network": "celo",
+    "entity": "Fake_Phishing42",
+    "label": "Fake_Phishing42",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x550f1d55d916f436af392bcfad6ff5f4c552da61",
+    "network": "celo",
+    "entity": "Fake_Phishing43",
+    "label": "Fake_Phishing43",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x6623504cf198731bcf392945e541ef458652a655",
+    "network": "celo",
+    "entity": "Fake_Phishing44",
+    "label": "Fake_Phishing44",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x82242f63946c6198ec5bdf765bb013995195a586",
+    "network": "celo",
+    "entity": "Fake_Phishing6",
+    "label": "Fake_Phishing6",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x618179a86b30adeffdda7020aa7018ac79f97132",
+    "network": "celo",
+    "entity": "Fake_Phishing7",
+    "label": "Fake_Phishing7",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x000037bb05b2cef17c6469f4bcdb198826ce0000",
+    "network": "celo",
+    "entity": "Fake_Phishing8",
+    "label": "Fake_Phishing8",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
+  },
+  {
+    "address": "0x50cb1a8fd27159686430c4e41ecc77d2179d32c0",
+    "network": "celo",
+    "entity": "Fake_Phishing9",
+    "label": "Fake_Phishing9",
+    "category": "scam",
+    "source": "eth-labels",
+    "source_url": "https://github.com/dawsbot/eth-labels",
+    "confidence": "medium",
+    "last_updated": "2026-10-01"
   }
 ]

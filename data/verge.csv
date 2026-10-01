@@ -1,2 +1,3 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated
-DFFJhnQNZf8rf67tYnesPu7MuGUpYtzv7Z,verge,OFAC SDN,OFAC sanctioned (XVG),sanctioned,ofac-sdn,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-07-17
+DPRWrAopjKfzEMne2jiLBuwyH9m1LZE5DF,verge,Bitfinex,bitfinex Verge hot wallet,exchange,graphsense,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
+DFFJhnQNZf8rf67tYnesPu7MuGUpYtzv7Z,verge,OFAC SDN,OFAC sanctioned (XVG),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-10-01

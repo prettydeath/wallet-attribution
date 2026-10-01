@@ -90,6 +90,11 @@ def tron_b58(hex20):
     return s
 
 
+def _hex(v):
+    """Etherscan writes zero as a bare "0x"."""
+    return int(v, 16) if v and v != "0x" else 0
+
+
 def _topic_addr(log):
     """Blacklist events put the address in topic1 (indexed) or in data."""
     t = log.get("topics") or []
@@ -100,20 +105,31 @@ def _topic_addr(log):
 PAGE = 1000           # max results per getLogs call (Etherscan and Blockscout)
 
 
-def etherscan_key():
-    key = os.environ.get("ETHERSCAN_API_KEY", "").strip()
+def etherscan_keys():
+    """ETHERSCAN_API_KEY may hold several comma-separated keys (rotated)."""
+    raw = os.environ.get("ETHERSCAN_API_KEY", "").strip()
     path = os.path.join(ROOT, "config", "providers.csv")
-    if not key and os.path.exists(path):
+    if not raw and os.path.exists(path):
         with open(path, encoding="utf-8") as f:
             for line in f:
                 cols = [c.strip() for c in line.split(",")]
                 if cols[0] == "etherscan" and len(cols) > 1 and cols[1]:
-                    key = cols[1]
-    return key
+                    raw = cols[1]
+    return [k.strip() for k in raw.split(",") if k.strip()]
 
 
-KEY = etherscan_key()
-LOGS_API = f"{ETHERSCAN}&apikey={KEY}&" if KEY else f"{BLOCKSCOUT}?"
+KEYS = etherscan_keys()
+KEY = bool(KEYS)
+_calls = [0]
+
+
+def _logs_api():
+    if not KEYS:
+        return f"{BLOCKSCOUT}?"
+    _calls[0] += 1
+    return f"{ETHERSCAN}&apikey={KEYS[_calls[0] % len(KEYS)]}&"
+
+
 PAUSE = 0.25 if KEY else 1.0     # Etherscan free: 5 req/s; Blockscout: ~10/window
 
 
@@ -123,7 +139,7 @@ def _logs_page(contract, topic0, frm, to):
         "module": "logs", "action": "getLogs", "fromBlock": frm,
         "toBlock": to, "address": contract, "topic0": topic0})
     for i in range(10):
-        d = get_json(LOGS_API + q)
+        d = get_json(_logs_api() + q)
         res, msg = d.get("result"), str(d.get("message") or "")
         if isinstance(res, list) and (res or d.get("status") == "1"):
             return res
@@ -149,7 +165,7 @@ def eth_logs(contract, topic0, start):
         out.extend(fresh)
         if len(res) < PAGE or not fresh:
             return out
-        frm = max(int(l["blockNumber"], 16) for l in res)
+        frm = max(_hex(l["blockNumber"]) for l in res)
         time.sleep(PAUSE)
 
 
@@ -159,7 +175,7 @@ def evm_blacklists():
         events = []
         for topic, kind in ((add_t, "add"), (rem_t, "remove")):
             for l in eth_logs(contract, topic, start):
-                events.append((int(l["blockNumber"], 16), int(l["logIndex"], 16),
+                events.append((_hex(l["blockNumber"]), _hex(l["logIndex"]),
                                kind, _topic_addr(l), l["transactionHash"]))
         current = {}
         for blk, _, kind, addr, tx in sorted(events):

@@ -88389,7 +88389,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated
 0x000000000000000000000000000000000000129f,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x00000000000000000000000000000000000012e5,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x00000000000000000000000000000000000018fe,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
-0x0000000000000000000000000000018148086009,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels,https://github.com/dawsbot/eth-labels,high,2026-10-01
+0x0000000000000000000000000000018148086009,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x0000000000000000000000000001fc24fe892306,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x0000000000000000880620000000203571704007,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x000000000cd2ea93ac6de3054ad27667ed965a81,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
@@ -88636,7 +88636,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated
 0x59d0d7c64fa4616f22f832ba56d78f6dc12b3aef,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x5aaace475669ef0be27b241ee7eceb74ea5e36b7,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x5aacd0b530b2ddcaeddce6e1316650480213f423,ethereum,USDT_blacklisted,USDT_blacklisted,frozen,graphsense+tether-blacklist,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
-0x5c27cc68fe01a3994807b60a6c81d8ba638b4ba1,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels,https://github.com/dawsbot/eth-labels,high,2026-10-01
+0x5c27cc68fe01a3994807b60a6c81d8ba638b4ba1,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x5c3cb9a9d0bc64be0bf57cd877c4f345b99b1412,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x5cb182a51c452937abecc9e81a9663efbeb425f5,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0x5d8353072bc0f62dacb7e3937d4c58a808db4d0e,ethereum,USDT_blacklisted,USDT_blacklisted,frozen,graphsense+tether-blacklist,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
@@ -88894,7 +88894,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated
 0xb5451661101c45ba4bbc89abd0b30c254a90e85a,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xb55b5dffd9d45b0563e644e47773d4f283137164,ethereum,USDT_blacklisted,USDT_blacklisted,frozen,graphsense+tether-blacklist,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
 0xb60fbba496bed5dfc3be19b90a892351b07abb2b,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
-0xb66a58e0aaa66b2ef9822c75cb577d336acb00bd,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense,https://github.com/dawsbot/eth-labels,high,2026-10-01
+0xb66a58e0aaa66b2ef9822c75cb577d336acb00bd,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xb71897709fc66eda3f6097561deace3fd83d9c8f,ethereum,USDT_blacklisted,USDT_blacklisted,frozen,graphsense+tether-blacklist,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01
 0xb78d1edfed9c93d7effd396f95997483f60b869e,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xb7944bfe170986fd6230b4c18bc7072cb485686e,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
@@ -89019,7 +89019,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated
 0xe8138a3a847a25546250046cd7c5a867c2179f94,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xe8f762f264a2d4f0c6f3b6f0b3c1926a67962b2f,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xea582df503a868b0222da3c849e836b6334e1ef4,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
-0xea7e96d744b2b5a5106902fc615bd351c645b182,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels,https://github.com/dawsbot/eth-labels,high,2026-10-01
+0xea7e96d744b2b5a5106902fc615bd351c645b182,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xea96a3c2dce9ea37a477ebbb892ee67e66e7f808,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xeb683e618156de654ed110c06a414bfa5c3c39e4,ethereum,USDT_blacklisted,blocked,frozen,eth-labels+graphsense+etherscan-labels+tether-blacklist,https://github.com/dawsbot/eth-labels,high,2026-10-01
 0xeb9478d602166d3dd9a29c7c45b1287c16ea10cc,ethereum,USDT_blacklisted,USDT_blacklisted,frozen,graphsense+tether-blacklist,https://github.com/graphsense/graphsense-tagpacks,high,2026-10-01

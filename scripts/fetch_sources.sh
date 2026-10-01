@@ -93,4 +93,8 @@ clone_or_pull forta https://github.com/forta-network/labelled-datasets.git
 # etherscan-labels (MIT) — scraped Etherscan-family label pages, 7 EVM chains
 clone_or_pull etherscanlabels https://github.com/brianleect/etherscan-labels.git
 
+# On-chain / open-API snapshots: Ransomwhere + live USDT/USDC blacklists
+# (non-fatal: a failed refresh keeps the previous snapshot)
+python3 "$ROOT/scripts/fetch_onchain.py" || python "$ROOT/scripts/fetch_onchain.py" ||   echo "  (on-chain fetch skipped)"
+
 echo "✓ sources ready in $SRC"

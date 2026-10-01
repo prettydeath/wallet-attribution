@@ -730,7 +730,48 @@ def load_etherscanlabels():
     print(f"  etherscan-labels: {n} rows"); return n
 
 
-# --- 9) API-enriched labels (produced by scripts/enrich.py) -----------------
+# --- 9) on-chain / open-API snapshots (scripts/fetch_onchain.py) ------------
+def _onchain(name):
+    path = os.path.join(SRC, "onchain", name)
+    if not os.path.exists(path):
+        print(f"  ! sources/onchain/{name} missing (run fetch_onchain.py), skipping")
+        return None
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def load_ransomwhere():
+    rows = _onchain("ransomwhere.json")
+    if rows is None:
+        return 0
+    for r in rows:
+        fam = (r.get("family") or "").strip()
+        fam = "" if fam.lower() == "unlabeled" else fam
+        add(r["address"], r.get("network") or "bitcoin", fam,
+            f"{fam} ransomware" if fam else "ransomware payment address",
+            "ransomware", "ransomwhere", "https://ransomwhe.re", "medium")
+    print(f"  ransomwhere: {len(rows)} rows"); return len(rows)
+
+
+STABLE_EXPLORER = {"ethereum": "https://etherscan.io/address/",
+                   "tron": "https://tronscan.org/#/contract/"}
+
+
+def load_stablecoin_blacklists():
+    """Addresses currently frozen by Tether / Circle, rebuilt from contract
+    events — authoritative, so confidence is high."""
+    rows = _onchain("stablecoin_blacklists.json")
+    if rows is None:
+        return 0
+    for r in rows:
+        add(r["address"], r["network"], "",
+            f"{r['token']} blacklisted by {r['issuer']}", "frozen",
+            f"{r['issuer'].lower()}-blacklist",
+            STABLE_EXPLORER.get(r["network"], "") + r["contract"], "high")
+    print(f"  stablecoin-blacklists: {len(rows)} rows"); return len(rows)
+
+
+# --- 10) API-enriched labels (produced by scripts/enrich.py) -----------------
 def load_enriched():
     path = os.path.join(ROOT, "enriched", "api_labels.jsonl")
     if not os.path.exists(path):
@@ -832,6 +873,8 @@ def main():
     load_graphsense()
     load_forta()
     load_etherscanlabels()
+    load_ransomwhere()
+    load_stablecoin_blacklists()
     load_enriched()
     stats = write_outputs()
     print(f"\n✓ {stats['total']} unique (address, network) records")

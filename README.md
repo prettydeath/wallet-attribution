@@ -1,8 +1,8 @@
 # wallet-attribution
 
-![Addresses](https://img.shields.io/badge/addresses-634%2C626-2ea44f)
+![Addresses](https://img.shields.io/badge/addresses-635%2C692-2ea44f)
 ![Networks](https://img.shields.io/badge/networks-48-1f6feb)
-![Exchange wallets](https://img.shields.io/badge/exchange%20wallets-383%2C266-e3742f)
+![Exchange wallets](https://img.shields.io/badge/exchange%20wallets-383%2C599-e3742f)
 ![Format](https://img.shields.io/badge/format-CSV%20%2B%20JSON-6f42c1)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 

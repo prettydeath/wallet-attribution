@@ -369,6 +369,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0xe141831c2c1198d79b9ff61cd97c3baca7f071e0,celo,validator-group,Validator Group: SwiftStaking,entity,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,entity,,scraped,2026-10-01
 0xee6c0fa803099837690d440b3108d03763ab7550,celo,validator-group,Validator Group: Google Cloud Web3,entity,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,entity,,scraped,2026-10-01
 0xECfa1357a76499FF04C8306a869d518f2dD6297f,celo,Flipster,Flipster (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0xdfb5ab629e29afdd1cd2604fb6926d0ce5013f41,celo,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
 0xfc89c020774524c9d03bd5de48fec149b10bdec3,celo,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0x0d0707963952f2fba59dd06f2b425ace40b492fe,celo,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,celo,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01

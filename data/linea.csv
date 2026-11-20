@@ -1,6 +1,7 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated,categories,tags,method,first_seen
 0x6cc8dcbca746a6e4fdefb98e1d0df903b107fd21,linea,Bitrue,Bitrue (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0xb0A3A2B60E969AFD26561429Aa4c1444C57E4411,linea,Bitvavo,Bitvavo (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0xdfb5ab629e29afdd1cd2604fb6926d0ce5013f41,linea,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
 0xfc89c020774524c9d03bd5de48fec149b10bdec3,linea,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0x0d0707963952f2fba59dd06f2b425ace40b492fe,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c,linea,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01

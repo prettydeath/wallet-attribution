@@ -37,7 +37,6 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0x98443b96ea4b0858fdf3219cd13e98c7a4690588,avalanche,bridged-token,Avalanche Bridge: BAT.e,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-11-20,bridge,,scraped,2026-10-01
 0x9eaac1b23d935365bd7b542fe22ceee2922f52dc,avalanche,bridged-token,Avalanche Bridge: YFI.e,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-11-20,bridge,,scraped,2026-10-01
 0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664,avalanche,bridged-token,Avalanche Bridge: USDC.e,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-11-20,bridge,,scraped,2026-10-01
-0xabc9547b534519ff73921b1fba6e672b5f58d083,avalanche,bridged-token,Avalanche Bridge: WOO.e,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-11-20,bridge,,scraped,2026-10-01
 0xbec243c995409e6520d7c41e404da5deba4b209b,avalanche,bridged-token,Avalanche Bridge: SNX.e,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-11-20,bridge,,scraped,2026-10-01
 0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437,avalanche,bridged-token,Avalanche Bridge: COMP.e,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-11-20,bridge,,scraped,2026-10-01
 0xc7198437980c041c805a1edcba50c1ce5db95118,avalanche,bridged-token,Avalanche Bridge: USDT.e,bridge,etherscan-labels,https://github.com/brianleect/etherscan-labels,medium,2026-11-20,bridge,,scraped,2026-10-01
@@ -1313,12 +1312,12 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0xe92d1a43df510f82c66382592a047d288f85226f,avalanche,Bitfinex,Bitfinex 19,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0xed9eef56e64a8e779cfae9ddedb25d11ba2b2425,avalanche,Bitfinex,Bitfinex 23,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0xf4b51b14b9ee30dc37ec970b50a486f37686e2a8,avalanche,Bitfinex,Bitfinex: Cold Storage,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,cold-wallet,scraped,2026-10-01
-0x0639556f03714a74a5feeaf5736a4a64ff70d206,avalanche,Bitget,Bitget 4,exchange,eth-labels+defillama-cex,https://github.com/dawsbot/eth-labels,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0x0639556f03714a74a5feeaf5736a4a64ff70d206,avalanche,Bitget,Bitget 4,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x092fe28430bade62c7c044b9c77d0aaa06241319,avalanche,Bitget,Bitget 28,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x0edd5b0de0fe748be331186bf0aa878f47f601db,avalanche,Bitget,Bitget 32,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x149ded7438caf5e5bfdc507a6c25436214d445e1,avalanche,Bitget,Bitget: Hot Wallet 4,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,hot-wallet,scraped,2026-10-01
 0x1a96e5da1315efcf9b75100f5757d5e8b76abb0c,avalanche,Bitget,Bitget 16,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
-0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23,avalanche,Bitget,Bitget 6,exchange,eth-labels+defillama-cex,https://github.com/dawsbot/eth-labels,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23,avalanche,Bitget,Bitget 6,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x1ae3739e17d8500f2b2d80086ed092596a116e0b,avalanche,Bitget,Bitget 7,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x1d5ba5414f2983212e03bf7725add9eb4cdb00dc,avalanche,Bitget,Bitget 19,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x2bf7494111a59bd51f731dcd4873d7d71f8feeec,avalanche,Bitget,Bitget 8,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
@@ -1330,7 +1329,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0x51971c86b04516062c1e708cdc048cb04fbe959f,avalanche,Bitget,Bitget 2,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x54a679e853281a440911f72eae0e24107e9413dc,avalanche,Bitget,Bitget 33,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x59708733fbbf64378d9293ec56b977c011a08fd2,avalanche,Bitget,Bitget 23,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
-0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,avalanche,Bitget,Bitget 5,exchange,eth-labels+defillama-cex,https://github.com/dawsbot/eth-labels,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,avalanche,Bitget,Bitget 5,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x6a3f28c47542bd5811ae37ab358d5d7e3ab84127,avalanche,Bitget,Bitget 22,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x70213959a644baa94840bbfb4129550bceceb3c2,avalanche,Bitget,Bitget 30,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x731309e453972598ea05d706c6ee6c3c21ab4d2a,avalanche,Bitget,Bitget 18,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
@@ -1345,7 +1344,6 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0xdfe4b89cf009bffa33d9bca1f19694fc2d4d943d,avalanche,Bitget,Bitget 12,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0xe2b406ec9227143a8830229eeb3eb6e24b5c60be,avalanche,Bitget,Bitget: Hot Wallet 2,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,hot-wallet,scraped,2026-10-01
 0xe6a421f24d330967a3af2f4cdb5c34067e7e4d75,avalanche,Bitget,Bitget: Hot Wallet 1,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,hot-wallet,scraped,2026-10-01
-0xe7b3b0a59b026ec1fef16561daf93672a61bafec,avalanche,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0xe80623a9d41f2f05780d9cd9cea0f797fd53062a,avalanche,Bitget,Bitget 1,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0xf646d9b7d20babe204a89235774248ba18086dae,avalanche,Bitget,Bitget: Hot Wallet 3,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,hot-wallet,scraped,2026-10-01
 0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,avalanche,Bitget,Bitget 35,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
@@ -3499,6 +3497,8 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0xc882b111a75c0c657fc507c04fbfcd2cc984f071,avalanche,Gate,Gate 5,exchange,eth-labels+defillama-cex,https://github.com/dawsbot/eth-labels,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0xd793281182a0e3e023116004778f45c29fc14f19,avalanche,Gate,Gate: Contract,exchange,eth-labels+defillama-cex,https://github.com/dawsbot/eth-labels,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0xeb01f8cdae433e7b55023ff0b2da44c4c712dce2,avalanche,Gate,Gate 7,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
+0xdfb5ab629e29afdd1cd2604fb6926d0ce5013f41,avalanche,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
+0xfc89c020774524c9d03bd5de48fec149b10bdec3,avalanche,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
 0x20ddf011b00e6f134ae10bdb73146500a69c453e,avalanche,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0x287a66c7d9cba7504e90fa638911d74c4dc6a147,avalanche,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
 0x28B3a8fb53B741A8Fd78c0fb9A6B2393d896a43d,avalanche,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
@@ -4489,6 +4489,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0x4982085c9e2f89f2ecb8131eca71afad896e89cb,avalanche,MEXC,MEXC 13,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x4b68038e910941b7438e70a3943dcc4fd543715c,avalanche,MEXC,MEXC 31,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x4e3ae00e8323558fa5cac04b152238924aa31b60,avalanche,MEXC,MEXC 15,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
+0x4e5e1abB2C69698a69A860722c29656e67cf9FE1,avalanche,MEXC,MEXC (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
 0x51e3d44172868acc60d68ca99591ce4230bc75e0,avalanche,MEXC,MEXC 8,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x576b81f0c21edbc920ad63feeeb2b0736b018a58,avalanche,MEXC,MEXC 11,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x5c30940a4544ca845272fe97c4a27f2ed2cd7b64,avalanche,MEXC,MEXC 34,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
@@ -4914,7 +4915,11 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0xfe908731af54c56dfd63948f18ce5878a3b8a1ad,avalanche,OKX,OKX 185,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0xff8a035ea6c80673f741c2265985ed976a40d390,avalanche,OKX,OKX 166,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x3d3490a4744de78c06fb761bc1e9d17f007a219c,avalanche,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0x3f03440b19d15ff2068daf68e57eb656bfd0a67e,avalanche,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
+0x5bc27f67cdfb4cf989455be1d2b3e33cd80efe53,avalanche,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
 0xb2cf3660cef92c4b394c741a1ecc29d2bd135fc6,avalanche,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0xde3c8d726e906b379a020cdb04bbe4b8f39a726f,avalanche,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
+0xef4b0d5e09fbba089671b08763e8aaec3512c365,avalanche,OKX (OKEx),OKX (OKEx) (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
 0x3b3ae790df4f312e745d270119c6052904fb6790,avalanche,OKX DEX,OKX DEX: Aggregation Router,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,router,scraped,2026-10-01
 0x46c503f0a14975d2e1d84135bba2b20270da2851,avalanche,OKX Dep,OKX Dep: 0x46C...A2851,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x47adffbed67e9bde8c2a4c28ce3533ead981ed48,avalanche,OKX Dep,OKX Dep: 0x47a...1Ed48,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
@@ -5439,6 +5444,7 @@ address,network,entity,label,category,source,source_url,confidence,last_updated,
 0xf0b8660476ea1af0f363de8816e3e7cd1c8f1fde,avalanche,WOO,WOO: Ecosystem rewards,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x0d83f81bc9f1e8252f87a4109bbf0d90171c81df,avalanche,WOO X,WOO X:  Staking Cold 1,exchange,eth-labels+defillama-cex,https://github.com/dawsbot/eth-labels,high,2026-11-20,exchange,cold-wallet;proof-of-reserves,official,2026-10-01
 0x63dfe4e34a3bfc00eb0220786238a7c6cef8ffc4,avalanche,WOO X,WOO X,exchange,eth-labels+defillama-cex,https://github.com/dawsbot/eth-labels,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01
+0xabc9547b534519ff73921b1fba6e672b5f58d083,avalanche,WOO X,WOO X (proof-of-reserves),exchange,defillama-cex+etherscan-labels,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange;bridge,proof-of-reserves,official,2026-10-01
 0xe64eb20471491956338eedc0f98242bc3ad0c91b,avalanche,WOO X,WOO X: Deployer,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,deployer,scraped,2026-10-01
 0x0389776e4d48384160cd5acde2f61ab9359e757e,avalanche,WazirX,WazirX 6,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01
 0x0e293a9e57d22f6ec575b376e3e3bd8e642fd5fc,avalanche,WazirX,WazirX 1,exchange,eth-labels,https://github.com/dawsbot/eth-labels,medium,2026-11-20,exchange,,scraped,2026-10-01

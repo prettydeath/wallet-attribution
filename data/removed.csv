@@ -1,1 +1,145 @@
 address,network,entity,label,category,source,first_seen,removed_at
+0x0639556F03714A74a5fEEaF5736a4A64fF70D206,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x14b5f559c27bc00c39f668a88471498d68d18768,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x81fb786799ebacc67abc0abaf5589aa0d7773fa0,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe7b3b0a59b026ec1fef16561daf93672a61bafec,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xf2c1a45ec2013c686c9568a4f250158c425e4373,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,arbitrum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe7b3b0a59b026ec1fef16561daf93672a61bafec,avalanche,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,base,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+13hxUsGWnJgH2vzscAUrYm7pxgWzTvez7x,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+13r8PhQ9Gk1KavpJzjc8ELjEw3kBQKLRHq,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+17vH7EX655n5L4iPAfVXPn3rVzZbrgKYBC,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+1M3Y4dgeg8zVdQ41BXTaWyFUUmc2e6fF2b,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+1McbLy27nLVzJ4ubMnFm3jxnQ3nbq2mpr2,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+1NBX1UZE3EFPTnYNkDfVhRADvVc8v6pRYu,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+1NVuvqYpZPnWSd5Fvx15dq6u39ongzxLL2,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+1QJt83Cb6S6Tm5chFwyn46XSBGYbS8unXB,bitcoin,Poloniex,Poloniex (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x0639556F03714A74a5fEEaF5736a4A64fF70D206,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x092fe28430bade62c7c044b9c77d0aaa06241319,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x1084203d70950bd7a93aef75eb32a51df2422a07,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x149ded7438caf5e5bfdc507a6c25436214d445e1,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x14b5f559c27bc00c39f668a88471498d68d18768,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x15d7619c8457e2F89ea28c720b1d7941C245d27e,bsc,NonKYC,NonKYC (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x1ff33329a8f8c1927131cbb72362b00abeea02d3,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x3a7d1a8c3a8dc9d48a68e628432198a2ead4917c,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x473ba7D925b147024Ff5F6b19eC802DbB54E8acf,bsc,NonKYC,NonKYC (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x4c1d7de286d7c20df5f2ba44b3bc706c1e03bf13,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x80097a87a7dcde470e34c10b5cceb85abf83b531,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x864a7fa57e0f8902a2de4892e925f1272edbe3fa,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x8911b8f5127eec40c14e1ad0500dc4dbd279d7a7,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x934186fd8352fa734eb0df82e8863e6449193294,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xa316c725bc8401c97d6d96f283c14b827541744e,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xac65bdf867103ae2c3a75cdd4b68f9d7178c604f,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xbcf6011192399df75a96b0a4ce47c4820853e9e5,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xc43999113f8fe724d91356c26105def1449ebdfd,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe4786cfe980ef5a6428a2fffafabf24f1fc79b64,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe7b3b0a59b026ec1fef16561daf93672a61bafec,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,bsc,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x0639556F03714A74a5fEEaF5736a4A64fF70D206,cronos,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x0635ac6675e05c7f58383493bb7d1a513cd65688,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x0edd5b0de0fe748be331186bf0aa878f47f601db,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x14b5f559c27bc00c39f668a88471498d68d18768,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x1D774ed0A7b897aAaE3526F07e487C5F9540F55D,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x255e91ab794da40d39a5aceff20d98841df873af,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x26209d9f0dc3ac0129c3fb1badabfeb9ee728c66,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x2dd64ee5ea8706097a5674154288989e3dbe3a05,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x3c2a309d9005433c1bc2c92ef1be06489e5bf258,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x4121217c238db06e942f3d87371106d30d0f8c84,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x4c1d7de286d7c20df5f2ba44b3bc706c1e03bf13,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x4d216d2682f3997f6c19420beee4530d08d0ea5f,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x54a679e853281a440911f72eae0e24107e9413dc,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x58751ce78f174b58b8f5e345244984a78524a899,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x70213959a644baa94840bbfb4129550bceceb3c2,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x80097a87a7dcde470e34c10b5cceb85abf83b531,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x8028270e06fca18e212306a7c93bfee52b440fc5,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x95ccca6d1859ae5670c2213940c96dcb2e177fcb,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x9756b4eedc434ca23dffd209c8ea01d4c95ff881,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x9a449ef3665f60af503ea5b8ef5191aeb315b809,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x9c9c8f4f33679ce7f2c46cbf8ab4feb4cf45fe46,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x9f199b93ae33c330880bdb31422fca37c6d3fb14,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xa700c091687afbfada6b84b5e02a5e672ee35597,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xaab0039de2a8dba8696ee4d42c0d1aa30d7e1059,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xac65bdf867103ae2c3a75cdd4b68f9d7178c604f,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xadfffc33cdc9970349cbcea3d73ec343d6ed116d,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xbff5092f83bd810e0926068b89633bf66eaa037b,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xd509ff5d6e530401b53cc7d3b80607824d85ff60,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xdbe46a02322e636b92296954637e1d7db9d5ed26,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe368759445438b8ec4e50bf4094e939341174e62,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe4786cfe980ef5a6428a2fffafabf24f1fc79b64,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe7b3b0a59b026ec1fef16561daf93672a61bafec,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xec96bbbe895301710a89a06546264ebb4f0cc546,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xed470553f61f23cd30ccf51ab066dc1598ed0c4f,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xf207b2f9f9417fc73cad069f7aa5ae1c6a5b428d,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,ethereum,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,fantom,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x7Ff8bbf9C8AB106db589e7863fb100525F61CCe5,hyperliquid,BloFin,BloFin (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,hyperliquid,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689,kava,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x0639556f03714a74a5feeaf5736a4a64ff70d206,klaytn,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,metis,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+c1a3dabb95b06767db2ab85ed0be86133a15bfe3a80fa017cbb83216760a8181,near,Gate.io,Gate.io (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x0639556F03714A74a5fEEaF5736a4A64fF70D206,optimism,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x14b5f559c27bc00c39f668a88471498d68d18768,optimism,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23,optimism,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,optimism,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689,optimism,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe7b3b0a59b026ec1fef16561daf93672a61bafec,optimism,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x0639556F03714A74a5fEEaF5736a4A64fF70D206,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x14b5f559c27bc00c39f668a88471498d68d18768,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x5bdf85216ec1e38d6458c870992a69e38e03f7ef,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x9b0cb31f3e9232196aeaa7cac03ea95c5a4f0e35,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xe7b3b0a59b026ec1fef16561daf93672a61bafec,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,polygon,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+SP3YDD4T7YJ07EREM250VHR9JGG5TW4HQGHC101N3,solana,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0xffa8db7b38579e6a2d14f9b347a9ace4d044cd54,sonic,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TAa8e7U7seCy7NcZ52xYVQXXybFfwvsUxz,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TBM2FK4KBEEsMVYjm4WAW2Q8Es2NKdmUB8,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TBXEdr2pD1tszUNAkVX18K7nie1MptkZ1y,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TBytnmJqL47n8bAP2NgPWfboXCwEUfEayv,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TCfjHzdetvFQGXn5546GRLeVfV2iGrkmEd,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TCvfZC9h6fFXnF7KbHPgY4jgfen93VkfVW,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TDLcRL3ExZPiCsBQbDcfppdsGCULY4Zh3Q,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TDkvMXb9Vjq6NY9jucp77kc7DCrVCqMAZu,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TEJbrZ4SwsKxyztPLkhfPkapHoPjyQ35eJ,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TENe3DWCHz35tpKidzSengythVUipgDBF6,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TEcfJG8eeXHwxrid3Rq3iFdQPaPSmJxwj4,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TFLqQn2YJkgJL63nN8mNiEwBLnWbSAPix6,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TFaBenDV4zrAAvPQpW5gX95m3YkPSTwCzR,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TFhtzyJm9pXhJXD6PU8bDU5J1uCSHWJZMA,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TGJagVsVg9QSePG5GreotgdefgaXPRo8SH,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TGZ959FTLRk8droUqDNgLxML1X9mEVej8q,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TGp7SNzjrctsWNwaFFN2PNTh3b1Kgxdtib,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+THAenojAt5suSUgXxjXvRgUthD9b1Nke1B,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TJQ4rbmG3cwsR66xci2kaw12MayigAWFdg,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TKurFA1LqaLU6cYa7QKbYqFceT3Xf22pNT,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TLgmszPUhJimzVwEHG9cB2juTwy1NdPvQ1,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TLvmLspsvPDzuBiZNygYADRyWxrtixh3cn,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TMk5ji4vTGZG8E1RnKEYvaK6kgNobLSTtE,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TN4FeLtGNRdbvpjDg5ahTTTP1Unzr5yUiB,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TN9DMsWq8CwE9GZV4akjxUzwG93PPceuiV,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TPW1urGCAiY5vKQ9VRFgkBXpSwf8AfvVRG,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TQ4RY7KiEPur2yFdHqvBtXKxGyKPcebfkN,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TRQEGeryR96HThyU4aFDX3sPUxHEasCqwN,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TSoXDMtBgwNMou5kqr3gfoAwqu5cBBApXb,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TTX4oWgcoQ5HJjQ98k2poEgBPrMkLbJZ1c,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TTky11V7Q3ng6hkYjLs3R3YkeDB8suQ7dC,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TUrnYdmKLS8hZna5EjskLRdirLo4HG1jAx,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TVSdtELybCCa9DPDH15CMAPjeRcENAmDJZ,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TWPgq8nQH2eCDvqSZYYVPxGMt6JXZEfeDU,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TWpNmnuq6EFMRnxWQTGGf47gjkkbtYJdbm,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TXPy8wuifdCQ8rc8VLVgiUqsVioJBELs8i,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TYAdiDkvjsSPMQt8AvA8jWJrXKcjyKb5rs,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TYiQTHtgLo6KX6hYgbKLJsTbWK5hu9X5MG,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+TZ5vGSUq39kzWxonrteLreyRhBqTYJk1dM,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TZGgQ1e4tFLQ1RnoyreXXUVkT7UKYtg7DC,tron,,USDT blacklisted by Tether,frozen,tether-blacklist,2026-10-01,2026-11-20
+TZHW3PJe6VoyV8NWAaeukqWNRe3bVU7u8n,tron,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20
+0x97b9d2102a9a65a26e1ee82d59e42d1b73b68689,zksync,Bitget,Bitget (proof-of-reserves),exchange,defillama-cex,2026-10-01,2026-11-20

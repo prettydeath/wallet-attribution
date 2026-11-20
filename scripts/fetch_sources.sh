@@ -30,10 +30,10 @@ clone_or_pull mew       https://github.com/MyEtherWallet/ethereum-lists.git
 
 # OFAC sanctioned addresses — needs the auto-generated `lists` branch
 clone_or_pull ofac      https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses.git
-git -C ofac remote set-branches origin '*' 2>/dev/null || true
-git -C ofac fetch -q --depth 1 origin lists:lists 2>/dev/null || git -C ofac fetch -q origin lists 2>/dev/null || true
-git -C ofac checkout -q lists 2>/dev/null || echo "  (OFAC lists branch already checked out)"
-git -C ofac pull -q --ff-only 2>/dev/null || true
+# the `lists` branch is regenerated upstream (not fast-forwardable): fetch it
+# and move the local branch onto the fetched commit
+git -C ofac fetch -q --depth 1 origin lists
+git -C ofac checkout -q -B lists FETCH_HEAD
 
 # DefiLlama-Adapters — official proof-of-reserves wallets per exchange.
 # Huge repo: use a partial + sparse checkout of just the CEX adapters

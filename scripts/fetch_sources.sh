@@ -42,11 +42,7 @@ DL_PATHS=(
   projects/helper/bitcoin-book
   # registry of ~100 exchanges' static PoR configs + per-exchange files
   cex
-  # older per-exchange adapters still living under projects/
-  projects/binance projects/bitfinex projects/bitget projects/bitrue-cex
-  projects/bitstamp projects/coinbase-btc projects/gate-io projects/gemini
-  projects/huobi projects/kucoin projects/okex
-)
+  # per-exchange adapters under projects/ (legacy + static PoR configs)
   projects/TradeOgre projects/arkham-exchange projects/backpack
   projects/biconomy-cex projects/bigone projects/binance projects/bing-cex
   projects/bitfinex projects/bitget projects/bitkan projects/bitkub-cex
@@ -54,22 +50,20 @@ DL_PATHS=(
   projects/bitrue-cex projects/bitstamp projects/bitunix-cex projects/bitvavo
   projects/bitvenus projects/blofin-cex projects/btse projects/bybit
   projects/bydfi projects/bytedex-cex projects/cake-defi projects/cex-io
-  projects/coin8-cex projects/coindcx projects/coinex projects/coinsquare
-  projects/coinstore projects/coinw projects/crypto-com projects/deribit
-  projects/exmo projects/fastex projects/flipster projects/gate-io
-  projects/gate-us projects/gemini projects/grovex projects/hashkey
-  projects/hashkey-exchange projects/hibt projects/hotcoin projects/huobi
-  projects/indodax projects/korbit projects/kucoin projects/latoken
-  projects/lbank-exchange projects/levex projects/mexc-cex projects/nbx
-  projects/nexo-cex projects/niza projects/nonkyc projects/okcoin
+  projects/coin8-cex projects/coinbase-ada projects/coinbase-btc
+  projects/coinbase-ltc projects/coinbase-xrp projects/coindcx projects/coinex
+  projects/coinsquare projects/coinstore projects/coinw projects/crypto-com
+  projects/deribit projects/exmo projects/fastex projects/flipster
+  projects/gate-io projects/gate-us projects/gemini projects/grovex
+  projects/hashkey projects/hashkey-exchange projects/hibt projects/hotcoin
+  projects/huobi projects/indodax projects/korbit projects/kucoin
+  projects/latoken projects/lbank-exchange projects/levex projects/mexc-cex
+  projects/nbx projects/nexo-cex projects/niza projects/nonkyc projects/okcoin
   projects/okex projects/orangex-cex projects/osl projects/ourbit
   projects/p2pb2b projects/phemex projects/pionex-cex projects/poloniex-cex
   projects/probit projects/robinhood projects/sclite projects/swissborg
   projects/toobit projects/tothemoon projects/valr-cex projects/voyager
   projects/webot projects/weex-cex projects/woo-cex projects/zoomex-cex
-  # Coinbase discloses per-chain wallets in separate adapters
-  projects/coinbase-btc projects/coinbase-ltc projects/coinbase-xrp
-  projects/coinbase-ada
 )
 if [ -d dl/.git ]; then
   echo "↻ updating dl (DefiLlama-Adapters)"

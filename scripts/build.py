@@ -18,9 +18,11 @@ SRC = os.path.join(ROOT, "sources")
 OUT = os.path.join(ROOT, "data")
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-# Output schema (column order for CSV)
+# Output schema (column order for CSV). The first nine columns are the
+# original schema; the newer ones are appended so positional readers keep working.
 FIELDS = ["address", "network", "entity", "label", "category",
-          "source", "source_url", "confidence", "last_updated"]
+          "source", "source_url", "confidence", "last_updated",
+          "categories", "tags", "method", "first_seen"]
 
 # --- EVM chainId -> network -------------------------------------------------
 EVM_CHAINS = {
@@ -173,9 +175,9 @@ def categorize(entity, label):
     return "entity"
 
 
-# addr(lower) + network -> record ; later high-priority sources overwrite
+# addr(lower) + network -> {address, network, claims: [...]} (see add/finalize)
 records = {}
-# When two sources disagree, the more severe category wins (ties keep the first).
+# When sources disagree, the more severe category wins (ties keep the first).
 CATEGORY_PRIORITY = {
     "sanctioned": 9, "terrorism": 8, "ransomware": 7, "hack": 6, "scam": 5,
     "darknet": 5, "extremism": 4, "frozen": 4,
@@ -202,6 +204,8 @@ def _valid(address, network):
 
 def add(address, network, entity, label, category, source, source_url,
         confidence="medium"):
+    """Record one source's claim about an address. Claims are merged into a
+    single output record by finalize() once every source is loaded."""
     address = norm_addr(address)
     if not address or not network:
         return
@@ -211,33 +215,134 @@ def add(address, network, entity, label, category, source, source_url,
         if not network or not _valid(address, network):
             return
     key = (evm_lower(address), network)
-    rec = {
-        "address": address, "network": network, "entity": entity or "",
-        "label": label or "", "category": category or "", "source": source,
+    rec = records.get(key)
+    if rec is None:
+        rec = records[key] = {"address": address, "network": network,
+                              "claims": []}
+    rec["claims"].append({
+        "entity": entity or "", "label": label or "",
+        "category": category or "", "source": source,
         "source_url": source_url, "confidence": confidence,
+    })
+
+
+# --- merge / finalization ----------------------------------------------------
+# How a source knows what it says. `method` of a record = the strongest method
+# among the sources that back its final category.
+SOURCE_METHOD = {
+    "ofac-sdn": "official", "defillama-cex": "official",
+    "tether-blacklist": "onchain-event", "circle-blacklist": "onchain-event",
+    "graphsense": "curated", "cex-list": "curated", "forta": "curated",
+    "mew-ethereum-lists": "curated", "ransomwhere": "curated",
+    "eth-labels": "scraped", "etherscan-labels": "scraped",
+}
+METHOD_RANK = {"official": 5, "onchain-event": 4, "curated": 3, "api": 2,
+               "scraped": 1}
+
+
+def method_of(source):
+    return SOURCE_METHOD.get(source, "api")   # enrich.py providers -> api
+
+
+# Only the current OFAC SDN list may make an address `sanctioned`. Label
+# datasets keep "OFAC" tags long after a delisting (Tornado.Cash was removed
+# from the SDN list on 2025-03-21), so their sanction claims are re-categorized.
+AUTHORITATIVE_SANCTIONS = {"ofac-sdn"}
+DELISTED = (("tornado", "ofac-delisted-2025-03-21"),)
+_SANCTION_WORDS = re.compile(r"ofac[\w-]*|sanction\w*|\bsdn\b|blocked", re.I)
+
+# Tags derived from the label text of the claims behind the final category.
+TAG_RULES = (
+    ("hot-wallet", re.compile(r"hot[\s-]*wallet|\bhot\b", re.I)),
+    ("cold-wallet", re.compile(r"cold[\s-]*wallet|\bcold\b", re.I)),
+    ("deposit", re.compile(r"deposit", re.I)),
+    ("proof-of-reserves", re.compile(r"proof-of-reserves", re.I)),
+    ("deployer", re.compile(r"deployer|contract creator", re.I)),
+    ("router", re.compile(r"\brouter\b", re.I)),
+)
+FREE_TEXT_SOURCES = {"mew-ethereum-lists"}     # comments, not name tags
+CURRENT_FREEZE_SOURCES = {"tether-blacklist", "circle-blacklist"}
+
+# categories that should rarely coexist on one address -> data/conflicts.csv
+BAD_CATEGORIES = {"sanctioned", "terrorism", "ransomware", "hack", "scam",
+                  "darknet", "extremism"}
+BENIGN_CATEGORIES = {"exchange", "defi", "bridge", "service", "mining", "mev"}
+
+
+def _prio(cat):
+    return CATEGORY_PRIORITY.get(cat, 0)
+
+
+def demote_sanction(claim):
+    """Category for a non-authoritative sanction claim: re-read the label
+    without the sanction words (e.g. `Tornado.Cash: Router` -> mixer)."""
+    entity = claim["entity"]
+    if entity.lower().startswith("ofac") or entity.lower() in SLUG_CATEGORY:
+        entity = ""
+    cat = categorize(entity, _SANCTION_WORDS.sub(" ", claim["label"]))
+    return "entity" if cat == "sanctioned" else cat
+
+
+def finalize(rec, first_seen=None):
+    """Merge a record's claims into one output row.
+
+    - non-authoritative `sanctioned` claims are re-categorized (see above);
+    - the most severe category wins, ties keep the claim seen first;
+    - entity/label come from the winning claim, back-filled from the others;
+    - every category any source gave is kept in `categories` (most severe first).
+    """
+    claims = [dict(c) for c in rec["claims"]]
+    tags = set()
+    unverified = False
+    for c in claims:
+        if c["category"] == "sanctioned" and c["source"] not in AUTHORITATIVE_SANCTIONS:
+            c["category"] = demote_sanction(c)
+            unverified = True
+    best = max(claims, key=lambda c: _prio(c["category"]))   # first max wins
+    top = best["category"]
+    if unverified and top != "sanctioned":
+        tags.add("unverified-sanctions-label")
+        text = " ".join(f"{c['entity']} {c['label']}" for c in claims).lower()
+        tags.update(tag for kw, tag in DELISTED if kw in text)
+
+    def usable_entity(e):   # "OFAC Blocked" is not an owner once demoted
+        return e if top == "sanctioned" or not e.lower().startswith("ofac") else ""
+
+    entity, label = usable_entity(best["entity"]), best["label"]
+    for c in claims:
+        entity = entity or usable_entity(c["entity"])
+        label = label or c["label"]
+
+    top_claims = [c for c in claims if c["category"] == top]
+    sources = list(dict.fromkeys([c["source"] for c in top_claims]
+                                 + [c["source"] for c in claims]))
+    cats = sorted({c["category"] for c in claims if c["category"]},
+                  key=lambda x: (-_prio(x), x))
+    for c in top_claims:
+        if c["source"] in FREE_TEXT_SOURCES:
+            continue
+        tags.update(t for t, rx in TAG_RULES if rx.search(c["label"]))
+    if any(c["source"] in CURRENT_FREEZE_SOURCES for c in claims):
+        tags.add("frozen-current")
+
+    return {
+        "address": rec["address"], "network": rec["network"],
+        "entity": entity, "label": label, "category": top,
+        "source": "+".join(sources), "source_url": best["source_url"],
+        "confidence": ("high" if any(c["confidence"] == "high"
+                                     for c in top_claims) else "medium"),
         "last_updated": TODAY,
+        "categories": ";".join(cats),
+        "tags": ";".join(sorted(tags)),
+        "method": max((method_of(c["source"]) for c in top_claims),
+                      key=METHOD_RANK.get),
+        "first_seen": first_seen or TODAY,
     }
-    old = records.get(key)
-    if old is None:
-        records[key] = rec
-        return
-    # keep the record with the higher-priority category; merge missing fields
-    if CATEGORY_PRIORITY.get(category, 0) > CATEGORY_PRIORITY.get(old["category"], 0):
-        for f in ("entity", "label"):
-            if not rec[f] and old[f]:
-                rec[f] = old[f]
-        merged = list(dict.fromkeys([source] + old["source"].split("+")))
-        rec["source"] = "+".join(merged)
-        records[key] = rec
-    else:
-        if source not in old["source"].split("+"):
-            old["source"] += "+" + source
-        if category == old["category"] and confidence == "high":
-            old["confidence"] = "high"
-        if not old["entity"] and entity:
-            old["entity"] = entity
-        if not old["label"] and label:
-            old["label"] = label
+
+
+def is_conflict(row):
+    cats = set(filter(None, row["categories"].split(";")))
+    return bool(cats & BAD_CATEGORIES) and bool(cats & BENIGN_CATEGORIES)
 
 
 # --- 1) eth-labels (EVM entity/exchange/protocol) ---------------------------
@@ -822,48 +927,209 @@ def _write(name, text):
         os.remove(stale)
 
 
-def _csv_text(recs):
+def _csv_text(recs, fields=FIELDS):
     import io
     buf = io.StringIO(newline="")
-    w = csv.DictWriter(buf, fieldnames=FIELDS, lineterminator="\r\n")
+    w = csv.DictWriter(buf, fieldnames=fields, lineterminator="\r\n",
+                       extrasaction="ignore")
     w.writeheader()
     w.writerows(recs)
     return buf.getvalue()
 
 
+def _json_text(recs):
+    """A JSON array with one record per line: valid JSON, compact, and
+    line-diffable (indent=2 made ethereum.json approach the gzip limit)."""
+    if not recs:
+        return "[]\n"
+    body = ",\n".join(json.dumps({f: r.get(f, "") for f in FIELDS},
+                                 ensure_ascii=False) for r in recs)
+    return "[\n" + body + "\n]\n"
+
+
+def _read_csv(name):
+    """Read data/<name> or data/<name>.gz; [] if neither exists."""
+    import gzip
+    import io
+    plain = os.path.join(OUT, name)
+    if os.path.exists(plain):
+        with open(plain, newline="", encoding="utf-8") as f:
+            return list(csv.DictReader(f))
+    if os.path.exists(plain + ".gz"):
+        with gzip.open(plain + ".gz", "rt", newline="", encoding="utf-8") as f:
+            return list(csv.DictReader(io.StringIO(f.read())))
+    return []
+
+
+def _key(row):
+    return (evm_lower(row["address"]), row["network"])
+
+
+def load_previous():
+    """Previous build (data/_all.csv[.gz]) keyed like `records`."""
+    return {_key(r): r for r in _read_csv("_all.csv")}
+
+
+CHANGE_FIELDS = ["date", "change", "address", "network", "old_category",
+                 "new_category", "entity", "label", "source"]
+REMOVED_FIELDS = ["address", "network", "entity", "label", "category",
+                  "source", "first_seen", "removed_at"]
+CONFLICT_FIELDS = ["address", "network", "entity", "label", "category",
+                   "categories", "source", "confidence"]
+
+
+def diff_builds(prev, cur):
+    """Added / removed / category-changed rows between two builds."""
+    out = []
+    for k, r in cur.items():
+        p = prev.get(k)
+        if p is None:
+            out.append({"change": "added", "old_category": "",
+                        "new_category": r["category"], **_row_ids(r)})
+        elif p.get("category") != r["category"]:
+            out.append({"change": "category_changed",
+                        "old_category": p.get("category", ""),
+                        "new_category": r["category"], **_row_ids(r)})
+    for k, p in prev.items():
+        if k not in cur:
+            out.append({"change": "removed", "old_category": p.get("category", ""),
+                        "new_category": "", **_row_ids(p)})
+    for row in out:
+        row["date"] = TODAY
+    order = {"removed": 0, "category_changed": 1, "added": 2}
+    out.sort(key=lambda r: (order[r["change"]], r["network"], r["address"]))
+    return out
+
+
+def _row_ids(r):
+    return {f: r.get(f, "") for f in ("address", "network", "entity", "label",
+                                      "source")}
+
+
+def update_removed(changes, prev, cur):
+    """Cumulative data/removed.csv: rows that left the dataset, with the date.
+    A row that comes back is dropped from the file again."""
+    rows = {_key(r): r for r in _read_csv("removed.csv")}
+    for k in list(rows):
+        if k in cur:
+            del rows[k]
+    for ch in changes:
+        if ch["change"] != "removed":
+            continue
+        p = prev[_key(ch)]
+        rows[_key(ch)] = {**{f: p.get(f, "") for f in REMOVED_FIELDS},
+                          "first_seen": p.get("first_seen") or p.get("last_updated", ""),
+                          "removed_at": TODAY}
+    out = sorted(rows.values(), key=lambda r: (r["removed_at"], r["network"],
+                                               r["address"]))
+    _write("removed.csv", _csv_text(out, REMOVED_FIELDS))
+    return len(out)
+
+
+def update_changelog(summary):
+    """Insert/replace today's section in CHANGELOG.md (newest first)."""
+    path = os.path.join(ROOT, "CHANGELOG.md")
+    head = "# Data changelog\n\nGenerated by `scripts/build.py`; row-level detail of the latest build is in `data/changes.csv`, rows that left the dataset are in `data/removed.csv`.\n"
+    text = open(path, encoding="utf-8").read() if os.path.exists(path) else head
+    if not text.startswith("# Data changelog"):
+        text = head + "\n" + text
+    # drop an existing section for today (re-runs on the same day)
+    text = re.sub(rf"\n## {TODAY}\n.*?(?=\n## |\Z)", "", text, flags=re.S)
+    lines = [f"## {TODAY}", "",
+             f"- total records: {summary['total']}",
+             f"- added: {summary['added']}",
+             f"- removed: {summary['removed']}",
+             f"- category changed: {summary['category_changed']}"]
+    for (old, new), n in summary["transitions"]:
+        lines.append(f"  - {old} → {new}: {n}")
+    section = "\n".join(lines) + "\n"
+    i = text.find("\n## ")
+    text = (text.rstrip("\n") + "\n\n" + section) if i < 0 else (
+        text[:i + 1] + section + text[i:])
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
+
+
 def write_outputs():
     os.makedirs(OUT, exist_ok=True)
+    prev = load_previous()
+    final = {}
+    for k, rec in records.items():
+        p = prev.get(k)
+        seen = (p.get("first_seen") or p.get("last_updated")) if p else None
+        final[k] = finalize(rec, seen)
+
     by_net = defaultdict(list)
-    for rec in records.values():
+    for rec in final.values():
         by_net[rec["network"]].append(rec)
 
     combined = []
-    stats = {"generated": TODAY, "total": len(records),
+    stats = {"generated": TODAY, "total": len(final),
              "by_network": {}, "by_category": Counter(),
+             "by_method": Counter(), "by_tag": Counter(),
              "by_source": Counter()}
 
     for net, recs in sorted(by_net.items()):
         recs.sort(key=lambda r: (r["category"], r["entity"], r["address"]))
         _write(f"{net}.csv", _csv_text(recs))
-        _write(f"{net}.json", json.dumps(recs, ensure_ascii=False, indent=2))
+        _write(f"{net}.json", _json_text(recs))
         stats["by_network"][net] = len(recs)
         combined.extend(recs)
         for r in recs:
             stats["by_category"][r["category"]] += 1
+            stats["by_method"][r["method"]] += 1
             stats["by_source"][r["source"]] += 1
+            for t in filter(None, r["tags"].split(";")):
+                stats["by_tag"][t] += 1
 
     combined.sort(key=lambda r: (r["network"], r["category"], r["address"]))
     _write("_all.csv", _csv_text(combined))
-    _write("_all.json", json.dumps(combined, ensure_ascii=False, indent=2))
+    _write("_all.json", _json_text(combined))
 
-    stats["by_category"] = dict(stats["by_category"])
-    stats["by_source"] = dict(stats["by_source"])
+    conflicts = [r for r in combined if is_conflict(r)]
+    _write("conflicts.csv", _csv_text(conflicts, CONFLICT_FIELDS))
+    stats["conflicts"] = len(conflicts)
+
+    if prev:          # no baseline on a fresh checkout -> no diff
+        changes = diff_builds(prev, final)
+        if changes:   # a no-op re-run keeps the last real diff
+            _write("changes.csv", _csv_text(changes, CHANGE_FIELDS))
+            n_removed = update_removed(changes, prev, final)
+            kinds = Counter(c["change"] for c in changes)
+            transitions = Counter((c["old_category"], c["new_category"])
+                                  for c in changes
+                                  if c["change"] == "category_changed")
+            update_changelog({"total": len(final), "added": kinds["added"],
+                              "removed": kinds["removed"],
+                              "category_changed": kinds["category_changed"],
+                              "transitions": transitions.most_common(15)})
+            stats["changes"] = {"date": TODAY, **dict(kinds),
+                                "removed_total": n_removed}
+    if "changes" not in stats:
+        old = _read_json_stats().get("changes")
+        if old:
+            stats["changes"] = old
+
+    for k in ("by_category", "by_method", "by_tag", "by_source"):
+        stats[k] = dict(stats[k].most_common())
     with open(os.path.join(OUT, "stats.json"), "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
     return stats
 
 
+def _read_json_stats():
+    try:
+        with open(os.path.join(OUT, "stats.json"), encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
+
 def main():
+    import sys
+    for stream in (sys.stdout, sys.stderr):      # Windows consoles (cp1251...)
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8", errors="replace")
     print("Building attribution dataset...")
     load_ethlabels()
     load_cexlist()

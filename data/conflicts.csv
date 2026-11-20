@@ -1,0 +1,11 @@
+address,network,entity,label,category,categories,source,confidence
+1DssS2srnAra8ghUpgEHsEARswej4SMgd3,bitcoin,Flexcoin hack,Flexcoin hack,hack,hack;service,graphsense,medium
+1Ni8z1MbaF4ri8GGE67BWtLu66YnXj2BuW,bitcoin,Bter hack,Bter hack,hack,hack;exchange,graphsense,medium
+3BMEXuoRza9EimRGSHGrwPmyFNUqWFpu8t,bitcoin,binance hack,binance hack,hack,hack;exchange,graphsense,high
+3BMEXyn3rFJwGH6tTVMgC9ERz8TdDhVLuv,bitcoin,binance hack,binance hack,hack,hack;exchange,graphsense,high
+145SmDToAhtfcBQhNxfeM8hnS6CBeiRukY,bitcoin,leancy,leancy,scam,scam;service,graphsense,medium
+0xa8e31e3c38add6052a9407298faeb8fd393a6cf9,ethereum,synthetix,Fake_Phishing285411,scam,scam;defi,eth-labels+graphsense,medium
+0xbb5b03e920cf702de5a3ba9fc1445af4b3919c88,ethereum,synthetix,Fake_Phishing285490,scam,scam;defi,eth-labels+graphsense,medium
+0xdae6c79c46ab3b280ca28259000695529cbd1339,ethereum,synthetix,Fake_Phishing285423,scam,scam;defi,eth-labels+graphsense,medium
+0xdf69bc4541b86aa4c5a470b4347e730c38b2c3b2,ethereum,synthetix,Fake_Phishing285416,scam,scam;defi,eth-labels+graphsense,medium
+0xfb020ca7f4e8c4a5bbbe060f59a249c6275d2b69,ethereum,synthetix,Fake_Phishing285381,scam,scam;defi,eth-labels+graphsense,medium

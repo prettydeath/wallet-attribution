@@ -1,0 +1,38 @@
+name: release
+
+# Every data change that lands on main becomes a dated GitHub release
+# (tag vYYYY.MM.DD). With the Zenodo GitHub integration enabled, each
+# release gets its own DOI under one concept DOI.
+on:
+  push:
+    branches: [main]
+    paths: ["data/stats.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          date=$(python3 -c "import json;print(json.load(open('data/stats.json'))['generated'])")
+          tag="v${date//-/.}"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo "release $tag already exists"; exit 0
+          fi
+          total=$(python3 -c "import json;print(json.load(open('data/stats.json'))['total'])")
+          {
+            echo "Dataset build of ${date}: ${total} attributed addresses."
+            echo
+            awk -v d="## ${date}" '$0==d{f=1;next} /^## /{f=0} f' CHANGELOG.md
+            echo
+            echo "Files: per-network CSV/JSON in \`data/\`, combined \`data/_all.csv.gz\`, statistics \`data/stats.json\`."
+          } > notes.md
+          gh release create "$tag" --title "Data ${date}" --notes-file notes.md --target "$GITHUB_SHA"

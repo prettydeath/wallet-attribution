@@ -1,0 +1,27 @@
+{
+  "title": "wallet-attribution: aggregated, normalized cryptocurrency address labels",
+  "upload_type": "dataset",
+  "description": "An aggregated, normalized dataset of attributed cryptocurrency addresses (exchanges, sanctioned entities, hackers, ransomware, scams, mixers, mining pools, gambling, bridges and DeFi protocols) across 48 networks, built entirely from free, public sources and stored as plain CSV and JSON per network. Each record keeps every category its sources assign, the method behind the label (official disclosure, on-chain event, curated list, scraped label) and the date it first appeared; sanctions are verified against the current OFAC SDN list.",
+  "creators": [
+    {
+      "name": "prettydeath"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "blockchain-forensics",
+    "address-labels",
+    "attribution",
+    "aml",
+    "osint",
+    "cryptocurrency",
+    "sanctions"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/prettydeath/wallet-attribution",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

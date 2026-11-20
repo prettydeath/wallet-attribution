@@ -1,6 +1,8 @@
 # Schema
 
-Every record — in both the per-network CSV and JSON files — has the same nine fields.
+Every record — in both the per-network CSV and JSON files — has the same thirteen fields.
+The first nine are the original schema; `categories`, `tags`, `method` and `first_seen`
+were added in November 2026 and are appended at the end, so positional readers keep working.
 
 | Field          | Type   | Description                                                                 |
 |----------------|--------|-----------------------------------------------------------------------------|
@@ -13,19 +15,30 @@ Every record — in both the per-network CSV and JSON files — has the same nin
 | `source_url`   | string | Link to the upstream dataset.                                               |
 | `confidence`   | string | `high` (curated / official lists) or `medium` (scraped labels).             |
 | `last_updated` | string | ISO date the record was (re)built.                                          |
+| `categories`   | string | Every category any source gave the address, most severe first, `;`-separated (e.g. `frozen;exchange`). `category` is the first one. |
+| `tags`         | string | `;`-separated qualifiers — see *Tags* below.                                 |
+| `method`       | string | How the strongest source behind `category` knows it: `official` (OFAC list, exchange's own proof-of-reserves disclosure), `onchain-event` (stablecoin blacklist events), `curated` (GraphSense, Forta, cex-list, MEW, Ransomwhere), `api` (enrich.py providers), `scraped` (explorer label pages). |
+| `first_seen`   | string | ISO date of the first build that contained the record. Records present before the schema change carry their last build date before it (`2026-10-01`). |
 
 ## Uniqueness & merge rules
 
 The primary key is `(address, network)` — EVM addresses are lower-cased for matching.
 When the same address appears in more than one source, records are **merged**, not duplicated:
 
-- The **higher-priority (more severe) category** wins, in this order:
+- Every source's claim is kept: all categories go to `categories`.
+- The **higher-priority (more severe) category** becomes `category`, in this order:
   `sanctioned > terrorism > ransomware > hack > scam = darknet > extremism = frozen
   > exchange = mixer > gambling = mining = service = bridge > mev = defi > entity`.
   On a tie the record seen first is kept.
 - Missing `entity` / `label` fields are back-filled from the other record.
 - All contributing sources are kept in `source`, joined with `+`.
-- If a source with the same category is `high` confidence, the merged record becomes `high`.
+- If any source backing the winning category is `high` confidence, the record is `high`.
+- **Sanctions are verified.** Only the current OFAC SDN list (`ofac-sdn`) can make
+  an address `sanctioned`. A sanction label from any other dataset (Etherscan
+  "OFAC Blocked", eth-labels, GraphSense) is re-read without the sanction words —
+  `Tornado.Cash: Router` becomes `mixer` — and tagged `unverified-sanctions-label`.
+  Tornado.Cash was removed from the SDN list on 2025-03-21; its addresses also get
+  `ofac-delisted-2025-03-21`.
 - Strings that are not a valid address for their network (truncated `0x12…ab`
   scrape artefacts, page text) are dropped; an address filed under the wrong
   chain is re-routed by its format.
@@ -60,3 +73,27 @@ Labels from free-form datasets (eth-labels, etherscan-labels) are categorised by
 mixer), then the exact label-slug table `SLUG_CATEGORY`, then softer keywords
 (exchange, gambling, mining, MEV, bridge, DeFi). GraphSense tags map through
 `GS_ABUSE` (what the funds were used for — wins) and `GS_CATEGORY`.
+
+## Tags
+
+| Tag | Meaning |
+|-----|---------|
+| `hot-wallet` / `cold-wallet` / `deposit` | Wallet role named in the label. |
+| `proof-of-reserves` | Officially disclosed by the exchange (DefiLlama `cex/`). |
+| `deployer` | Deployer of a (malicious) contract. |
+| `router` | Protocol router contract. |
+| `frozen-current` | In the **current** USDT/USDC blacklist (replayed contract events). |
+| `unverified-sanctions-label` | Some dataset called it sanctioned, the current SDN list does not. |
+| `ofac-delisted-2025-03-21` | Tornado.Cash address delisted by OFAC. |
+
+Tags from free-text sources (MEW dark-list comments) are not derived.
+
+## Build artefacts
+
+| File | Content |
+|------|---------|
+| `data/stats.json` | Counts by network / category / method / tag / source, conflicts, last diff summary. |
+| `data/changes.csv` | Row-level diff of the latest build that changed something: `added`, `removed`, `category_changed` (with old/new category). |
+| `data/removed.csv` | Cumulative list of rows that left the dataset, with `first_seen` and `removed_at`; a row that comes back is dropped from it. |
+| `data/conflicts.csv` | Addresses whose sources disagree in a way worth reviewing: a "bad" category (sanctioned, terrorism, ransomware, hack, scam, darknet, extremism) together with a benign one (exchange, defi, bridge, service, mining, mev). |
+| `CHANGELOG.md` | One section per build date with the change counts. |

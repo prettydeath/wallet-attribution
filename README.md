@@ -18,17 +18,21 @@ per network.
 
 ```
 data/
-  ethereum.csv / ethereum.json      # per-network files (same nine columns)
+  ethereum.csv / ethereum.json      # per-network files (same thirteen columns)
   bsc.csv / bsc.json
   bitcoin.csv / ...
   bitcoin.csv.gz / bitcoin.json.gz  # files > 50 MB are stored gzip-compressed
   _all.csv.gz / _all.json.gz        # everything combined (gzip)
-  stats.json                        # counts by network / category / source
+  stats.json                        # counts by network / category / method / tag / source
+  changes.csv                       # row-level diff of the latest build
+  removed.csv                       # rows that left the dataset (removed_at)
+  conflicts.csv                     # addresses with contradictory categories
 scripts/
   fetch_sources.sh                  # clone/update the upstream sources
   fetch_onchain.py                  # Ransomwhere + live USDT/USDC blacklists
   build.py                          # normalize sources -> data/
   enrich.py                         # fetch labels live from provider APIs
+tests/                              # pytest for merge / categorization / outputs
 config/
   providers.csv                     # which APIs to use + your API keys
   addresses.csv                     # which addresses to look up
@@ -37,7 +41,14 @@ enriched/
 schema.md                          # field definitions & merge rules
 ```
 
-Field definitions and the merge logic are in [`schema.md`](schema.md).
+Field definitions and the merge logic are in [`schema.md`](schema.md). Each record
+keeps **every category** its sources assign (`categories`), says **how** the label is
+known (`method`: official / onchain-event / curated / api / scraped), carries role
+`tags` (hot / cold / deposit / proof-of-reserves …) and the date it was **first seen**.
+
+> **Sanctions are verified against the current OFAC SDN list.** Explorer and label
+> datasets keep "OFAC" tags after delistings; those are re-categorized and tagged
+> `unverified-sanctions-label` (e.g. Tornado.Cash, delisted 2025-03-21 → `mixer`).
 
 ## Sources (all free)
 
@@ -61,6 +72,11 @@ bash scripts/fetch_sources.sh     # pull latest upstream data into ./sources
                                   # (also runs scripts/fetch_onchain.py)
 python3 scripts/build.py          # normalize -> ./data  (needs: pip install pyyaml)
 ```
+
+A GitHub Actions workflow (`.github/workflows/refresh.yml`) does this **every
+Monday** and opens a pull request with the diff; merging it publishes a dated
+release (`vYYYY.MM.DD`). What changed between builds is in `CHANGELOG.md`,
+`data/changes.csv` and `data/removed.csv`.
 
 `fetch_sources.sh` clones on first run and `git pull`s on later runs, so a refresh
 is just re-running both commands. `sources/` is git-ignored — only the normalized
@@ -178,14 +194,26 @@ tags), other Etherscan-family scanners, Arkham, OKLink.
 
 ## How to extend it
 
-Add a `load_<source>()` function in `scripts/build.py` that calls `add(...)` with the
-nine-field schema, then list its fetch in `scripts/fetch_sources.sh`. The merge/dedup
+Add a `load_<source>()` function in `scripts/build.py` that calls `add(...)` (one
+claim per address: entity, label, category, source, url, confidence) and give the
+source a `method` in `SOURCE_METHOD`, then list its fetch in `scripts/fetch_sources.sh`. The merge/dedup
 logic handles overlaps automatically. Good candidates to add: Tronscan tag enrichment,
 Blockchair labels, a private `data/manual.csv` for your own forensic attributions.
 
 To add a **category**: give it a rank in `CATEGORY_PRIORITY`, map label slugs to it
 in `SLUG_CATEGORY` (and/or a keyword tuple in `categorize()`), and describe it in
 [`schema.md`](schema.md).
+
+## Tests
+
+```bash
+pip install pyyaml pytest
+pytest -q tests
+```
+
+## Citing
+
+See [`CITATION.cff`](CITATION.cff). Dated GitHub releases are set up for Zenodo archiving (a DOI per release under one concept DOI).
 
 ## Licensing
 

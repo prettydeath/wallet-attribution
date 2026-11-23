@@ -238,6 +238,9 @@ def save(name, rows):
 
 
 def main():
+    for stream in (sys.stdout, sys.stderr):      # Windows consoles (cp1251...)
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8", errors="replace")
     os.makedirs(OUT, exist_ok=True)
     print("Fetching on-chain / open-API attribution (ETH logs via "
           f"{'Etherscan' if KEY else 'Blockscout, keyless'})...")

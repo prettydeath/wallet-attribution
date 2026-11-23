@@ -1,13 +1,4 @@
 [
-  {
-    "address": "GCOVMLCAKVDQEUNU56KP6XJGGLNLJVI5QSCHWL6WCRNHCZI3DPSK2JZY",
-    "network": "starknet",
-    "entity": "Gate US",
-    "label": "Gate US (proof-of-reserves)",
-    "category": "exchange",
-    "source": "defillama-cex",
-    "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters",
-    "confidence": "high",
-    "last_updated": "2026-10-01"
-  }
+{"address": "GAZ6RKYG2S7PBFTEDKJFSQYDMGQVIMUMMHFIFG7VQXHQD6OM3ZGXLDEN", "network": "starknet", "entity": "Gate US", "label": "Gate US (proof-of-reserves)", "category": "exchange", "source": "defillama-cex", "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters", "confidence": "high", "last_updated": "2026-11-20", "categories": "exchange", "tags": "proof-of-reserves", "method": "official", "first_seen": "2026-11-20"},
+{"address": "GCOVMLCAKVDQEUNU56KP6XJGGLNLJVI5QSCHWL6WCRNHCZI3DPSK2JZY", "network": "starknet", "entity": "Gate US", "label": "Gate US (proof-of-reserves)", "category": "exchange", "source": "defillama-cex", "source_url": "https://github.com/DefiLlama/DefiLlama-Adapters", "confidence": "high", "last_updated": "2026-11-20", "categories": "exchange", "tags": "proof-of-reserves", "method": "official", "first_seen": "2026-10-01"}
 ]

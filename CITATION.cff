@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "wallet-attribution: aggregated, normalized cryptocurrency address labels"
+abstract: >-
+  An aggregated, normalized dataset of attributed cryptocurrency addresses
+  (exchanges, sanctioned entities, hackers, ransomware, scams, mixers, mining
+  pools, gambling, bridges and DeFi protocols) across 48 networks, built from
+  free, public sources and stored as CSV and JSON per network.
+type: dataset
+authors:
+  - alias: prettydeath
+license: MIT
+repository-code: "https://github.com/prettydeath/wallet-attribution"
+keywords:
+  - blockchain-forensics
+  - address-labels
+  - attribution
+  - aml
+  - osint
+  - cryptocurrency

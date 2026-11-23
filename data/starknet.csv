@@ -1,2 +1,3 @@
-address,network,entity,label,category,source,source_url,confidence,last_updated
-GCOVMLCAKVDQEUNU56KP6XJGGLNLJVI5QSCHWL6WCRNHCZI3DPSK2JZY,starknet,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-10-01
+address,network,entity,label,category,source,source_url,confidence,last_updated,categories,tags,method,first_seen
+GAZ6RKYG2S7PBFTEDKJFSQYDMGQVIMUMMHFIFG7VQXHQD6OM3ZGXLDEN,starknet,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-11-20
+GCOVMLCAKVDQEUNU56KP6XJGGLNLJVI5QSCHWL6WCRNHCZI3DPSK2JZY,starknet,Gate US,Gate US (proof-of-reserves),exchange,defillama-cex,https://github.com/DefiLlama/DefiLlama-Adapters,high,2026-11-20,exchange,proof-of-reserves,official,2026-10-01

@@ -1,0 +1,64 @@
+name: weekly data refresh
+
+# Re-pulls every upstream source, rebuilds data/ and opens a pull request
+# with the diff (data/changes.csv + CHANGELOG.md) for review. Nothing is
+# pushed to main without a merge.
+on:
+  schedule:
+    - cron: "0 4 * * 1"        # Mondays 04:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: data-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml pytest
+      - run: pytest -q tests
+
+      - name: Fetch upstream sources
+        env:
+          # optional repository secret; without it fetch_onchain.py falls back
+          # to the keyless (throttled) Blockscout API
+          ETHERSCAN_API_KEY: ${{ secrets.ETHERSCAN_API_KEY }}
+        run: bash scripts/fetch_sources.sh
+
+      - name: Build
+        run: python scripts/build.py
+
+      - name: Pull-request body
+        id: body
+        run: |
+          echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+          {
+            echo "text<<EOF"
+            echo "Automated weekly rebuild from upstream sources."
+            echo
+            awk '/^## /{n++} n==1' CHANGELOG.md
+            echo
+            echo "Row-level diff: \`data/changes.csv\`. Rows that left the dataset: \`data/removed.csv\`. Category conflicts to review: \`data/conflicts.csv\`."
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: data-refresh
+          delete-branch: true
+          add-paths: |
+            data/**
+            CHANGELOG.md
+          commit-message: "Data refresh"
+          title: "Data refresh ${{ steps.body.outputs.date }}"
+          body: ${{ steps.body.outputs.text }}

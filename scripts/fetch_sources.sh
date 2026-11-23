@@ -30,10 +30,10 @@ clone_or_pull mew       https://github.com/MyEtherWallet/ethereum-lists.git
 
 # OFAC sanctioned addresses — needs the auto-generated `lists` branch
 clone_or_pull ofac      https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses.git
-git -C ofac remote set-branches origin '*' 2>/dev/null || true
-git -C ofac fetch -q --depth 1 origin lists:lists 2>/dev/null || git -C ofac fetch -q origin lists 2>/dev/null || true
-git -C ofac checkout -q lists 2>/dev/null || echo "  (OFAC lists branch already checked out)"
-git -C ofac pull -q --ff-only 2>/dev/null || true
+# the `lists` branch is regenerated upstream (not fast-forwardable): fetch it
+# and move the local branch onto the fetched commit
+git -C ofac fetch -q --depth 1 origin lists
+git -C ofac checkout -q -B lists FETCH_HEAD
 
 # DefiLlama-Adapters — official proof-of-reserves wallets per exchange.
 # Huge repo: use a partial + sparse checkout of just the CEX adapters
@@ -42,11 +42,7 @@ DL_PATHS=(
   projects/helper/bitcoin-book
   # registry of ~100 exchanges' static PoR configs + per-exchange files
   cex
-  # older per-exchange adapters still living under projects/
-  projects/binance projects/bitfinex projects/bitget projects/bitrue-cex
-  projects/bitstamp projects/coinbase-btc projects/gate-io projects/gemini
-  projects/huobi projects/kucoin projects/okex
-)
+  # per-exchange adapters under projects/ (legacy + static PoR configs)
   projects/TradeOgre projects/arkham-exchange projects/backpack
   projects/biconomy-cex projects/bigone projects/binance projects/bing-cex
   projects/bitfinex projects/bitget projects/bitkan projects/bitkub-cex
@@ -54,22 +50,20 @@ DL_PATHS=(
   projects/bitrue-cex projects/bitstamp projects/bitunix-cex projects/bitvavo
   projects/bitvenus projects/blofin-cex projects/btse projects/bybit
   projects/bydfi projects/bytedex-cex projects/cake-defi projects/cex-io
-  projects/coin8-cex projects/coindcx projects/coinex projects/coinsquare
-  projects/coinstore projects/coinw projects/crypto-com projects/deribit
-  projects/exmo projects/fastex projects/flipster projects/gate-io
-  projects/gate-us projects/gemini projects/grovex projects/hashkey
-  projects/hashkey-exchange projects/hibt projects/hotcoin projects/huobi
-  projects/indodax projects/korbit projects/kucoin projects/latoken
-  projects/lbank-exchange projects/levex projects/mexc-cex projects/nbx
-  projects/nexo-cex projects/niza projects/nonkyc projects/okcoin
+  projects/coin8-cex projects/coinbase-ada projects/coinbase-btc
+  projects/coinbase-ltc projects/coinbase-xrp projects/coindcx projects/coinex
+  projects/coinsquare projects/coinstore projects/coinw projects/crypto-com
+  projects/deribit projects/exmo projects/fastex projects/flipster
+  projects/gate-io projects/gate-us projects/gemini projects/grovex
+  projects/hashkey projects/hashkey-exchange projects/hibt projects/hotcoin
+  projects/huobi projects/indodax projects/korbit projects/kucoin
+  projects/latoken projects/lbank-exchange projects/levex projects/mexc-cex
+  projects/nbx projects/nexo-cex projects/niza projects/nonkyc projects/okcoin
   projects/okex projects/orangex-cex projects/osl projects/ourbit
   projects/p2pb2b projects/phemex projects/pionex-cex projects/poloniex-cex
   projects/probit projects/robinhood projects/sclite projects/swissborg
   projects/toobit projects/tothemoon projects/valr-cex projects/voyager
   projects/webot projects/weex-cex projects/woo-cex projects/zoomex-cex
-  # Coinbase discloses per-chain wallets in separate adapters
-  projects/coinbase-btc projects/coinbase-ltc projects/coinbase-xrp
-  projects/coinbase-ada
 )
 if [ -d dl/.git ]; then
   echo "↻ updating dl (DefiLlama-Adapters)"

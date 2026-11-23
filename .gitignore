@@ -8,3 +8,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# AI agent local state (may contain secrets)
+.claude/
+.specstory/

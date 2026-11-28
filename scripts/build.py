@@ -146,18 +146,55 @@ def detect_network(addr, hint=None):
     return hint
 
 
+# `Project: TICKER`, `Project: AAA-BBB` LP pair, `Project: Old XYZ Token`: the
+# ticker is a name, not a verdict ("BSCswap: SCAM-LTC", "BurgerSwap: WASABI").
+_TOKEN_LABEL = re.compile(
+    r"^[^:]+:\s*(?:old\s+)?(?:[$A-Z0-9][$A-Z0-9.]*(?:[-/][$A-Za-z0-9.]+)?"
+    r"(?:\s+\d+)?|.+\s+token(?:\s+\d+)?)$", re.I)
+_TOKEN_TICKER = re.compile(r":\s*(?:old\s+)?[$A-Z0-9][$A-Z0-9.]*(?:[-/]|\s|$)")
+# donation / grant / charity addresses of anti-scam or privacy projects
+_BENIGN_CONTEXT = re.compile(
+    r"\b(?:donate|donations?|grants?|community fund|charity|nonprofit|"
+    r"reflexer)\b", re.I)
+
+
+def _kw(words):
+    return re.compile(r"\b(?:" + "|".join(re.escape(w) for w in words) + ")",
+                      re.I)
+
+
+_HACK_RE, _SCAM_RE, _MIXER_RE = _kw(HACK_KW), _kw(SCAM_KW), _kw(MIXER_KW)
+
+
+def is_token_label(label):
+    label = (label or "").strip()
+    if not _TOKEN_LABEL.match(label):
+        return False
+    return label.lower().rstrip("0123456789 ").endswith(" token") or bool(
+        _TOKEN_TICKER.search(label))
+
+
 def categorize(entity, label):
-    """Severe keywords first, then the slug table, then softer keyword rules."""
+    """Severe keywords first, then the slug table, then softer keyword rules.
+
+    Severe keywords (hack/scam/mixer) match on word starts only and are not
+    applied to token / LP-pair names or to donation addresses; the source's
+    own slug (`heist`, `phish-hack`, `tornado-cash`...) still decides those.
+    """
     e = (entity or "").lower()
     text = f"{e} {(label or '').lower()}"
     if e == "ofac-sanctions-lists" or "ofac" in text:
         return "sanctioned"
-    if any(k in text for k in HACK_KW):
-        return "hack"
-    if any(k in text for k in SCAM_KW):
-        return "scam"
-    if any(k in text for k in MIXER_KW):
-        return "mixer"
+    if not (is_token_label(label) or _BENIGN_CONTEXT.search(text)):
+        if _HACK_RE.search(text):
+            return "hack"
+        if _SCAM_RE.search(text):
+            return "scam"
+        if _MIXER_RE.search(text):
+            return "mixer"
+    if e == "typhoon-network" and re.search(r":\s*[\d,.]+\s+\w+\s*$",
+                                            label or ""):
+        return "mixer"          # Typhoon Network = Tornado fork on BSC
     if e in SLUG_CATEGORY:
         return SLUG_CATEGORY[e]
     if e in EXCHANGES or any(x in text for x in ("exchange:", " cex")):

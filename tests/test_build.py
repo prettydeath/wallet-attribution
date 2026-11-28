@@ -45,6 +45,35 @@ def test_categorize(entity, label, expected):
     assert build.categorize(entity, label) == expected
 
 
+@pytest.mark.parametrize("entity,label,expected", [
+    # tickers and LP pairs are names, not verdicts
+    ("bscswap", "BSCswap: SCAM-LTC", "entity"),
+    ("sushiswap", "SushiSwap: $PONZI-DAI", "defi"),
+    ("burgerswap", "BurgerSwap: WASABI", "entity"),
+    ("old-contract", "Bernie Madoff: Old PONZI Token", "entity"),
+    ("binance-pegged", "Tornado.Cash: TORN Token", "entity"),
+    # ...but the source's own slug still decides
+    ("heist", "JAC: JAC Token", "hack"),
+    # donation / grant addresses and substrings
+    ("donate", "Tornado.Cash: Donate", "entity"),
+    ("donate", "EtherScamDB: Donate", "entity"),
+    ("gitcoin-grants", "Gitcoin Grants: Tornado.cash", "entity"),
+    ("charity", "Endaoment: Vermont Hackerspaces Inc", "entity"),
+    ("gambling", "BankHeist4D", "gambling"),
+    ("reflexer-finance", "Reflexer: CoinJoin", "entity"),
+    # real ones keep working
+    ("mixer", "Tornado.Cash: 1,000 USDT", "mixer"),
+    ("tornado-cash", "Tornado.Cash: Router", "mixer"),
+    ("filament-exploit", "Filament Exploiter 48", "hack"),
+    ("phish-hack", "Inferno Drainer", "hack"),
+    ("bridged-token", "Fake_Phishing325636", "scam"),
+    ("typhoon-network", "Typhoon Network: 10 BNB", "mixer"),
+    ("typhoon-network", "Typhoon Network: Community Locked Token", "entity"),
+])
+def test_categorize_false_positives(entity, label, expected):
+    assert build.categorize(entity, label) == expected
+
+
 # --- sanctions ----------------------------------------------------------------
 
 def test_stale_ofac_label_is_demoted_and_tagged():

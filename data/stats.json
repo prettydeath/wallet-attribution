@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-28",
   "total": 635692,
   "by_network": {
     "algorand": 43,
@@ -53,17 +53,17 @@
   },
   "by_category": {
     "exchange": 383599,
-    "scam": 71098,
-    "entity": 57951,
+    "scam": 71082,
+    "entity": 57953,
     "mining": 37893,
-    "mixer": 36772,
-    "defi": 13040,
-    "frozen": 11290,
+    "mixer": 36777,
+    "defi": 13045,
+    "frozen": 11295,
     "ransomware": 11241,
     "mev": 3759,
-    "gambling": 2705,
+    "gambling": 2706,
     "bridge": 2294,
-    "hack": 1832,
+    "hack": 1830,
     "sanctioned": 1065,
     "extremism": 519,
     "service": 475,
@@ -71,8 +71,8 @@
     "darknet": 4
   },
   "by_method": {
-    "curated": 504110,
-    "scraped": 113833,
+    "curated": 504108,
+    "scraped": 113835,
     "onchain-event": 11224,
     "official": 6525
   },
@@ -97,14 +97,14 @@
     "graphsense+forta": 5317,
     "defillama-cex": 5011,
     "ransomwhere": 3729,
-    "eth-labels+graphsense+etherscan-labels": 3380,
+    "eth-labels+graphsense+etherscan-labels": 3383,
     "forta": 2099,
     "ofac-sdn+graphsense": 565,
     "circle-blacklist": 536,
     "mew-ethereum-lists+graphsense+forta": 449,
     "eth-labels+graphsense+etherscan-labels+tether-blacklist": 420,
     "ofac-sdn+graphsense+tether-blacklist": 334,
-    "eth-labels+etherscan-labels+graphsense": 325,
+    "eth-labels+etherscan-labels+graphsense": 322,
     "graphsense+eth-labels+etherscan-labels": 272,
     "mew-ethereum-lists+graphsense": 197,
     "graphsense+tether-blacklist": 171,
@@ -185,10 +185,8 @@
   },
   "conflicts": 10,
   "changes": {
-    "date": "2026-11-20",
-    "removed": 144,
-    "category_changed": 15,
-    "added": 1210,
+    "date": "2026-11-28",
+    "category_changed": 49,
     "removed_total": 144
   }
 }

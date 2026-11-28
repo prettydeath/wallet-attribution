@@ -1,2 +1,2 @@
 address,network,entity,label,category,source,source_url,confidence,last_updated,categories,tags,method,first_seen
-GPwg61XoHqQPNmAucFACuQ5H9sGCDv9TpS,bitcoin-gold,OFAC SDN,OFAC sanctioned (BTG),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-11-20,sanctioned;entity,,official,2026-10-01
+GPwg61XoHqQPNmAucFACuQ5H9sGCDv9TpS,bitcoin-gold,OFAC SDN,OFAC sanctioned (BTG),sanctioned,ofac-sdn+graphsense,https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses,high,2026-11-28,sanctioned;entity,,official,2026-10-01

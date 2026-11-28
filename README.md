@@ -177,6 +177,16 @@ tags), other Etherscan-family scanners, Arkham, OKLink.
 ## Coverage notes (honest limitations)
 
 - **EVM chains are richest** — most labels come from `eth-labels`.
+- **Scraped labels.** `eth-labels` and `etherscan-labels` are third-party MIT
+  repositories built by scraping Etherscan-family explorers (Etherscan, BscScan,
+  Polygonscan…), whose terms restrict scraping. This project does not scrape;
+  it redistributes those repositories as published and marks every such record
+  `method: scraped`. If that matters for your use, filter `method != scraped`.
+  On BSC this is ~3.2k of 3.5k records, and most of them are token / LP-pair
+  contracts (`entity`), not attributions of who owns a wallet.
+- **Token names are not verdicts.** A ticker such as `SCAM`, `PONZI` or `WASABI`
+  in a token or LP-pair label (`BSCswap: SCAM-LTC`) no longer triggers
+  `scam` / `mixer`; only the source's own slug (`heist`, `phish-hack`, …) does.
 - **Bitcoin** is now well covered (~484k addresses) thanks to GraphSense TagPacks —
   but most of its exchange tags come from address **clustering** (`confidence: medium`)
   and the dataset is largely historical (many tags date from 2013–2020).
